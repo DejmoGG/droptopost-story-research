@@ -51,6 +51,17 @@ The 2026-11-03 report used old labels: card **A1–A10 = A1-1…A1-10**, **B1–
 | 2026-11-03-A3R-7 | 2026-11-03 | A3 | Sleep ring → $11B, ring + membership | Oura | 2025 | new |
 | 2026-11-03-A3R-8 | 2026-11-03 | A3 | $200M+, ~40 staff, zero VC, lived in Discord | Midjourney, David Holz | 2023 | new |
 | 2026-11-03-A3R-9 | 2026-11-03 | A3 | One app runs a country | Kaspi.kz | 2025 | new |
+| 2026-11-03-test-A1-1 | 2026-11-03 | A1 | AI firm faked 90% of revenue, $1.4B listing | iLearningEngines, Harish Chidambaran, Farhan Naqvi | 2024–2026 | new |
+| 2026-11-03-test-A1-2 | 2026-11-03 | A1 | AI startup claimed millions, had $43K, 9 years | Metigy, David Fairfull | 2018–2026 | new |
+| 2026-11-03-test-A1-3 | 2026-11-03 | A1 | Gen-Z venture firm, $328M crypto Ponzi | Goliath Ventures, Christopher Delgado, Gen-Z Venture Firm | 2023–2026 | new |
+| 2026-11-03-test-A1-4 | 2026-11-03 | A1 | Finfluencer's 30% risk-free real-estate Ponzi | Tyler Bossetti | 2025–2026 | new |
+| 2026-11-03-test-A2-1 | 2026-11-03 | A2 | $20K + AI tools + brother → $401M telehealth | Medvi, Matthew Gallagher | 2024–2026 | new |
+| 2026-11-03-test-A2-2 | 2026-11-03 | A2 | Garage soap → reported $1.5B Unilever deal | Dr. Squatch, Jack Haldrup, Unilever, Summit Partners | 2012–2025 | new |
+| 2026-11-03-test-A2-3 | 2026-11-03 | A2 | Powder meal → ~€1B Danone deal | Huel, Julian Hearn, Danone | 2015–2026 | new |
+| 2026-11-03-test-A2-4 | 2026-11-03 | A2 | Seven siblings' grain-free tortilla → $1.2B PepsiCo | Siete Foods, Veronica Garza, Miguel Garza, PepsiCo | 2014–2025 | new |
+| 2026-11-03-test-A3-1 | 2026-11-03 | A3 | 10-minute delivery, 2,751 dark stores, profitable | Blinkit, Eternal | 2026-10 | new |
+| 2026-11-03-test-A3-2 | 2026-11-03 | A3 | Live-stream auctions → $20B | Whatnot | 2026-08 | new |
+| 2026-11-03-test-A3-3 | 2026-11-03 | A3 | Reward points for paying rent → $10.75B | Bilt Rewards, Ankur Jain | 2025-07 | new |
 
 ## Checked but not used
 | Date | Story | Why skipped |
@@ -59,3 +70,6 @@ The 2026-11-03 report used old labels: card **A1–A10 = A1-1…A1-10**, **B1–
 | 2026-11-03 | Korean study cafés | only a company market estimate |
 | 2026-11-03 | Praetorian Group $200M Bitcoin Ponzi | weaker than the ten used |
 | 2026-11-03 | Nidec founder accounting report (Oct 2026) | hard to tell as a story |
+| 2026-11-03 | Gökçe Güven (Kalder) sentencing, Oct 2026 | single paywalled source; possible UPDATE of A1-7 |
+| 2026-11-03 | Meesho zero-commission marketplace | same lesson as Vinted A3R-5 |
+| 2026-11-03 | Few and Far NFT founder | small; source unreachable |
