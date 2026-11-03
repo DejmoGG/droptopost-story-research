@@ -2,6 +2,9 @@
 
 Two research reports every morning at **07:00 Ljubljana time**, written by a Claude cloud routine on the Claude subscription. No paid AI APIs.
 
+## Story Desk (phone)
+Rate every new DropToPost story on your phone, no GitHub needed: **https://claude.ai/artifact/3ZMwN8TQ1wy24ur4NEykxM** (Run it / Spike it / Later + a reason).
+
 ## Latest
 - **Report A — Business & investment:** [2026-11-03](business-research/reports/2026-11-03.md)
 - **Report B — DropToPost audience:** [2026-11-03](droptopost-research/reports/2026-11-03.md)
