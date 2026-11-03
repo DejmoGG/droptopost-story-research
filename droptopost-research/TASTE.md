@@ -6,6 +6,30 @@ The owner's own verdicts outrank the brief's wording. Add a line for every verdi
 - **Lacy / Zauo QR-code orders (9.5), Mo's Chicken Hot Pot (9), Xibei open kitchens (9)**: all RUN on 3 Nov 2026. See round 4 below.
 - **KitKat: 413,793 bars stolen, then KitKat asked the internet to help find them** (2026-11-03-B1-1). A real crime, an absurd number, a mystery, a fresh 2026 event, entertainment first. The business response is part of the story, not a lesson bolted on.
 
+## What the approved stories share (studied 3 Nov 2026, from the owner's verdicts)
+Four benchmarks: Lacy/Zauo 9.5, Mo's Chicken 9, Xibei 9, KitKat theft (loved). Laid side by side:
+
+| Beat | Lacy / Zauo | Mo's Chicken | Xibei | KitKat |
+|---|---|---|---|---|
+| 1. Ordinary business moment | dinner at a fish restaurant | a cheap village hot-pot shop | a critic eats a meal | a truck of chocolate on the road |
+| 2. One public act, on camera or on record | the table's QR code appears on stream | the owner tells a filming influencer "don't make me famous" | the founder opens every kitchen to prove the critic wrong | the brand asks the internet to help find the bars |
+| 3. The crowd does the opposite of what was intended | viewers order ¥1.96M of food | millions come *because* he said no | visitors film what he said wasn't there | (a heist becomes a campaign) |
+| 4. Consequences escalate, with one number anyone gets | ¥1.96M | 3,000 customers a day, 180 staff | 102 restaurants closed | 413,793 bars |
+| 5. The ending recasts the beginning | the "villain" restaurant had the evidence | the man who refused fame now needs it (and it paid his debts) | the proof became the evidence against him | the victim became the advertiser |
+
+**The shared shape:** *someone did X in public to get Y, and got the opposite, and then it got bigger.* Beat 2 is always a single human decision you can film or screenshot; beat 5 changes what the first 5 seconds meant. Stories without beat 2 (a crime wave, a trend) or without beat 5 (bad review → support) are what the owner rated 5–7.
+
+**What the five separate scores show** (Claude's retrospective scoring of the owner's rated stories, /10 each: Entertainment · Narrative · Business · Evidence · Freshness):
+- Lacy/Zauo 9 · 9 · 8 · 9 · 10 → owner 9.5
+- Mo's Chicken 8 · 9 · 10 · 8 · 6 → owner 9
+- Xibei 8 · 9 · 9 · 9 · 4 → owner 9 (a 2025 story; freshness didn't stop it)
+- Starbucks Korea 7 · 7 · 8 · 8 · 6 → owner 7.5 (needs decoding)
+- Korean no-show scams 6 · 5 · 7 · 7 · 9 → owner 7 (no protagonist)
+- Banquet fraud 5 · 5 · 5 · 8 · 5 → owner 6.5
+- Oddly Correct 5 · 3 · 6 · 8 · 7 → owner 5
+
+Reading: **Entertainment and Narrative decide the owner's verdict.** Evidence is a gate (weak evidence blocks a pick), Business relevance is a tiebreaker, and Freshness helps but never rescues a flat story (the no-show scams were 1 day old and got 7; Xibei was 14 months old and got 9).
+
 ## Rated 3 Nov 2026, round 4 (owner's ratings /10): "the first batch where Claude is genuinely getting close to your taste"
 - **9.5 · Lacy / Zauo Shibuya QR-code orders** (2026-11-03-B-14), RUN: an ordinary dinner becomes a digital disaster, the restaurant is cast as the villain, then its evidence reverses the story. Fresh (28 Oct), real recorded footage, genuine chaos, a second-act reversal. Closest to a 10, if the original footage is strong.
 - **9 · Mo's Chicken Hot Pot** (B-13), RUN: starts as comedy, becomes a cautionary tale. The best twist isn't that people came; it's that he ended up needing the attention he rejected. **Best commercial fit for DropToPost**: attention creates customers, then operational problems, then a permanent need to make content.

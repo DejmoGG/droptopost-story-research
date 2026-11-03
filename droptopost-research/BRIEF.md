@@ -1,4 +1,4 @@
-# REPORT B — DropToPost stories (editorial brief, v4 · 2026-11-03)
+# REPORT B — DropToPost stories (editorial brief, v5 · 2026-11-03)
 
 **What we look for, in one sentence:**
 > A real business got into an unbelievable situation, a post, video, reply, AI or automation decided what happened next, and the result was money, customers or ruin.
@@ -7,7 +7,7 @@ Shape of every story: **unbelievable event → content moment → business outco
 The viewer watches because they can't believe it happened. The business owner watching also thinks "content decides whether a business wins or dies, and I need it." That second thought is why DropToPost exists, and the story never has to say it out loud.
 
 Run procedure, git and history format: root `CLAUDE.md`. **This brief overrides `CLAUDE.md` for Report B.**
-Before choosing anything, read **`droptopost-research/TASTE.md`** (what the owner approved and rejected, and why). It outranks your own judgement.
+Before choosing anything, read **`droptopost-research/TASTE.md`** (what the owner approved and rejected, and why). It outranks your own judgement. Its section **"What the approved stories share"** is the target shape: *someone did X in public to get Y, got the opposite, and then it got bigger.*
 
 ## The three tests (pass/fail: fail one and the story is out, no score)
 1. **The "what the fuck" test.** Would someone with zero interest in business be desperate to know what happened next? Write the opening line first. It must work **without** the words marketing, brand, campaign or strategy. If it needs context to land, it fails.
@@ -31,7 +31,7 @@ Before choosing anything, read **`droptopost-research/TASTE.md`** (what the owne
 Labels: **Breaking** (≤48 h) · **Recent** (≤7 days) · **This month** (≤30 days) · **Last 90 days** · **Unknown classic**.
 
 ## Workflow (every run, in this order)
-1. **Discover**: build a wide pool from **two channels** (below). Don't filter on "business lesson" yet: a fascinating event goes in the pool even if its business link isn't obvious.
+1. **Discover**: build a wide pool, **local news first** (see *Where the effort goes*), with the **narrative-pattern searches** below. Don't filter on "business lesson" yet: a fascinating event goes in the pool even if its business link isn't obvious; investigate the link before dropping it. And the reverse: an ordinary scandal doesn't get in just because a company is involved.
 2. **Signals**: for each pool item, record the audience numbers you can actually read (see `sources/WATCHLIST.md` → *Audience numbers*). Unknown is "not measured". Signals help you find stories; they never replace judgment. A million views doesn't make a story.
 3. **Investigate** the strongest 5–8: what happened before, what happened next, is there a turn after the turn? Chase the latest development (Mo's Chicken's October follow-up was the best part).
 4. **Verify**: dates, numbers and consequences from 2+ independent sources; local-language originals where possible.
@@ -39,6 +39,22 @@ Labels: **Breaking** (≤48 h) · **Recent** (≤7 days) · **This month** (≤3
 6. **Visual check**: find the original footage/post (see *Footage, not articles*) and propose the 2-second opener.
 
 **Discovery pool:** every run appends what it looked at to `droptopost-research/discovery/YYYY-MM-DD.md`: one line per candidate with channel, source, original link, event date, signals and status (`pool` / `investigated` / `card B-n` / `dropped: reason`). The Desk only shows cards.
+
+### Narrative-pattern searches (every run, at least 8 of the searches)
+Search for the *shape*, not the topic. These are ways to **find** stories, never templates to force a story into.
+
+| Pattern | English | Chinese | Japanese | Korean |
+|---|---|---|---|---|
+| Tried to fix it, made it worse | backfired, "made it worse", apology "sparked" | 弄巧成拙 · 适得其反 · 回应 翻车 | 逆効果 · 謝罪 炎上 | 역효과 · 해명 논란 |
+| Begged customers not to, they came more | "asked customers to stop", "please don't come" | 求别来 · 劝退 · 别再来了 | 来ないで · 来店 自粛 お願い | 오지 마세요 · 손님 자제 |
+| Set out to prove a critic wrong, proved them right | "to prove", "invited critics", "opened its kitchen" | 自证 · 开放后厨 · 打脸 | 証明 · 公開 裏目 | 증명 · 공개 역풍 |
+| An accident, crime or complaint turned into something extraordinary | stolen + "turned into", mistake + "sold out" | 将错就错 · 失误 爆火 · 被偷 营销 | ミス 逆に 売れた · 盗難 話題 | 실수 대박 · 도난 화제 |
+| Famous overnight, then the consequences | "overwhelmed", "went viral" + closed / staff / queue | 爆火之后 · 一夜爆红 后 · 网红店 关门 | バズった 閉店 · 行列 迷惑 | 대박 후 폐업 · 줄서기 민원 |
+| A clever campaign got the opposite result | "campaign" + "opposite", Streisand | 营销 翻车 · 反向 | キャンペーン 裏目 | 마케팅 역풍 |
+| A ridiculous decision that worked | "ridiculous", "joke" + "actually worked" | 离谱 · 奇葩 老板 · 反转 | まさかの · 珍対応 | 황당 · 반전 |
+| A small event, a chain reaction | "domino", "sparked", "chain reaction" | 连锁反应 · 引发 | 連鎖 · 波紋 | 연쇄 · 파장 |
+
+Combine the pattern with a business word (shop, restaurant, owner, founder, brand / 店主 老板 / 店長 / 사장님) and a date limit (this week).
 
 ### Channel A: original posts and videos
 - Run `python3 shared/tools/feeds.py 7` (Reddit RSS + Google Trends RSS from the watchlist). If it can't reach the internet from the cloud, write "Channel A feeds: unreachable" in **Gaps**.
@@ -57,8 +73,16 @@ The outlets in `sources/WATCHLIST.md` → Channel B, by domain filter, plus loca
 - **Google Trends US/UK.**
 - **Never claim a trend, view count or Reddit engagement you didn't see in a source.** If the cloud sandbox can't open a page, say "not measured".
 
+## Where the effort goes (by results, not by assumption)
+**Evidence so far (owner, 3 Nov 2026):** all three RUN stories were first found through **international local reporting** (Dexerto, Sixth Tone / SCMP / Global Times). Social platforms found none yet, but they gave the original footage and the engagement numbers. So, for each run of about 30 searches:
+- **~60% Channel B**: first the outlets with an owner RUN in the Yield table, then outlets like them in China, Japan, Korea, Taiwan, Singapore, Australia and Europe (see `sources/WATCHLIST.md` → *Channel B*). At least a third of these in Chinese, Japanese or Korean.
+- **~25% narrative-pattern searches** (table above), mixed across languages.
+- **~15% Channel A discovery** (feeds + platform searches). Channel A is also used for **every shortlisted candidate** to find the original footage and real signals; those searches don't count against the 15%.
+- **For the past-7-days window, read the outlets' own front or section pages** (`sources/WATCHLIST.md` → *Front pages*), not search: the search tool doesn't sort by date and returns 2024–25 stories for "this week" queries (round 6, 3 Nov: every fresh lead came from a front page). Use narrative-pattern searches mainly for the 30–90-day window and unknown classics.
+- Re-read the Yield table at the start of each run. When a source produces an owner RUN, move effort toward it; when one produces nothing for 3–4 weeks, cut it. The goal is more stories the owner wants, not more sources or searches.
+
 ## How hard to search (every run)
-- **At least 30 searches, at least 10 of them Channel A**, and write both counts in the header. The pool should hold 30+ candidates.
+- **About 30 searches**, split as above, and write the split in the header. The pool should hold 30+ candidates.
 - **Yield:** at the end of the run add one row per source to the Yield table in `sources/WATCHLIST.md` (candidates found, cards, picks; the owner's RUN verdicts come in later). Each Monday, write a one-line summary of the past week's yield by source in the report header. After 3–4 weeks, cut sources that produced nothing. Generic queries ("viral small business story") return vendor blogs, so search **by outlet** and by headline wording: "owner", "went viral", "TikTok", "review", "scam", "AI", "sold out", "backlash", "Facebook post".
 - Outlets that work from the cloud search tool: today.com, nbcnews.com, cbsnews.com (local stations), abcnews.go.com, foxbusiness.com, dailydot.com, dexerto.com, futurism.com, 404media.co, sfgate.com, inc.com, entrepreneur.com, modernretail.co, glossy.co, retaildive.com, restaurantbusinessonline.com, nrn.com, mothership.sg. BBC, Guardian, Business Insider, People, Eater, The Verge, NY Post and USA Today refuse domain-filtered search, so search those without a filter.
 - Cover at least 3 countries (US local news, UK, Singapore/Australia).
@@ -81,6 +105,15 @@ No second development or no payoff: **7 at most**, however viral it was.
 - **8** · excellent: real conflict, escalation and consequences.
 - **9** · a genuinely extraordinary event **and** payoff. KitKat level.
 - **10** · exceptionally rare. Expect to give none in most months.
+
+### Five separate scores (every investigated candidate, /10 each)
+- **Entertainment:** would an ordinary person desperately want to know what happens next?
+- **Narrative:** is there a genuinely unexpected escalation or reversal (beats 3–5 in TASTE.md)?
+- **Business:** would entrepreneurs and business owners find it especially interesting?
+- **Evidence:** can we verify it and show original footage or supporting visuals?
+- **Freshness:** new, still developing, or genuinely unfamiliar to this audience?
+
+The overall /10 is an editorial judgment, **not the average**. The owner's verdicts so far show Entertainment and Narrative decide it: a pick needs **both at 8+**, Evidence at 7+ (otherwise candidate), and Business at 6+ after investigating the link. Freshness breaks ties, never rescues a flat story. Write the five scores on the card and in the pool.
 
 Never rate from views, sales or "went viral". Don't confuse:
 - a real news story with an extraordinary story;
@@ -119,6 +152,8 @@ Caps that apply whatever else the story has:
 - **Payoff:** how it ended
 - **Why anyone would watch:** one line (the human hook, no business words)
 - **Why a business owner cares:** one line, never a lecture
+- **Scores:** Entertainment n · Narrative n · Business n · Evidence n · Freshness n
+- **How it unfolds:** for picks and the strongest candidates, the progression in 3–5 steps (what happened, what they did, what the crowd did, what it became), not the business lesson
 - **Result:** labelled, or "unknown"
 - **Audience signals:** numbers you actually read, with source and date (e.g. "TMZ post on X: 48,675 likes, 1,033 replies, read 3 Nov"), or "not measured"
 - **Arc check:** which of the six points it hits, and what's missing
@@ -134,7 +169,7 @@ History/index ID = `YYYY-MM-DD-B-<n>`.
 
 **Also write `droptopost-research/reports/YYYY-MM-DD.desk.json`** (same stories, for the Story Desk; a local task copies it there every morning). Copy the shape of `reports/2026-11-03.desk.json`: `{"round": "<D Mon YYYY>", "stories": [{"id", "sort", "tier" ("pick" or "candidate"), "score" (the /10 rating), "freshness", "evidence", "headline", "what", "twist" (the turn and payoff), "why", "result", "dates", "proof": [{"label","url"}], "note"}]}`.
 - `sort` = YYYYMMDD × 100 + (99 − rank), so rank 1 on 4 Nov 2026 is `2026110498`.
-- `headline` is in normal sentence case (not caps); the other fields are the card's text, with no markdown.
+- `headline` is in normal sentence case (not caps); the other fields are the card's text, with no markdown. Start `note` with the five scores ("Entertainment 8 · Narrative 9 · Business 7 · Evidence 8 · Freshness 10.").
 - If you improve a report the same day, rewrite the desk file too.
 
 ## Same-day rule

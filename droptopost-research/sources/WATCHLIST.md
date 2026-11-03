@@ -47,6 +47,12 @@ Tested and working, not yet productive: nbcnews.com · cbsnews.com · abcnews.go
 Chinese-language (search in Chinese, no domain filter): 极目新闻 ctdsb.net · 香港01 · 新京报 bjnews.com.cn · 36kr · 每日经济新闻 nbd.com.cn · 中华网 · 网易 163.com.
 Refused by the search tool's domain filter (search without a filter): reddit.com · straitstimes.com · smh.com.au · 9news.com.au · asahi.com · eater.com · foodandwine.com · nypost.com · bbc · guardian · businessinsider.
 
+### Front pages (read with WebFetch for the past 7 days; tested 2026-11-03)
+Productive or promising: sixthtone.com (home) · scmp.com/news/people-culture/trending-china (list works; article pages 403) · globaltimes.cn/china/society/index.html · ctdsb.net (Jimu, Chinese) · j-cast.com (Japanese) · soranews24.com · dexerto.com/food/ · mothership.sg · koreatimes.co.kr/southkorea/society.
+Working, nothing usable yet: nlab.itmedia.co.jp (consumer listicles) · thestandard.com.hk · hk01.com zone pages · taiwannews.com.tw · worldofbuzz.com · e.vnexpress.net/news/trend · thethaiger.com/hot-news.
+Unreachable: whatsonweibo.com · unseen-japan.com · insight.co.kr · toutiao.com · mrjjxw.com (DNS) · japantoday.com (Akamai block) · koreajoongangdaily (refused) · tophub.today (403) · koreaherald list URL (404; find the right section URL).
+Refused by the search tool's domain filter (3 Nov): mainichi.jp · news.com.au · 7news.com.au · threads.net · UK regional papers (Manchester Evening News, Liverpool Echo, WalesOnline, Birmingham Mail, Chronicle Live, Irish Mirror, Independent.ie).
+
 ## Yield (stories per source per week)
 One row per run. Count where each story was **first found**, not where it was verified. Picks = cards rated ≥ 8.5; owner RUN = the owner's verdict.
 
@@ -65,3 +71,7 @@ One row per run. Count where each story was **first found**, not where it was ve
 | 2026-W45 | TikTok via search (A) | 4 | 0 | 0 | 0 |
 | 2026-W45 | YouTube / Bilibili / Douyin via search (A) | 6 | 0 | 0 | 0 (but gave Mo's original + HK01 clip) |
 | 2026-W45 | Google Trends RSS (A) | 0 | 0 | 0 | 0 |
+| 2026-W45 (r6) | Front pages of proven outlets: Sixth Tone, Global Times, SCMP list, Jimu, J-CAST, Korea Times, Mothership (B) | 11 | 1 (B-19) | 0 | pending |
+| 2026-W45 (r6) | Chinese-language search → udn / HK01 (B) | 1 | 1 (B-20) | 0 | pending |
+| 2026-W45 (r6) | Narrative-pattern searches, 4 languages | 2 (both old) | 0 | 0 | 0 |
+| 2026-W45 (r6) | Reddit RSS + Trends RSS (A) | 1 | 0 | 0 | 0 |
