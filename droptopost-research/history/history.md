@@ -28,6 +28,16 @@ Every story ever shown in Report B. **Status** is yours to edit: `new` → `appr
 | 2026-11-03-B3-5 | 2026-11-03 | B3 | Blending an iPhone sold blenders | Blendtec, Will It Blend, Tom Dickson | 2006–2007 | new |
 | 2026-11-03-B3-6 | 2026-11-03 | B3 | Builder's YouTube → $20M firm | Matt Risinger, Risinger Homes, Build Show | 2010s–2018 | new |
 | 2026-11-03-B3-7 | 2026-11-03 | B3 | Plumber from 361 to 650K subscribers | Roger Wakefield, Texas Green Plumbing | 2018– | new |
+| 2026-11-03-test-B1-1 | 2026-11-03 | B1 | Creator said "Baseline", Vaseline renamed itself | Vaseline, Min Day Lee | 2026-08 | new |
+| 2026-11-03-test-B1-2 | 2026-11-03 | B1 | "Great jeans" backlash, then stock jump | American Eagle, Sydney Sweeney | 2025-07 | new |
+| 2026-11-03-test-B1-3 | 2026-11-03 | B1 | Rigged-looking prize cups, legal threat to TikToker | Chagee, Chagee Malaysia, Tear & Win | 2024-11 | new |
+| 2026-11-03-test-B2-1 | 2026-11-03 | B2 | AI model in Guess ad in Vogue | Guess, Vogue, Seraphinne Vallora, Paul Marciano | 2025-07 | new |
+| 2026-11-03-test-B2-2 | 2026-11-03 | B2 | AI influencer fooled fans at Wimbledon | Mia Zelu | 2025-07 | new |
+| 2026-11-03-test-B2-3 | 2026-11-03 | B2 | McDonald's AI Christmas ad pulled in 3 days | McDonald's Netherlands, TBWA\Neboko, The Sweetshop | 2025-12 | new |
+| 2026-11-03-test-B2-4 | 2026-11-03 | B2 | Automated selfie videos hijacked by trolls | Walkers, WalkersWave, Gary Lineker | 2017-05 | new |
+| 2026-11-03-test-B3-1 | 2026-11-03 | B3 | Intro TikTok, 16M views, dough 1 → 7 a day | Pan Pan bakery, Laura Molinar | 2024–2025 | new |
+| 2026-11-03-test-B3-2 | 2026-11-03 | B3 | Ms. Rachel repost paid a month's rent in a day | The Bomme Sweets, Ashley La Bomme-Benson, Ms. Rachel | 2026-08 | new |
+| 2026-11-03-test-B3-3 | 2026-11-03 | B3 | Daughter's TikTok plea saved Plano restaurant | Sazon De Loa, Leslie De Loa, Rafael De Loa | 2026-06 | new |
 
 ## Checked but not used
 | Date | Story | Why skipped |
@@ -36,3 +46,6 @@ Every story ever shown in Report B. **Status** is yours to edit: `new` → `appr
 | 2026-11-03 | HeyGen $200M ARR | no human story |
 | 2026-11-03 | Levi's / Uber Eats / Huggies 2026 campaigns | self-reported earned media only |
 | 2026-11-03 | Converse / Callaway 2026 ad pulls | no payoff or numbers |
+| 2026-11-03 | Neutrogena / Hayden Panettiere boycott | tied to a death |
+| 2026-11-03 | Big Lee's BBQ $100K in 3 weeks | TikTok promo source only |
+| 2026-11-03 | 19-year-old Michigan taco shop (Apr 2026) | matches REF-02 |
