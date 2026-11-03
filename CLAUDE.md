@@ -39,7 +39,7 @@ Read `shared/global-story-index/index.md` in full, plus both `history/history.md
 For each report whose file for `DATE` doesn't exist yet:
 1. Read its `BRIEF.md`.
 2. Research it (see **Shared rules**). Keep a candidate list. Before deep-checking a candidate, check its people and companies against the index.
-3. Write the report file.
+3. Write the report file (Report B also writes its `.desk.json`; see its brief).
 4. `python3 shared/tools/dupe_check.py <report file>`. Read every warning. Drop or replace true repeats (a shared generic word like "TikTok" is not a repeat).
 5. `bash shared/tools/check_links.sh <report file>`. Replace any 404/410/000 link. A 403 from bot-blocking sites is acceptable if the URL came from a search result. If curl itself can't reach the internet, write that in the report's **Gaps** line. Don't pretend links were checked.
 6. Append one row per story to that report's `history/history.md` **and** to `shared/global-story-index/index.md`.

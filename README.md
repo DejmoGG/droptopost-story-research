@@ -4,6 +4,7 @@ Two research reports every morning at **07:00 Ljubljana time**, written by a Cla
 
 ## Story Desk (phone)
 Rate every new DropToPost story on your phone, no GitHub needed: **https://claude.ai/artifact/3ZMwN8TQ1wy24ur4NEykxM** (Run it / Spike it / Later + a reason).
+New stories appear there around 07:40 each morning: a scheduled task in the Claude app on the PC copies `reports/YYYY-MM-DD.desk.json` onto the Desk. If the PC is off, it catches up when the app next opens.
 
 ## Latest
 - **Report A — Business & investment:** [2026-11-03](business-research/reports/2026-11-03.md)
