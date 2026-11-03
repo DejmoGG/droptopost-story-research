@@ -2,7 +2,7 @@
 
 Every story ever shown in Report A. **Status** is yours to edit: `new` → `approved` / `rejected` / `later` → `produced`. Never delete rows. Cross-report duplicate checking uses `shared/global-story-index/index.md`.
 
-The 2026-11-03 report used old labels: card **A1–A10 = A1-1…A1-10**, **B1–B10 = A2-1…A2-10**, **C1–C8 = A3-1…A3-8**.
+The 2026-11-03 report used old labels: card **A1–A10 = A1-1…A1-10**, **B1–B10 = A2-1…A2-10**, **C1–C8 = A3-1…A3-8**. The owner rejected all eight on 2026-11-03. Since then, A3 is a standing pipeline (`OPP-xx` rows, full detail in `../opportunities/PIPELINE.md`).
 
 | ID | First shown | Cat | Story | Key people / companies | Event date | Status |
 |---|---|---|---|---|---|---|
@@ -26,14 +26,22 @@ The 2026-11-03 report used old labels: card **A1–A10 = A1-1…A1-10**, **B1–
 | 2026-11-03-A2-8 | 2026-11-03 | A2 | Canned water worth $1.4bn | Liquid Death, Mike Cessario | 2024-03 | new |
 | 2026-11-03-A2-9 | 2026-11-03 | A2 | $1M → $100M ARR in 8 months | Lovable, Anton Osika, Fabian Hedin | 2025 | new |
 | 2026-11-03-A2-10 | 2026-11-03 | A2 | Smiley sponge, Shark Tank hit | Scrub Daddy, Aaron Krause, Lori Greiner | 2012– | new |
-| 2026-11-03-A3-1 | 2026-11-03 | A3 | Trash bin washing subscription | bin cleaning business | ongoing | new |
-| 2026-11-03-A3-2 | 2026-11-03 | A3 | Dog poop scooping franchise | DoodyCalls, Scoop Soldiers | ongoing | new |
-| 2026-11-03-A3-3 | 2026-11-03 | A3 | Unstaffed photo studios | Life4Cuts | ongoing | new |
-| 2026-11-03-A3-4 | 2026-11-03 | A3 | Unstaffed 24/7 shops | Korean unstaffed ice-cream stores | 2020–2025 | new |
-| 2026-11-03-A3-5 | 2026-11-03 | A3 | Junk removal from a borrowed van | College Hunks Hauling Junk, Omar Soliman, Nick Friedman | ongoing | new |
-| 2026-11-03-A3-6 | 2026-11-03 | A3 | Christmas light installation | Christmas Decor franchise | seasonal | new |
-| 2026-11-03-A3-7 | 2026-11-03 | A3 | Capsule-toy shops | Gashapon Department Store | 2019– | new |
-| 2026-11-03-A3-8 | 2026-11-03 | A3 | Rent your yard to dogs | Sniffspot | ongoing | new |
+| 2026-11-03-A3-1 | 2026-11-03 | A3 | Trash bin washing subscription | bin cleaning business | ongoing | rejected |
+| 2026-11-03-A3-2 | 2026-11-03 | A3 | Dog poop scooping franchise | DoodyCalls, Scoop Soldiers | ongoing | rejected |
+| 2026-11-03-A3-3 | 2026-11-03 | A3 | Unstaffed photo studios | Life4Cuts | ongoing | rejected |
+| 2026-11-03-A3-4 | 2026-11-03 | A3 | Unstaffed 24/7 shops | Korean unstaffed ice-cream stores | 2020–2025 | rejected |
+| 2026-11-03-A3-5 | 2026-11-03 | A3 | Junk removal from a borrowed van | College Hunks Hauling Junk, Omar Soliman, Nick Friedman | ongoing | rejected |
+| 2026-11-03-A3-6 | 2026-11-03 | A3 | Christmas light installation | Christmas Decor franchise | seasonal | rejected |
+| 2026-11-03-A3-7 | 2026-11-03 | A3 | Capsule-toy shops | Gashapon Department Store | 2019– | rejected |
+| 2026-11-03-A3-8 | 2026-11-03 | A3 | Rent your yard to dogs | Sniffspot | ongoing | rejected |
+| OPP-01 | 2026-11-03 | A3 | Private home support for older people | Home Instead, Honor, Pristan, ZOD Ljubljana | 2025-12 | investigating |
+| OPP-02 | 2026-11-03 | A3 | 5-minute lead response and booking desk | Hatch, Yelp | 2026-01 | investigating |
+| OPP-03 | 2026-11-03 | A3 | Mid-term furnished rentals after ZGos-1 | Wunderflats, ZGos-1 | 2027-01 | investigating |
+| OPP-04 | 2026-11-03 | A3 | Turnkey energy renovation (rejected) | Thermondo, Enpal, GEN-I Sonce | 2024 | rejected |
+| OPP-05 | 2026-11-03 | A3 | Outsourced hotel housekeeping and linen | Slovenian hotels and guesthouses | 2026 | investigating |
+| OPP-06 | 2026-11-03 | A3 | Private GP membership | ZZZS | 2026-03 | investigating |
+| OPP-07 | 2026-11-03 | A3 | Housing for foreign workers (B2B) | ZRSZ | 2025 | investigating |
+| OPP-08 | 2026-11-03 | A3 | Content-led Slovenian food export brand | Graza, Prekmurje pumpkin seed oil | 2024 | investigating |
 
 ## Checked but not used
 | Date | Story | Why skipped |

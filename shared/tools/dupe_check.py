@@ -17,7 +17,7 @@ INDEX = ROOT / "shared" / "global-story-index" / "index.md"
 GENERIC = {"tiktok", "youtube", "instagram", "reddit", "google", "amazon", "tesco",
            "sec", "us doj", "fbi", "openai", "chatgpt", "meta", "facebook", "x",
            "twitter", "netflix", "shark tank", "wix", "jpmorgan", "barclays",
-           "goldman sachs", "hindenburg", "tiktok shop", "bandai namco"}
+           "goldman sachs", "hindenburg", "tiktok shop", "bandai namco", "yelp", "zzzs", "zrsz", "zgos-1"}
 
 new_path = Path(sys.argv[1]).resolve()
 new_text = new_path.read_text(encoding="utf-8")
@@ -27,7 +27,7 @@ cards = re.split(r"\n(?=### )", new_text)
 entities = []
 for line in INDEX.read_text(encoding="utf-8").splitlines():
     cols = [c.strip() for c in line.strip().strip("|").split("|")]
-    if len(cols) < 6 or not re.match(r"^\d{4}-\d{2}-\d{2}", cols[0]) and not cols[0].startswith("REF"):
+    if len(cols) < 6 or not re.match(r"^\d{4}-\d{2}-\d{2}", cols[0]) and not cols[0].startswith(("REF", "OPP")):
         continue
     for name in re.split(r"[,;/]| and ", cols[5]):
         name = re.sub(r"\(.*?\)", "", name).strip()

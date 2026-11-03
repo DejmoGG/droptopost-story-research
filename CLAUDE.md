@@ -87,7 +87,7 @@ Update `README.md` so the **Latest** section links to today's two reports. Commi
 - **Dates:** event · latest development
 - **Sources:** [outlet](url) · [outlet](url)
 ```
-Opportunity cards add **Business model · Who pays · Startup capital · Slovenia potential · Opportunity score /100**.
+**A3 (opportunities) is different:** it's a standing pipeline in `business-research/opportunities/PIPELINE.md`, updated each run, with its own research order, Investment and Storytelling scores, and the ≥ 80 rule. See `business-research/BRIEF.md` → A3. Don't write 10 new opportunity cards a day.
 
 **Report header:** date · candidates reviewed · stories included per category · cost: €0 (subscription; no paid API) · gaps (failed or skipped sources) · **TOP 5** of that report.
 
