@@ -88,6 +88,7 @@ Update `README.md` so the **Latest** section links to today's two reports. Commi
 - **Sources:** [outlet](url) · [outlet](url)
 ```
 **A3 (extraordinary business models worldwide)** uses its own card and Model score. See `business-research/BRIEF.md` → A3.
+**Report B** uses its own card, Story score, freshness label and `## TOP 5 STORIES TO PRODUCE TODAY` section. See `droptopost-research/BRIEF.md`, which also covers the same-day audit rule and `performance/performance.md`.
 
 **Report header:** date · candidates reviewed · stories included per category · cost: €0 (subscription; no paid API) · gaps (failed or skipped sources) · **TOP 5** of that report.
 
