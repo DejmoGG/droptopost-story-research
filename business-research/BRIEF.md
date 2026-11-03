@@ -10,29 +10,31 @@ Run procedure, shared rules, scoring and card format: root `CLAUDE.md`. Format r
 
 **A2. Successful businesses.** Ordinary founders, strange or simple businesses with big money, one-video breakthroughs, started-with-nothing stories, overlooked products, unusual subscriptions, clever marketing. Explain the business model. Keep revenue, profit, cash flow and valuation separate.
 
-**A3. Slovenia opportunity pipeline.** Not 10 new ideas a day. A3 is a **standing shortlist of serious opportunities under investigation**, kept in `business-research/opportunities/PIPELINE.md` and updated as evidence comes in. The goal: exceptional, proven foreign business models the owner could launch or adapt in Slovenia **with a qualified local operating partner**, using DropToPost's media engine to bring in customers. Commercial attractiveness, not entertainment. **Novelty side hustles are banned** (dog poop, capsule toys, Christmas lights, yard rentals and the like).
+**A3. Extraordinary business models (worldwide).** The most remarkable, original and fast-growing business models and startups **anywhere in the world**: China, Korea, Japan, the US, Europe, India, LatAm, Central Asia. Up to 10, ranked. Pick a story when **the mechanism itself is the story**: how the money machine works is surprising, the results are huge and verified, it makes a great video, it carries a valuable business lesson, and there's a real way to make money from it (copy, adapt, sell the playbook, partner, or content). **Slovenia fit is NOT required.** Give it one line at most.
 
-**Research order (always in this order):**
-1. **Slovenia first:** real unmet needs, spending patterns, market gaps, labour shortages, new demand, underserved customers. Sources: SURS, ZRSZ/ESS, ZZZS, gov.si, Uradni list, AJPES/bizi.si, Eko sklad, STO, Delo, Finance.si, RTV SLO, 24ur, N1.
-2. **Then** successful foreign companies solving the **same** problem: US, Germany, Austria, UK, Japan, Korea, the Nordics, the Netherlands and others. Never start from lists of quirky business ideas.
+**Banned:** small novelty side hustles (dog poop, capsule-toy shops, Christmas lights, bin washing, yard rentals), "boring business" blogs, business-for-sale listings, franchise brochures as proof, and generic local-service ideas with no exceptional mechanism.
 
-**Weak evidence:** franchise brochures, business-for-sale listings, founder marketing claims, side-hustle blogs and third-party revenue estimators. Label them as Claim or Estimate, and never use them as the main proof. **A big foreign company's revenue does not prove the model works in Slovenia. A business being rare in Slovenia does not prove demand.**
+**Where to look:** company results and filings (HKEX, SEC, KRX, company IR pages), IPO prospectuses, Bloomberg, Reuters, FT, Caixin, Nikkei, Korea JoongAng Daily, TechCrunch, Sifted, Fortune, The Information (cite reporting, respect paywalls), and fastest-growth lists (ARR, store counts, IPOs, acquisitions) from the past 90 days and past year. Check every candidate against the index first. A company already shown may return only with a significant new development.
 
-**Investigate for every candidate:** specific customer and problem · the foreign company proving the model · verified performance · revenue model and pricing · how often revenue comes in · startup needs and main running costs · real Slovenian competitors **and substitutes** (named) · what they fail to solve · why customers would switch or pay more · our defensible edge · media and customer-acquisition potential · biggest risks and why it could fail · a cheap first validation test that proves willingness to pay before real money goes in · why now.
+**If a story fits A2 and A3:** A3 when the *mechanism* is the story, A2 when the *founder's journey* is the story.
 
-**Two separate scores:**
-- **Investment /100** (decides the ranking): Slovenian demand already proven 15 · gross margin and path to profit 15 · recurring or repeat revenue 10 · market size in Slovenia plus nearby EU 10 · startup capital and running it 10 · differentiation from local providers 10 · our media and customer-acquisition edge 10 · can a partner run it without the owner day to day 10 · foreign proof 5 · why now 5.
-- **Storytelling /100:** secondary, is it good video content.
+**A3 card:**
+```
+### A3-1 · Model 94 · Evidence High · Verified
+**COMPELLING CAPS HEADLINE**
+- **Hook:** one sentence
+- **The money machine:** how it makes money, in 2–4 plain sentences
+- **Numbers:** labelled (revenue / profit / users / valuation / raised / claim / estimate)
+- **Biggest twist:**
+- **Business lesson:** the transferable principle, in one sentence
+- **Monetization opportunity:** concrete ways the owner could make money from it (copy or adapt the model, sell the playbook to clients, build a product, content series)
+- **Slovenia/EU angle:** one line, or "none"
+- **Dates:** event · latest development
+- **Sources:** [outlet](url) · [outlet](url)
+```
+**Model score /100:** extraordinary mechanism 25 · size and speed of verified results 20 · storytelling and video potential 20 · business lesson 15 · monetization opportunity 20. **Evidence** is separate (High / Medium / Low). A great story never overrides weak numbers.
 
-**Status:** **Recommended** only at Investment ≥ 80 · **Watchlist** 70–79 · **Investigating** < 70 with a real problem · **Rejected** (with the reason). **Never inflate a score to reach 80.** Zero recommended is an acceptable answer.
-
-**Daily A3 work (Report A, each run):**
-1. Read `PIPELINE.md`.
-2. Pick 1–2 candidates to investigate deeper (prefer Watchlist items and their biggest Unknowns), and/or one new Slovenian need to explore.
-3. Add a new candidate only after the full research order above.
-4. Re-score with dated evidence, promote or demote, and append to the **Evidence log**.
-5. Never re-propose anything in the **Rejected list** without significant new evidence.
-6. Report A's A3 section is short: what changed today, the current Recommended and Watchlist with scores, and a link to `PIPELINE.md`.
+(The Slovenia-first opportunity pipeline in `opportunities/PIPELINE.md` is **parked**. The owner rejected it on 2026-11-03. Don't update it unless asked.)
 
 ## Report file
 `business-research/reports/YYYY-MM-DD.md`:
@@ -40,11 +42,11 @@ Run procedure, shared rules, scoring and card format: root `CLAUDE.md`. Format r
 - `## TOP 5`
 - `## A1. SCAMS & SCANDALS`
 - `## A2. SUCCESSFUL BUSINESSES`
-- `## A3. SLOVENIA OPPORTUNITY PIPELINE` (today's changes plus the current shortlist; full detail in `opportunities/PIPELINE.md`)
+- `## A3. EXTRAORDINARY BUSINESS MODELS (worldwide)`
 - Optional: `## Dropped` (one line each)
 - Optional: `## Follow-up video ideas`
 
-Card IDs: `A1-1 … A1-10`, `A2-1 …`. History/index ID = `YYYY-MM-DD-A1-1`. Pipeline candidates keep a stable ID `OPP-01, OPP-02 …` for life. A new candidate gets the next number and one row in the index and the history.
+Card IDs: `A1-1 … A1-10`, `A2-1 …`, `A3-1 …`. History/index ID = `YYYY-MM-DD-A1-1`. (Old `OPP-xx` rows stay in the index so they never return.)
 
 ## Not wanted in Report A
 Marketing and AI-content stories belong in **Report B**. If a story fits both, put it in only one, the one it serves better, and index it once.

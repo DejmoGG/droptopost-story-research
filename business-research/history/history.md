@@ -2,7 +2,7 @@
 
 Every story ever shown in Report A. **Status** is yours to edit: `new` → `approved` / `rejected` / `later` → `produced`. Never delete rows. Cross-report duplicate checking uses `shared/global-story-index/index.md`.
 
-The 2026-11-03 report used old labels: card **A1–A10 = A1-1…A1-10**, **B1–B10 = A2-1…A2-10**, **C1–C8 = A3-1…A3-8**. The owner rejected all eight on 2026-11-03. Since then, A3 is a standing pipeline (`OPP-xx` rows, full detail in `../opportunities/PIPELINE.md`).
+The 2026-11-03 report used old labels: card **A1–A10 = A1-1…A1-10**, **B1–B10 = A2-1…A2-10**, **C1–C8 = A3-1…A3-8**. The owner rejected all eight on 2026-11-03. The Slovenia pipeline that followed (`OPP-xx`) was rejected too. A3 is now *Extraordinary business models (worldwide)* (`A3R-x` rows).
 
 | ID | First shown | Cat | Story | Key people / companies | Event date | Status |
 |---|---|---|---|---|---|---|
@@ -34,14 +34,23 @@ The 2026-11-03 report used old labels: card **A1–A10 = A1-1…A1-10**, **B1–
 | 2026-11-03-A3-6 | 2026-11-03 | A3 | Christmas light installation | Christmas Decor franchise | seasonal | rejected |
 | 2026-11-03-A3-7 | 2026-11-03 | A3 | Capsule-toy shops | Gashapon Department Store | 2019– | rejected |
 | 2026-11-03-A3-8 | 2026-11-03 | A3 | Rent your yard to dogs | Sniffspot | ongoing | rejected |
-| OPP-01 | 2026-11-03 | A3 | Private home support for older people | Home Instead, Honor, Pristan, ZOD Ljubljana | 2025-12 | investigating |
-| OPP-02 | 2026-11-03 | A3 | 5-minute lead response and booking desk | Hatch, Yelp | 2026-01 | investigating |
-| OPP-03 | 2026-11-03 | A3 | Mid-term furnished rentals after ZGos-1 | Wunderflats, ZGos-1 | 2027-01 | investigating |
+| OPP-01 | 2026-11-03 | A3 | Private home support for older people | Home Instead, Honor, Pristan, ZOD Ljubljana | 2025-12 | rejected |
+| OPP-02 | 2026-11-03 | A3 | 5-minute lead response and booking desk | Hatch, Yelp | 2026-01 | rejected |
+| OPP-03 | 2026-11-03 | A3 | Mid-term furnished rentals after ZGos-1 | Wunderflats, ZGos-1 | 2027-01 | rejected |
 | OPP-04 | 2026-11-03 | A3 | Turnkey energy renovation (rejected) | Thermondo, Enpal, GEN-I Sonce | 2024 | rejected |
-| OPP-05 | 2026-11-03 | A3 | Outsourced hotel housekeeping and linen | Slovenian hotels and guesthouses | 2026 | investigating |
-| OPP-06 | 2026-11-03 | A3 | Private GP membership | ZZZS | 2026-03 | investigating |
-| OPP-07 | 2026-11-03 | A3 | Housing for foreign workers (B2B) | ZRSZ | 2025 | investigating |
-| OPP-08 | 2026-11-03 | A3 | Content-led Slovenian food export brand | Graza, Prekmurje pumpkin seed oil | 2024 | investigating |
+| OPP-05 | 2026-11-03 | A3 | Outsourced hotel housekeeping and linen | Slovenian hotels and guesthouses | 2026 | rejected |
+| OPP-06 | 2026-11-03 | A3 | Private GP membership | ZZZS | 2026-03 | rejected |
+| OPP-07 | 2026-11-03 | A3 | Housing for foreign workers (B2B) | ZRSZ | 2025 | rejected |
+| OPP-08 | 2026-11-03 | A3 | Content-led Slovenian food export brand | Graza, Prekmurje pumpkin seed oil | 2024 | rejected |
+| 2026-11-03-A3R-1 | 2026-11-03 | A3 | Franchisor that earns on cups, 60K stores | Mixue, Mixue Bingcheng | 2025 | new |
+| 2026-11-03-A3R-2 | 2026-11-03 | A3 | Coffee fraud → bigger than Starbucks China | Luckin Coffee | 2020–2025 | new |
+| 2026-11-03-A3R-3 | 2026-11-03 | A3 | Face gadget + creators → $1B K-beauty | APR, Medicube | 2025 | new |
+| 2026-11-03-A3R-4 | 2026-11-03 | A3 | Buy loved apps, cut staff, $18B IPO | Bending Spoons, Vimeo, WeTransfer, Evernote, Eventbrite | 2026-07 | new |
+| 2026-11-03-A3R-5 | 2026-11-03 | A3 | Sellers pay nothing, €1.1B revenue | Vinted | 2025 | new |
+| 2026-11-03-A3R-6 | 2026-11-03 | A3 | Free for a decade, then $1.4B revenue | Telegram, Pavel Durov | 2024 | new |
+| 2026-11-03-A3R-7 | 2026-11-03 | A3 | Sleep ring → $11B, ring + membership | Oura | 2025 | new |
+| 2026-11-03-A3R-8 | 2026-11-03 | A3 | $200M+, ~40 staff, zero VC, lived in Discord | Midjourney, David Holz | 2023 | new |
+| 2026-11-03-A3R-9 | 2026-11-03 | A3 | One app runs a country | Kaspi.kz | 2025 | new |
 
 ## Checked but not used
 | Date | Story | Why skipped |

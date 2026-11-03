@@ -1,4 +1,6 @@
-# Slovenia opportunity pipeline (Category A3)
+# Slovenia opportunity pipeline (PARKED)
+
+> **Parked on 2026-11-03: the owner rejected this shortlist.** A3 is now *Extraordinary business models (worldwide)*: see `../BRIEF.md`. Kept so these ideas aren't recycled.
 
 The candidates being investigated as businesses to launch or adapt in Slovenia, run by a qualified local partner, with DropToPost bringing in customers. **This file is updated as new evidence comes in. It is not a fresh list of ideas each day.** Rules: `business-research/BRIEF.md` → A3.
 

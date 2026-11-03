@@ -4,7 +4,6 @@ Two research reports every morning at **07:00 Ljubljana time**, written by a Cla
 
 ## Latest
 - **Report A — Business & investment:** [2026-11-03](business-research/reports/2026-11-03.md)
-- **Slovenia opportunity pipeline (A3):** [shortlist under investigation](business-research/opportunities/PIPELINE.md)
 - **Report B — DropToPost audience:** [2026-11-03](droptopost-research/reports/2026-11-03.md)
 
 ## All reports
