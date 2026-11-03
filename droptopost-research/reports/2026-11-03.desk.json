@@ -133,6 +133,182 @@
       "twist": "The reviewer says the shop's main ice cream supplier then contacted him directly to say it was cutting ties with the shop. That comes from his account; the supplier's own statement hasn't been found yet.",
       "what": "In March 2026 Daniel Smit left a one-star review of The Local Scoop, a new ice cream shop in Bay Minette, Alabama, after its grand opening. He had forgotten about it. In June the owners, Malary and Ryan Goldman, confronted him in a parking lot, and the video went viral. Reports say he was threatened over future reviews and told they knew where he lived. Both owners were arrested and charged with misdemeanour harassment (Malary also with criminal mischief).",
       "why": "One star didn't hurt the shop. The owners' reaction, on video, cost them their supplier."
+    },
+    {
+      "id": "2026-11-03-B-13",
+      "round": "3 Nov 2026 · round 4",
+      "sort": 2026110399.9,
+      "tier": "pick",
+      "score": 8.5,
+      "freshness": "Older (Apr–Jul 2026)",
+      "evidence": "High",
+      "headline": "The owner begged the internet not to come. They came anyway. Four months later he was livestreaming twice a day, saying he can't afford to stop.",
+      "what": "Mo's Chicken Hot Pot is a small eatery in Shunde, Foshan (Guangdong). On 1 Apr 2026 food blogger and former TV host Liu Yuxin posted a visit, and it took off on Douyin and Xiaohongshu. The owner, Lao Mo, told people to stay away, joked the food might give them diarrhoea, and told influencers that praising him would make his life \"too hard\". Crowds came anyway: people queued from morning to night, and local authorities brought in queue numbers, a cap on parties per service and temporary parking.",
+      "twist": "By July the man who refused fame had opened branches in other cities, hired a 20-person livestreaming team and broadcast twice a day: \"We can't afford not to livestream.\" He was mocked as a hypocrite, and he says profits are still limited.",
+      "why": "\"Don't come\" was the best marketing he ever did, and the fame he couldn't refuse became a cost he can't stop paying.",
+      "result": "Reported (Sixth Tone, SCMP, Global Times): crowds, crowd control, expansion, livestream team. Revenue and profit unknown; \"limited profits\" is the owner's own word.",
+      "dates": "Video 1 Apr 2026 · crowd control Apr 2026 · livestream turn reported 30 Jul 2026",
+      "proof": [
+        {
+          "label": "Sixth Tone, April",
+          "url": "https://www.sixthtone.com/news/1018394"
+        },
+        {
+          "label": "Sixth Tone, July",
+          "url": "https://www.sixthtone.com/news/1018834"
+        },
+        {
+          "label": "SCMP",
+          "url": "https://www.scmp.com/news/people-culture/trending-china/article/3349241/china-restaurant-owner-rejects-fame-after-being-overwhelmed-growing-number-customers"
+        },
+        {
+          "label": "Global Times",
+          "url": "https://www.globaltimes.cn/page/202604/1358488.shtml"
+        }
+      ],
+      "note": "Pick: all six arc points. Weak spot: older than 90 days. \"Reverse marketing\" is some observers' theory, not proven. His daughter denied a rumoured 20% discount for bad reviews."
+    },
+    {
+      "id": "2026-11-03-B-14",
+      "round": "3 Nov 2026 · round 4",
+      "sort": 2026110399.8,
+      "tier": "pick",
+      "score": 8.5,
+      "freshness": "Breaking",
+      "evidence": "High",
+      "headline": "A streamer showed his table's QR code on stream. Viewers ordered ¥1.96 million of food. Then he told the world the restaurant charged him $12,000.",
+      "what": "On 28 Oct 2026 Twitch streamer Lacy was eating with his girlfriend, influencer Darla Claire, at Zauo Shibuya, a Tokyo restaurant where diners catch their own fish, when he showed the table's ordering QR code on stream. Viewers flooded the kitchen with orders. Lacy said he was left with a $12,000 bill, and the story spread worldwide with the restaurant as the villain.",
+      "twist": "Zauo answered on Instagram: staff cooked some dishes before they spotted the prank, then stopped, and only charged for what was eaten. By its count the prank orders came to ¥1.96 million. Lacy then admitted: \"I'm dumb and thought it was funny.\"",
+      "why": "A tiny restaurant was framed in front of millions by a customer's joke. One calm, factual post turned the story around within days. And a QR code on a table is an open door.",
+      "result": "Reported (Dexerto, IBTimes UK): prank orders, the restaurant's statement, Lacy's admission. A receipt of about ¥500,000 was visible on stream. What Zauo lost on dishes it cooked is unknown.",
+      "dates": "Stream 28 Oct 2026 · statement and admission 29–30 Oct 2026",
+      "proof": [
+        {
+          "label": "Dexerto",
+          "url": "https://www.dexerto.com/twitch/restaurant-denies-charging-lacy-12000-for-viewers-troll-food-after-leaking-qr-code-3422860/"
+        },
+        {
+          "label": "IBTimes UK, admission",
+          "url": "https://ibtimes.co.uk/lacy-admits-trolling-japan-restaurant-bill-1828993"
+        }
+      ],
+      "note": "Pick: all six arc points. Keep the restaurant at the centre, not the streamer. The statement is known through translations shared on X; exact wording unverified. Lacy's own estimate of the prank orders was ~¥1.6 million."
+    },
+    {
+      "id": "2026-11-03-B-15",
+      "round": "3 Nov 2026 · round 4",
+      "sort": 2026110399.7,
+      "tier": "pick",
+      "score": 8.5,
+      "freshness": "Older (Sep 2025–Jan 2026)",
+      "evidence": "High",
+      "headline": "An influencer said a chain's food was pre-made. The founder opened every kitchen to prove him wrong. Four months later he closed 102 restaurants, and Beijing silenced them both.",
+      "what": "On 10 Sep 2025 Luo Yonghao, one of China's best-known tech influencers, posted after a meal at Xibei, a big restaurant chain: almost everything was pre-made, and overpriced. Founder Jia Guolong denied it, threatened to sue, and from 12 Sep opened the kitchens of 370+ restaurants to the public. Luo offered a 100,000-yuan reward for proof.",
+      "twist": "The open kitchens backfired: people found central-kitchen prep and frozen ingredients with shelf lives of up to two years (sea bass, broccoli). Xibei apologised on 15 Sep. On 15 Jan 2026 Jia confirmed 102 closures (~30% of the chain, ~4,000 jobs); the next day Weibo muted both men's accounts. Jia then stepped down as CEO of the main brand.",
+      "why": "The founder's proof became the evidence against him. A public challenge only works if you're sure what the public will see.",
+      "result": "Reported (ANN, HK01, KrASIA): 102 closures, ~4,000 jobs, both accounts muted. Losses \"over 500 million yuan\" are rumoured, not confirmed. Central kitchens are legal.",
+      "dates": "Post 10 Sep 2025 · open kitchens 12 Sep 2025 · closures 15 Jan 2026 · accounts muted 16 Jan 2026",
+      "proof": [
+        {
+          "label": "Asia News Network",
+          "url": "https://asianews.network/?p=256774"
+        },
+        {
+          "label": "HK01",
+          "url": "https://global.hk01.com/sns/article/60313148"
+        },
+        {
+          "label": "KrASIA",
+          "url": "https://kr-asia.com/after-feud-with-luo-yonghao-xibei-yields-to-consumer-pressure-over-pre-prepared-food"
+        }
+      ],
+      "note": "Pick: all six arc points. Older, but huge in China and probably unknown in Europe. Luo's point was the right to know, not food safety. Some diners call Xibei \"the industry's scapegoat\"."
+    },
+    {
+      "id": "2026-11-03-B-16",
+      "round": "3 Nov 2026 · round 4",
+      "sort": 2026110399.6,
+      "tier": "pick",
+      "score": 8.5,
+      "freshness": "Older (May–Aug 2026)",
+      "evidence": "High",
+      "headline": "Starbucks Korea named a tumbler promotion \"Tank Day\" and ran it on the anniversary of a massacre. The CEO was fired, the chairman promised to take a history lecture, and the far right answered with an AI dictator.",
+      "what": "Starbucks Korea ran a promotion from 15 to 26 May 2026 for its \"tank\" tumblers, with \"Tank Day\" on 18 May, the anniversary of the 1980 Gwangju uprising, when troops and tanks were sent against protesters. Critics also tied the slogan \"bang the desk\" to the police cover-up of the 1987 torture death of student Park Jong-chul. People posted videos of themselves smashing Starbucks mugs; \"tal-buck\" (quit Starbucks) trended.",
+      "twist": "Apologies within hours, then President Lee Jae Myung condemned it, Shinsegae fired CEO Son Jung-hyun, and Chairman Chung Yong-jin promised to attend a lecture on modern Korean history. Then far-right users rallied FOR Starbucks with AI images of former dictator Chun Doo-hwan promoting the coffee.",
+      "why": "Two words of marketing copy cost a CEO his job. And once a brand becomes a symbol, its defenders can do more damage than its attackers.",
+      "result": "Verified (Korea Herald, Korea Times): 18.4bn-won operating loss Apr–Jun 2026 vs 40.3bn-won profit a year earlier. The company blames a cancelled June promotion, not the boycott; the link is disputed. Emart shares fell ~6% during the row.",
+      "dates": "Promotion 15–26 May 2026 · CEO fired ~19 May 2026 · Q2 loss reported 13 Aug 2026",
+      "proof": [
+        {
+          "label": "Korea Herald, apology",
+          "url": "https://www.koreaherald.com/article/10740398"
+        },
+        {
+          "label": "Korea Herald, chairman",
+          "url": "https://www.koreaherald.com/article/10741050"
+        },
+        {
+          "label": "Korea Herald, Q2 loss",
+          "url": "https://www.koreaherald.com/article/10840422"
+        },
+        {
+          "label": "Korea Times, AI dictator",
+          "url": "https://www.koreatimes.co.kr/amp/southkorea/others/20260521/far-right-koreans-rally-around-starbucks-use-ai-generated-dictator-to-promote-coffee-chain"
+        }
+      ],
+      "note": "Pick, with care: a giant brand and painful history. Explain Gwangju in one line, never joke about it, take no side. You may have seen this: it was national news in Korea."
+    },
+    {
+      "id": "2026-11-03-B-17",
+      "round": "3 Nov 2026 · round 4",
+      "sort": 2026110399.5,
+      "tier": "candidate",
+      "score": 8,
+      "freshness": "This week",
+      "evidence": "High",
+      "headline": "\"This is the army. We need 100 meals.\" Korean restaurants cooked them, and nobody came. Then the \"officer\" asked them to buy supplies on the army's behalf.",
+      "what": "In \"no-show\" scams across South Korea, callers pose as military officers or local officials, order group meals or goods, then ask the owner to buy items from a particular \"supplier\" on their behalf, and the money disappears. A Vietnam-based ring defrauded 630+ small business owners of about 24.3bn won (7 arrested, Aug 2026); a Cambodia-based ring was sentenced in July (3.8bn won).",
+      "twist": "On 2 Nov 2026 Gangwon police announced 55 arrests, including a ringleader caught in China with eight others. The military's help line says it stopped about 16.4bn won of losses in 2,055 of 2,633 suspected-impersonation calls.",
+      "why": "The scam works because owners want the big order. The \"customer\" is the weapon.",
+      "result": "Documented (police announcements via Nocut News, Asia Economy): arrests, sentences, losses.",
+      "dates": "Rings active 2024–2026 · Gangwon arrests announced 2 Nov 2026",
+      "proof": [
+        {
+          "label": "Nocut News",
+          "url": "https://en.nocutnews.co.kr/news/6600818"
+        },
+        {
+          "label": "Asia Economy, Vietnam ring",
+          "url": "https://view.asiae.co.kr/en/article/2026081313260221704"
+        },
+        {
+          "label": "JoongAng Daily",
+          "url": "https://www.koreajoongangdaily.com/korea/police-declare-crackdown-on-no-show-scams/11992805"
+        }
+      ],
+      "note": "Candidate, not a pick: a crime wave, not one story, and no single owner to follow. One strong single case would lift it."
+    },
+    {
+      "id": "2026-11-03-B-18",
+      "round": "3 Nov 2026 · round 4",
+      "sort": 2026110399.4,
+      "tier": "candidate",
+      "score": 7.5,
+      "freshness": "Older (Jan 2026)",
+      "evidence": "Medium",
+      "headline": "A wedding-banquet manager swapped the bank details on 46 couples' invoices. Fired, he got a job at another banquet hall and did it again.",
+      "what": "Tan Han Qiang, 34, a sales manager at a Singapore banquet venue in Fort Canning Park, replaced the bank details on couples' invoices with his own and took S$396,562 from 46 couples. Fired in Feb 2023, he was hired by another banquet restaurant and took S$113,374 more from 17 couples. Gambling debts.",
+      "twist": "The second employer hired him after the first had fired him, and he ran the same trick there.",
+      "why": "Your invoice is only as safe as the person who sends it.",
+      "result": "Reported (Mothership): pleaded guilty 15 Jan 2026. Sentence not found.",
+      "dates": "Frauds to 2023 · guilty plea 15 Jan 2026",
+      "proof": [
+        {
+          "label": "Mothership",
+          "url": "https://mothership.sg/2026/01/restaurant-manager-cheat-newlyweds-wedding-banquet"
+        }
+      ],
+      "note": "Candidate, not a pick: one source so far, and a crime story with no content angle."
     }
   ]
 }
