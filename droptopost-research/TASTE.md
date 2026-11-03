@@ -3,7 +3,18 @@
 The owner's own verdicts outrank the brief's wording. Add a line for every verdict: newest first, never delete.
 
 ## Loved
+- **Lacy / Zauo QR-code orders (9.5), Mo's Chicken Hot Pot (9), Xibei open kitchens (9)**: all RUN on 3 Nov 2026. See round 4 below.
 - **KitKat: 413,793 bars stolen, then KitKat asked the internet to help find them** (2026-11-03-B1-1). A real crime, an absurd number, a mystery, a fresh 2026 event, entertainment first. The business response is part of the story, not a lesson bolted on.
+
+## Rated 3 Nov 2026, round 4 (owner's ratings /10): "the first batch where Claude is genuinely getting close to your taste"
+- **9.5 · Lacy / Zauo Shibuya QR-code orders** (2026-11-03-B-14), RUN: an ordinary dinner becomes a digital disaster, the restaurant is cast as the villain, then its evidence reverses the story. Fresh (28 Oct), real recorded footage, genuine chaos, a second-act reversal. Closest to a 10, if the original footage is strong.
+- **9 · Mo's Chicken Hot Pot** (B-13), RUN: starts as comedy, becomes a cautionary tale. The best twist isn't that people came; it's that he ended up needing the attention he rejected. **Best commercial fit for DropToPost**: attention creates customers, then operational problems, then a permanent need to make content.
+- **9 · Xibei vs Luo Yonghao** (B-15), RUN: the founder's own transparency campaign deepened the controversy; 102 closures is a real payoff, not just views. Never say the kitchens proved illegal or unsafe food: it was about freshness, disclosure, definitions and expectations.
+- **7.5 · Starbucks Korea "Tank Day"** (B-16), LATER: strong consequences, but the viewer must decode Korean history before the mistake makes sense. Too much decoding for a fast global hook. Don't imply the boycott alone caused the loss. Keep for a longer explainer.
+- **7 · Korean army-impersonation no-show scams** (B-17), LATER: a crime-wave summary with no protagonist. Find ONE owner who cooked the meals, paid the fake supplier and found out, and follow that person, verified.
+- **6.5 · Singapore wedding-banquet invoice fraud** (B-18), SPIKE for DropToPost: ordinary employee fraud with a repeat twist. Moved to Report A (A1, scams). Don't recycle it here.
+
+Lessons: **more like the first two**, with an extra preference for events **unfolding in the past 7 days**. Original Asian reporting beats recycled Western case studies. **An article describing a great video is not the video**: every pick needs direct links to the original footage. A story that needs a history lesson before the hook works is a LATER at best. One person going through a shocking sequence beats a summary of many cases.
 
 ## Rated 3 Nov 2026, round 3 (owner's ratings /10)
 - **8.5 · The Local Scoop** (2026-11-03-B-12), consider, the strongest: one tiny review escalates into an astonishing business disaster. Conflict, escalation, consequences. Weak: from June, and the supplier dropping them comes only from the customer. Verify before use.

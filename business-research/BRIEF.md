@@ -36,6 +36,9 @@ Run procedure, shared rules, scoring and card format: root `CLAUDE.md`. Format r
 
 (The Slovenia-first opportunity pipeline in `opportunities/PIPELINE.md` is **parked**. The owner rejected it on 2026-11-03. Don't update it unless asked.)
 
+## Handed over from Report B (use in A1 if still strong; not a repeat, the owner moved it here)
+- **2026-11-03-B-18 · Singapore wedding-banquet invoice fraud.** Tan Han Qiang, 34, sales manager at a Fort Canning Park banquet venue, swapped the bank details on invoices and took S$396,562 from 46 couples; fired in Feb 2023, he was hired by another banquet restaurant and took S$113,374 from 17 more. Pleaded guilty 15 Jan 2026 (two charges). Source so far: [Mothership](https://mothership.sg/2026/01/restaurant-manager-cheat-newlyweds-wedding-banquet). Needs a second source and the sentence. The owner (3 Nov 2026): "Better suited to your separate scams channel." When used, give it an A1 ID and note "from B-18" in the history row.
+
 ## Report file
 `business-research/reports/YYYY-MM-DD.md`:
 - Header (see `CLAUDE.md`)

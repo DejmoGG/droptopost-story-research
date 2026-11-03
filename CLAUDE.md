@@ -38,7 +38,7 @@ Read `shared/global-story-index/index.md` in full, plus both `history/history.md
 ### 3. Report A, then Report B (sequentially, never in parallel)
 For each report whose file for `DATE` doesn't exist yet:
 1. Read its `BRIEF.md`.
-2. Research it (see **Shared rules**). Keep a candidate list. Before deep-checking a candidate, check its people and companies against the index.
+2. Research it (see **Shared rules**). Keep a candidate list. Before deep-checking a candidate, check its people and companies against the index. **Report B only:** first run `bash shared/tools/source_probe.sh` and copy its lines into the report's **Gaps** line (what this machine could reach today), then follow the brief's two-channel workflow and write the discovery pool file.
 3. Write the report file (Report B also writes its `.desk.json`; see its brief).
 4. `python3 shared/tools/dupe_check.py <report file>`. Read every warning. Drop or replace true repeats (a shared generic word like "TikTok" is not a repeat).
 5. `bash shared/tools/check_links.sh <report file>`. Replace any 404/410/000 link. A 403 from bot-blocking sites is acceptable if the URL came from a search result. If curl itself can't reach the internet, write that in the report's **Gaps** line. Don't pretend links were checked.
@@ -88,7 +88,7 @@ Update `README.md` so the **Latest** section links to today's two reports. Commi
 - **Sources:** [outlet](url) · [outlet](url)
 ```
 **A3 (extraordinary business models worldwide)** uses its own card and Model score. See `business-research/BRIEF.md` → A3.
-**Report B** has its own rules: three pass/fail tests, the six-point story arc, an honest /10 rating, and one exceptional pick (or "No pick today") plus at most 4 labelled candidates. Read `droptopost-research/BRIEF.md` and `droptopost-research/TASTE.md` (the owner's verdicts) before researching.
+**Report B** has its own rules: two discovery channels (original posts/videos + international local news), a discovery pool in `droptopost-research/discovery/`, a source watchlist with weekly yield in `droptopost-research/sources/WATCHLIST.md`, three pass/fail tests, the six-point story arc, an honest /10 rating, original footage + a 2-second opener for every pick, and one exceptional pick (or "No pick today") plus at most 4 labelled candidates. Read `droptopost-research/BRIEF.md` and `droptopost-research/TASTE.md` (the owner's verdicts) before researching.
 
 **Report header:** date · candidates reviewed · stories included per category · cost: €0 (subscription; no paid API) · gaps (failed or skipped sources) · **TOP 5** of that report.
 
