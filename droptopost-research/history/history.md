@@ -66,8 +66,8 @@ Every story ever shown in Report B. **Status** is yours to edit: `new` → `appr
 | 2026-11-03-B-5 | 2026-11-03 | B | AI-written email script exposed 95,364 customers | Bee Cheng Hiang, PDPC | 2026-04 / 2026-09 | rejected (owner: already heard / from owner's or ChatGPT's list) |
 | 2026-11-03-B-6 | 2026-11-03 | B | One ad cost Good Good its partner, CEO and president | Good Good Golf, Callaway, Matt Kendrick, Joe Flannery | 2026-08 | rejected (owner: already heard / from owner's or ChatGPT's list) |
 | 2026-11-03-B-7 | 2026-11-03 | B | Pabst gave beer thieves 18 days 44 minutes | Pabst Blue Ribbon, Montclair | 2026-08 | rejected (owner: already heard / from owner's or ChatGPT's list) |
-| 2026-11-03-B-8 | 2026-11-03 | B | Wildfire family couldn't afford an influencer, owner became one, taco shop sold out | Lahaina Tacos, Pedro Haro | 2026-09 / 2026-10 | new |
-| 2026-11-03-B-9 | 2026-11-03 | B | Pop star said a Brooklyn shop snubbed her; shop put the bird on sale for $15M | Art of Play, Adam Rubin, Kelly Clarkson, Molly automaton | 2026-10 | new |
-| 2026-11-03-B-10 | 2026-11-03 | B | Cockroach refund scam used a photo from the restaurant's own Google reviews | Kok Sen Restaurant, Huang Zhaoqiang | 2026-10-31 | new |
-| 2026-11-03-B-11 | 2026-11-03 | B | TikTok called a coffee shop 'demonic', it got nearly 2x traffic | Oddly Correct, Mike Schroeder, Gregory Kolsto, CJ The Alchemist | 2026-09 | new |
-| 2026-11-03-B-12 | 2026-11-03 | B | Owners tracked down a one-star reviewer, got arrested, lost their supplier | The Local Scoop, Malary Goldman, Ryan Goldman, Daniel Smit | 2026-06 | new |
+| 2026-11-03-B-8 | 2026-11-03 | B | Wildfire family couldn't afford an influencer, owner became one, taco shop sold out | Lahaina Tacos, Pedro Haro | 2026-09 / 2026-10 | later (owner 7.5/10: backup, predictable goes-viral) |
+| 2026-11-03-B-9 | 2026-11-03 | B | Pop star said a Brooklyn shop snubbed her; shop put the bird on sale for $15M | Art of Play, Adam Rubin, Kelly Clarkson, Molly automaton | 2026-10 | later (owner 8/10: consider; $15M was a joke, no payoff) |
+| 2026-11-03-B-10 | 2026-11-03 | B | Cockroach refund scam used a photo from the restaurant's own Google reviews | Kok Sen Restaurant, Huang Zhaoqiang | 2026-10-31 | rejected (owner 6.5/10: S$300, no ending) |
+| 2026-11-03-B-11 | 2026-11-03 | B | TikTok called a coffee shop 'demonic', it got nearly 2x traffic | Oddly Correct, Mike Schroeder, Gregory Kolsto, CJ The Alchemist | 2026-09 | rejected (owner 5/10: predictable bad-review formula) |
+| 2026-11-03-B-12 | 2026-11-03 | B | Owners tracked down a one-star reviewer, got arrested, lost their supplier | The Local Scoop, Malary Goldman, Ryan Goldman, Daniel Smit | 2026-06 | later (owner 8.5/10: strongest; verify supplier) |

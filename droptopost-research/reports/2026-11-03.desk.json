@@ -2,76 +2,137 @@
   "round": "3 Nov 2026 · round 3",
   "stories": [
     {
-      "id": "2026-11-03-B-8", "sort": 2026110399, "score": 90, "freshness": "This month", "evidence": "High",
-      "headline": "His family lost their homes in the Maui fire and couldn't afford an influencer. So he became one, and the taco shop sold out.",
-      "what": "The Haro family's homes in Lahaina were destroyed in the 2023 wildfires. They reopened as Lahaina Tacos, a tiny lunch-only takeout in downtown Honolulu. It took a year to get 1,000 followers. In late September 2026 owner Pedro Haro, 46, started posting videos of himself playing the influencers the family \"can't afford to pay\": in a cowboy hat, in a bathrobe doing a \"Get Ready With Me\" with pico de gallo as a face peel. In about three weeks the account went from ~1,000 to 37,000 followers, and the shop sold out and closed early one day.",
-      "twist": "Haro calls himself \"the shy one in the family\". His day job is running the American Lung Association in Hawaii.",
-      "why": "Zero budget, one phone, the owner's own face. \"Before, if we almost broke even that day, it would be a good day.\"",
-      "result": "Self-reported (TODAY): ~1,000 → 37,000 followers in ~3 weeks; one video 382,000+ likes; sold out one day; new merch line. Self-reported (Hawaii News Now): sales \"at least doubled\". Revenue unknown.",
+      "id": "2026-11-03-B-8",
       "dates": "Videos from late Sep 2026 · TODAY 13 Oct 2026 · HNN 16 Oct 2026",
+      "evidence": "High",
+      "freshness": "This month",
+      "headline": "His family lost their homes in the Maui fire and couldn't afford an influencer. So he became one, and the taco shop sold out.",
+      "note": "His actual videos (@lahainatacos, 43K followers now). Most liked: \"Loveys, today I review Lahaina Tacos\" (408,947 likes): https://www.instagram.com/p/DdmKxc1BfW3/ · First one, owner as his own influencer (127,064 likes): https://www.instagram.com/p/DdZfqlxTaWl/ · \"Farm-to-face\" beauty spoof (40,826): https://www.instagram.com/p/DePXjupx8bQ/ · Asking fans which influencer to play next (36,307): https://www.instagram.com/p/DdptuqsAyin/. Like counts read from Instagram on 3 Nov; Claude can't watch video, so which is funniest is your call.",
       "proof": [
-        {"label": "TODAY", "url": "https://www.today.com/food/people/taco-shop-owner-influencer-video-lahaina-rcna603087"},
-        {"label": "Hawaii News Now", "url": "https://www.hawaiinewsnow.com/2026/10/16/viral-videos-help-boost-lahaina-tacos-sales/"}
+        {
+          "label": "TODAY",
+          "url": "https://www.today.com/food/people/taco-shop-owner-influencer-video-lahaina-rcna603087"
+        },
+        {
+          "label": "Hawaii News Now",
+          "url": "https://www.hawaiinewsnow.com/2026/10/16/viral-videos-help-boost-lahaina-tacos-sales/"
+        }
       ],
-      "note": ""
+      "result": "Self-reported (TODAY): ~1,000 → 37,000 followers in ~3 weeks; one video 382,000+ likes; sold out one day; new merch line. Self-reported (Hawaii News Now): sales \"at least doubled\". Revenue unknown.",
+      "score": 7.5,
+      "sort": 2026110399,
+      "tier": "candidate",
+      "twist": "Haro calls himself \"the shy one in the family\". His day job is running the American Lung Association in Hawaii.",
+      "what": "The Haro family's homes in Lahaina were destroyed in the 2023 wildfires. They reopened as Lahaina Tacos, a tiny lunch-only takeout in downtown Honolulu. It took a year to get 1,000 followers. In late September 2026 owner Pedro Haro, 46, started posting videos of himself playing the influencers the family \"can't afford to pay\": in a cowboy hat, in a bathrobe doing a \"Get Ready With Me\" with pico de gallo as a face peel. In about three weeks the account went from ~1,000 to 37,000 followers, and the shop sold out and closed early one day.",
+      "why": "Zero budget, one phone, the owner's own face. \"Before, if we almost broke even that day, it would be a good day.\""
     },
     {
-      "id": "2026-11-03-B-9", "sort": 2026110398, "score": 88, "freshness": "This month", "evidence": "High",
-      "headline": "A pop star told millions that a tiny Brooklyn shop snubbed her. The shop's answer: the bird is now for sale. $15 million.",
-      "what": "On 10 Oct 2026 Kelly Clarkson posted that staff at Art of Play, a small Brooklyn shop of puzzles and curiosities, treated her as if she couldn't afford Molly, a singing mechanical bird. Fans review-bombed the shop and sent threats. The shop said Molly wasn't for sale (it stars in their magic shows) and said it had been \"attacked by 8 million people who have never visited our store\". Then surveillance video came out, showing an encounter of under five minutes. On 14 Oct the co-owner put Molly on sale for $15 million.",
-      "twist": "If it sells, the co-owner says every employee gets a $15,000 bonus and the bird's artist gets $1 million.",
-      "why": "One post from someone famous can bury a small shop overnight. What saved its story was how it answered, in public, the same day.",
-      "result": "Verified (NBC, TODAY, CBS): review-bombing, threats, staff safety fears. Sales impact unknown. Molly unsold.",
+      "id": "2026-11-03-B-9",
       "dates": "10 Oct 2026 · price stunt 14 Oct 2026",
+      "evidence": "High",
+      "freshness": "This month",
+      "headline": "A pop star told millions that a tiny Brooklyn shop snubbed her. The shop's answer: the bird is now for sale. $15 million.",
+      "note": "You may have seen this: it was big pop-culture news. It's here because the shop is the main character, and its posts and the video decided what happened next.",
       "proof": [
-        {"label": "NBC News", "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/kelly-clarkson-bird-feud-brooklyn-shop-art-play-says-molly-now-sale-15-rcna603424"},
-        {"label": "TODAY", "url": "https://www.today.com/popculture/kelly-clarkson-brooklyn-shop-video-owner-speaks-out-rcna603425"},
-        {"label": "CBS New York", "url": "https://www.cbsnews.com/newyork/news/kelly-clarkson-dispute-brooklyn-store-surveillance-video/"}
+        {
+          "label": "NBC News",
+          "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/kelly-clarkson-bird-feud-brooklyn-shop-art-play-says-molly-now-sale-15-rcna603424"
+        },
+        {
+          "label": "TODAY",
+          "url": "https://www.today.com/popculture/kelly-clarkson-brooklyn-shop-video-owner-speaks-out-rcna603425"
+        },
+        {
+          "label": "CBS New York",
+          "url": "https://www.cbsnews.com/newyork/news/kelly-clarkson-dispute-brooklyn-store-surveillance-video/"
+        }
       ],
-      "note": "You may have seen this: it was big pop-culture news. It's here because the shop is the main character, and its posts and the video decided what happened next."
+      "result": "Verified (NBC, TODAY, CBS): review-bombing, threats, staff safety fears. Sales impact unknown. Molly unsold.",
+      "score": 8,
+      "sort": 2026110398,
+      "tier": "candidate",
+      "twist": "The co-owner says that if it sells, every employee gets a $15,000 bonus and the bird's artist gets $1 million. The price was a joke made in the middle of the feud, not a real sale.",
+      "what": "On 10 Oct 2026 Kelly Clarkson posted that staff at Art of Play, a small Brooklyn shop of puzzles and curiosities, treated her as if she couldn't afford Molly, a singing mechanical bird. Fans review-bombed the shop and sent threats. The shop said Molly wasn't for sale (it stars in their magic shows) and said it had been \"attacked by 8 million people who have never visited our store\". Then surveillance video came out, showing an encounter of under five minutes. On 14 Oct the co-owner put Molly on sale for $15 million.",
+      "why": "One post from someone famous can bury a small shop overnight. What saved its story was how it answered, in public, the same day."
     },
     {
-      "id": "2026-11-03-B-10", "sort": 2026110397, "score": 82, "freshness": "Breaking", "evidence": "Medium",
-      "headline": "A \"customer\" found a cockroach in their dinner and wanted S$300. The owner recognised the photo: it was from his own Google reviews.",
-      "what": "At 8 a.m. on 31 Oct 2026, Kok Sen Restaurant in Singapore's Chinatown got a WhatsApp complaint about a cockroach in a dish, with a demand for S$300 on a bill of about S$110. Owner Huang Zhaoqiang, 50, apologised and promised to investigate. The sender refused to wait and threatened to go online and to the authorities. Then Huang noticed the photo matched a recent Google review of his restaurant, with a cockroach seemingly added in. The receipt was from 22 Oct, not the day claimed.",
-      "twist": "The scammer used disappearing messages and a foreign number, and the \"evidence\" came from the restaurant's own public reviews.",
-      "why": "Every photo of your business online can now be edited into a complaint against you. Huang went public to warn other restaurants.",
-      "result": "Reported: no money paid; police report filed. Nothing more yet.",
+      "id": "2026-11-03-B-10",
       "dates": "31 Oct 2026 · reported 2 Nov 2026",
+      "evidence": "Medium",
+      "freshness": "Breaking",
+      "headline": "A \"customer\" found a cockroach in their dinner and wanted S$300. The owner recognised the photo: it was from his own Google reviews.",
+      "note": "One outlet, so Evidence Medium. Same month, a Serangoon stall's diner wanted S$5,000 for a cockroach; inspectors found no pests.",
       "proof": [
-        {"label": "Mothership (citing Shin Min)", "url": "https://mothership.sg/2026/11/kok-sen-restaurant-cockroach/"},
-        {"label": "Similar case, Mothership", "url": "https://mothership.sg/2026/10/cockroach-char-kway-teow-compensation-deny-allegations/"}
+        {
+          "label": "Mothership (citing Shin Min)",
+          "url": "https://mothership.sg/2026/11/kok-sen-restaurant-cockroach/"
+        },
+        {
+          "label": "Similar case, Mothership",
+          "url": "https://mothership.sg/2026/10/cockroach-char-kway-teow-compensation-deny-allegations/"
+        }
       ],
-      "note": "One outlet, so Evidence Medium. Same month, a Serangoon stall's diner wanted S$5,000 for a cockroach; inspectors found no pests."
+      "result": "Reported: no money paid; police report filed. Nothing more yet.",
+      "score": 6.5,
+      "sort": 2026110397,
+      "tier": "candidate",
+      "twist": "The scammer used disappearing messages and a foreign number, and the \"evidence\" came from the restaurant's own public reviews.",
+      "what": "At 8 a.m. on 31 Oct 2026, Kok Sen Restaurant in Singapore's Chinatown got a WhatsApp complaint about a cockroach in a dish, with a demand for S$300 on a bill of about S$110. Owner Huang Zhaoqiang, 50, apologised and promised to investigate. The sender refused to wait and threatened to go online and to the authorities. Then Huang noticed the photo matched a recent Google review of his restaurant. He believes the cockroach was added digitally; that is his allegation, not proven. The receipt was from 22 Oct, not the day claimed.",
+      "why": "Every photo of your business online can now be edited into a complaint against you. Huang went public to warn other restaurants."
     },
     {
-      "id": "2026-11-03-B-11", "sort": 2026110396, "score": 77, "freshness": "Last 90 days", "evidence": "High",
-      "headline": "Two teens called a coffee shop \"demonic\" on TikTok. That weekend it had nearly twice its usual customers.",
-      "what": "In September 2026 two girls posted a TikTok review of Oddly Correct, a coffee roaster on Troost Avenue in Kansas City: \"a little scary driving here\", \"it felt demonic in there\", \"weird paintings\". The staff laughed it off in their group chat. Then local creator CJ The Alchemist (about 70,000 followers) answered with a video defending the street and the shop. Locals queued down the block.",
-      "twist": "The owners joked they should \"lean into being demonic\" for October, and one of the girls later apologised.",
-      "why": "A bad review is content too. The reply video, not the shop, turned it into the best weekend in memory.",
-      "result": "Self-reported (co-owner Mike Schroeder to TODAY): nearly 200% of usual traffic that weekend, then tapering. Revenue unknown.",
+      "id": "2026-11-03-B-11",
       "dates": "Review late Sep 2026 · CJ video 26 Sep 2026 · TODAY 2 Oct 2026",
+      "evidence": "High",
+      "freshness": "Last 90 days",
+      "headline": "Two teens called a coffee shop \"demonic\" on TikTok. That weekend it had nearly twice its usual customers.",
+      "note": "",
       "proof": [
-        {"label": "TODAY", "url": "https://www.today.com/food/restaurants/kansas-city-locals-support-coffee-shop-after-negative-tiktok-review-rcna601139"},
-        {"label": "KCTV5", "url": "https://kctv5.com/2026/09/30/kansas-city-community-pours-support-into-local-coffee-spot-after-social-media-review/"}
+        {
+          "label": "TODAY",
+          "url": "https://www.today.com/food/restaurants/kansas-city-locals-support-coffee-shop-after-negative-tiktok-review-rcna601139"
+        },
+        {
+          "label": "KCTV5",
+          "url": "https://kctv5.com/2026/09/30/kansas-city-community-pours-support-into-local-coffee-spot-after-social-media-review/"
+        }
       ],
-      "note": ""
+      "result": "Self-reported (co-owner Mike Schroeder to TODAY): nearly 200% of usual traffic that weekend, then tapering. Revenue unknown.",
+      "score": 5,
+      "sort": 2026110396,
+      "tier": "candidate",
+      "twist": "The owners joked they should \"lean into being demonic\" for October, and one of the girls later apologised.",
+      "what": "In September 2026 two girls posted a TikTok review of Oddly Correct, a coffee roaster on Troost Avenue in Kansas City: \"a little scary driving here\", \"it felt demonic in there\", \"weird paintings\". The staff laughed it off in their group chat. Then local creator CJ The Alchemist (about 70,000 followers) answered with a video defending the street and the shop. Locals queued down the block.",
+      "why": "A bad review is content too. The reply video, not the shop, turned it into the best weekend in memory."
     },
     {
-      "id": "2026-11-03-B-12", "sort": 2026110395, "score": 77, "freshness": "Older (June 2026)", "evidence": "High",
-      "headline": "A customer left a one-star review. Three months later the owners tracked him down, it was filmed, and they left in handcuffs.",
-      "what": "In March 2026 Daniel Smit left a one-star review of The Local Scoop, a new ice cream shop in Bay Minette, Alabama, after its grand opening. He had forgotten about it. In June the owners, Malary and Ryan Goldman, confronted him in a parking lot, and the video went viral. Reports say he was threatened over future reviews and told they knew where he lived. Both owners were arrested and charged with misdemeanour harassment (Malary also with criminal mischief).",
-      "twist": "The shop's main ice cream supplier then contacted the reviewer directly to say it was cutting ties with the shop.",
-      "why": "One star didn't hurt the shop. The owners' reaction, on video, cost them their supplier.",
-      "result": "Verified (local TV): arrests, charges, supplier dropped the shop; shop reported still open; both sides said they regret it. Revenue impact unknown.",
+      "id": "2026-11-03-B-12",
       "dates": "Review Mar 2026 · confrontation and arrests June 2026",
+      "evidence": "High",
+      "freshness": "Older (June 2026)",
+      "headline": "A customer left a one-star review. Three months later the owners tracked him down, it was filmed, and they left in handcuffs.",
+      "note": "Supplier: still only the customer's account (WKRG/Yahoo repeat it); no statement from the supplier or the shop found. Counter-claim: owner Malary Goldman apologised, but says the customer had posted about intimate details of her family for months, and that she got death threats after the video. Who provoked whom is disputed. Older than 90 days.",
       "proof": [
-        {"label": "WEAR-TV", "url": "https://weartv.com/news/local/bay-minette-ice-cream-shop-owner-husband-arrested-for-harassing-customer-over-review"},
-        {"label": "WKRG", "url": "https://www.wkrg.com/baldwin-county/bay-minette-ice-cream-shop/amp/"},
-        {"label": "WLBT", "url": "https://www.wlbt.com/2026/06/15/bay-minette-ice-cream-shop-owners-arrested-after-confrontation-over-online-review/"}
+        {
+          "label": "WEAR-TV",
+          "url": "https://weartv.com/news/local/bay-minette-ice-cream-shop-owner-husband-arrested-for-harassing-customer-over-review"
+        },
+        {
+          "label": "WKRG",
+          "url": "https://www.wkrg.com/baldwin-county/bay-minette-ice-cream-shop/amp/"
+        },
+        {
+          "label": "WLBT",
+          "url": "https://www.wlbt.com/2026/06/15/bay-minette-ice-cream-shop-owners-arrested-after-confrontation-over-online-review/"
+        }
       ],
-      "note": "Older than 90 days. It's here because it got little national coverage outside Gulf Coast local TV. Outlets differ on small details."
+      "result": "Documented (local TV): arrests and misdemeanour charges. Reported via the customer: the supplier dropped the shop. Shop reported still open; both sides said they regret it. Charges are not convictions. Revenue impact unknown.",
+      "score": 8.5,
+      "sort": 2026110395,
+      "tier": "candidate",
+      "twist": "The reviewer says the shop's main ice cream supplier then contacted him directly to say it was cutting ties with the shop. That comes from his account; the supplier's own statement hasn't been found yet.",
+      "what": "In March 2026 Daniel Smit left a one-star review of The Local Scoop, a new ice cream shop in Bay Minette, Alabama, after its grand opening. He had forgotten about it. In June the owners, Malary and Ryan Goldman, confronted him in a parking lot, and the video went viral. Reports say he was threatened over future reviews and told they knew where he lived. Both owners were arrested and charged with misdemeanour harassment (Malary also with criminal mischief).",
+      "why": "One star didn't hurt the shop. The owners' reaction, on video, cost them their supplier."
     }
   ]
 }

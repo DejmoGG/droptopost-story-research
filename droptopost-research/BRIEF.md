@@ -1,4 +1,4 @@
-# REPORT B — DropToPost stories (editorial brief, v3 · 2026-11-03)
+# REPORT B — DropToPost stories (editorial brief, v4 · 2026-11-03)
 
 **What we look for, in one sentence:**
 > A real business got into an unbelievable situation, a post, video, reply, AI or automation decided what happened next, and the result was money, customers or ruin.
@@ -44,31 +44,63 @@ Labels: **Breaking** (≤48 h) · **Recent** (≤7 days) · **This month** (≤3
 - Cover at least 3 countries (US local news, UK, Singapore/Australia).
 - Search every candidate's people and company names in the index and in TASTE.md before writing a card.
 
-## How many
-**Maximum 5 stories per run. Zero is allowed.** Two the owner will use beat 27 nobody uses. Never pad. If fewer than 3 pass, say so plainly in the header and say what was rejected.
+## The story arc (benchmark: the KitKat theft, 2026-11-03-B1-1)
+The best stories get **more unbelievable as they unfold**. Check six things:
+1. **An extremely unusual real event.**
+2. **Stakes anyone understands instantly.**
+3. **Conflict, absurdity, mystery or suspense.**
+4. **An unexpected second development** (the turn after the turn).
+5. **A remarkable payoff.**
+6. **A natural link to business, content or customer attention.**
 
-## Ranking (only stories that passed all three tests)
-**Story score /100:** "what the fuck" factor 40 · owner identification 25 · content caused the outcome 20 · freshness 15.
-Business results earn **no points**. They're required proof, labelled **Verified / Self-reported / Uncertain**, or "unknown".
-Views are not customers, sales are not profit, and going viral alongside growth doesn't prove the video caused it: say so.
+No second development or no payoff: **7 at most**, however viral it was.
+
+## Rating /10 (honest, calibrated to the owner's verdicts in TASTE.md)
+- **5** · real news on a familiar formula (bad review → locals rally → more customers).
+- **6–7** · reasonably interesting: one funny or clever idea, no escalation or no payoff.
+- **8** · excellent: real conflict, escalation and consequences.
+- **9** · a genuinely extraordinary event **and** payoff. KitKat level.
+- **10** · exceptionally rare. Expect to give none in most months.
+
+Never rate from views, sales or "went viral". Don't confuse:
+- a real news story with an extraordinary story;
+- a viral video with a great narrative;
+- impressive sales with entertaining content;
+- a business lesson with an unexpected twist.
+
+Calibration (owner, 3 Nov 2026): The Local Scoop 8.5 · Art of Play 8 · Lahaina Tacos 7.5 · Kok Sen 6.5 · Oddly Correct 5. Claude had scored them 77–90/100: that is the inflation to avoid.
+
+## What a run delivers
+- **The goal is ONE exceptional, production-ready story**: 8.5 or more, all six arc points, facts checked. One a week beats five a day.
+- If nothing reaches 8.5, the header says **"No pick today"**. That is a normal, good result. The best story of a weak day is still a weak story.
+- Below the pick, **up to 4 candidates** rated 7 or more, labelled **Candidate, not a pick**, so the owner can rate them on the Desk. Never pad, never call a candidate a masterpiece.
+- Rejected stories never come back unless a major new development materially changes them (`UPDATE of <ID>`).
+
+## Facts in the card
+- Business results are proof, not points: labelled **Verified / Self-reported / Reported via <who> / Uncertain**, or "unknown".
+- Views are not customers, sales are not profit, and going viral alongside growth doesn't prove the video caused it: say so.
+- **Allegations stay allegations.** Charges aren't convictions. A claim from one side is written as "X says". A joke or stunt (a "$15 million" price) is called a joke.
+- For a pick, check the key twist independently (e.g. the supplier's own statement). If you can't, say who it comes from.
 
 ## Card (readable in 20 seconds)
 ```
-### B-2026-11-03-1 · Story 94 · This month · Evidence High
+### 2026-11-04-B-1 · Pick 8.7/10 · This month · Evidence High      (or: · Candidate 7/10 ·)
 **OPENING LINE THAT WORKS WITH NO CONTEXT**
 - **What happened:** 3–4 short sentences, ending with the outcome
-- **The twist:** one line
+- **The turn:** the unexpected second development
+- **Payoff:** how it ended
 - **Why a business owner cares:** one line, never a lecture
-- **Result:** labelled Verified / Self-reported / Uncertain, or "unknown"
+- **Result:** labelled, or "unknown"
+- **Arc check:** which of the six points it hits, and what's missing
 - **Dates:** event · latest development
-- **Proof:** [outlet](url) · [outlet](url) (2+ independent where possible; original post if found)
+- **Proof:** [outlet](url) · [outlet](url) (2+ independent where possible; original post or video if found)
 ```
 
 ## Report file
-`droptopost-research/reports/YYYY-MM-DD.md`: header (date · candidates looked at · how many passed · cost €0 · gaps) · the cards in rank order · `## Rejected today` (one line each: story, which test it failed).
+`droptopost-research/reports/YYYY-MM-DD.md`: header (date · searches run · candidates looked at · **Pick of the day: <title> (rating)** or **No pick today** · cost €0 · gaps) · the cards in rank order · `## Rejected today` (one line each: story, which test it failed).
 History/index ID = `YYYY-MM-DD-B-<n>`.
 
-**Also write `droptopost-research/reports/YYYY-MM-DD.desk.json`** (same stories, for the Story Desk; a local task copies it there every morning). Copy the shape of `reports/2026-11-03.desk.json`: `{"round": "<D Mon YYYY>", "stories": [{"id", "sort", "score", "freshness", "evidence", "headline", "what", "twist", "why", "result", "dates", "proof": [{"label","url"}], "note"}]}`.
+**Also write `droptopost-research/reports/YYYY-MM-DD.desk.json`** (same stories, for the Story Desk; a local task copies it there every morning). Copy the shape of `reports/2026-11-03.desk.json`: `{"round": "<D Mon YYYY>", "stories": [{"id", "sort", "tier" ("pick" or "candidate"), "score" (the /10 rating), "freshness", "evidence", "headline", "what", "twist" (the turn and payoff), "why", "result", "dates", "proof": [{"label","url"}], "note"}]}`.
 - `sort` = YYYYMMDD × 100 + (99 − rank), so rank 1 on 4 Nov 2026 is `2026110498`.
 - `headline` is in normal sentence case (not caps); the other fields are the card's text, with no markdown.
 - If you improve a report the same day, rewrite the desk file too.
@@ -78,5 +110,5 @@ If today's report exists, improve it (replace weaker cards with stronger ones) r
 
 ## Learning loop
 - Owner verdicts live in `history/history.md` (Status `approved` / `rejected`, with a reason) and on the Story Desk page (https://claude.ai/artifact/3ZMwN8TQ1wy24ur4NEykxM). They're copied into `TASTE.md`.
-- Once there are 10 or more verdicts, write the approval rate in the header. **Target: 80% approved.** If it falls below that two weeks running, the rules are wrong. Flag it, don't just search harder.
+- Once there are 10 or more verdicts on **picks**, write the pick approval rate in the header. **Target: 80% of picks approved.** Candidates don't count. If it falls below that two weeks running, the rules are wrong. Flag it, don't just search harder.
 - `performance/performance.md` holds real results from published videos. Once there are 5 or more rows, favour the story types that brought watch time, saves, site visits and leads.

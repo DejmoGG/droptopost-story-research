@@ -88,7 +88,7 @@ Update `README.md` so the **Latest** section links to today's two reports. Commi
 - **Sources:** [outlet](url) · [outlet](url)
 ```
 **A3 (extraordinary business models worldwide)** uses its own card and Model score. See `business-research/BRIEF.md` → A3.
-**Report B** has its own rules: three pass/fail tests, freshest first, at most 5 stories, its own card and Story score. Read `droptopost-research/BRIEF.md` and `droptopost-research/TASTE.md` (the owner's verdicts) before researching.
+**Report B** has its own rules: three pass/fail tests, the six-point story arc, an honest /10 rating, and one exceptional pick (or "No pick today") plus at most 4 labelled candidates. Read `droptopost-research/BRIEF.md` and `droptopost-research/TASTE.md` (the owner's verdicts) before researching.
 
 **Report header:** date · candidates reviewed · stories included per category · cost: €0 (subscription; no paid API) · gaps (failed or skipped sources) · **TOP 5** of that report.
 
