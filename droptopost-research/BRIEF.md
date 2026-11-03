@@ -73,6 +73,12 @@ The outlets in `sources/WATCHLIST.md` → Channel B, by domain filter, plus loca
 - **Google Trends US/UK.**
 - **Never claim a trend, view count or Reddit engagement you didn't see in a source.** If the cloud sandbox can't open a page, say "not measured".
 
+## Range (owner, 3 Nov 2026)
+Don't overfit to restaurants, China or one story formula. The approved examples show a taste for **extraordinary, escalating consequences**, not for a cuisine or a country. Each run:
+- Search across industries (retail, hotels, airlines, transport, tech and apps, banks, sport clubs, beauty, fitness, real estate, factories, farms, creators, local services), not just food.
+- Across what's shown (pick + candidates): **at most 2 from the same industry and at most 2 from the same country.** If the strongest stories cluster, say so and show the best of the rest only if it reaches 7.
+- The proven outlets stay first, but read them for every kind of business, not only the restaurant stories.
+
 ## Where the effort goes (by results, not by assumption)
 **Evidence so far (owner, 3 Nov 2026):** all three RUN stories were first found through **international local reporting** (Dexerto, Sixth Tone / SCMP / Global Times). Social platforms found none yet, but they gave the original footage and the engagement numbers. So, for each run of about 30 searches:
 - **~60% Channel B**: first the outlets with an owner RUN in the Yield table, then outlets like them in China, Japan, Korea, Taiwan, Singapore, Australia and Europe (see `sources/WATCHLIST.md` → *Channel B*). At least a third of these in Chinese, Japanese or Korean.

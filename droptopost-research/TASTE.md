@@ -6,6 +6,14 @@ The owner's own verdicts outrank the brief's wording. Add a line for every verdi
 - **Lacy / Zauo QR-code orders (9.5), Mo's Chicken Hot Pot (9), Xibei open kitchens (9)**: all RUN on 3 Nov 2026. See round 4 below.
 - **KitKat: 413,793 bars stolen, then KitKat asked the internet to help find them** (2026-11-03-B1-1). A real crime, an absurd number, a mystery, a fresh 2026 event, entertainment first. The business response is part of the story, not a lesson bolted on.
 
+## Rated 3 Nov 2026, round 6 (owner's ratings /10)
+- **8 potential · Italian restaurant's promo video exposed a diner's affair** (pool #46, not yet a card), INVESTIGATE: the unintended consequence of a simple marketing video is much stronger than Claude's 6.5 suggested. Verify the facts, the legal status and whether the original footage exists before promoting it.
+- **6.5 · Lao Gan Ma AI layoffs** (B-19), LATER: interesting AI controversy, but the worker-replacement claims are disputed. Never present allegations as proven.
+- **5.5 · Feng Chia pineapple-bun baker** (B-20), SPIKE: too much cultural context, weak payoff, an ordinary review backlash.
+
+Lessons: **an ordinary act with a huge unintended consequence beats a corporate controversy.** Claude underrated the affair video because the evidence was thin; weak evidence is a reason to investigate, not to lower the story score (keep Evidence as its own score). A review-bombing is an ordinary backlash, however fresh.
+**Diversity (owner, 3 Nov):** don't overfit to restaurants, China or one formula. The owner likes extraordinary, escalating consequences, but wants range across industries, countries, people, brands and situations.
+
 ## What the approved stories share (studied 3 Nov 2026, from the owner's verdicts)
 Four benchmarks: Lacy/Zauo 9.5, Mo's Chicken 9, Xibei 9, KitKat theft (loved). Laid side by side:
 
