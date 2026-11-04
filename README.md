@@ -24,3 +24,6 @@ Open the history file and change a story's **Status** from `new` to `approved`, 
 - `business-research/BRIEF.md`, `droptopost-research/BRIEF.md`: what each report looks for.
 - `shared/global-story-index/index.md`: every story ever shown, used so no story repeats across either report.
 - `shared/tools/`: Ljubljana time check (summer time), link checker, duplicate checker.
+
+## Historical research
+A separate backlog of true business stories from 1900–2025, built in batches beside the daily reports: [historical-research/](historical-research/README.md) · latest: [batch 1, 2026-11-04](historical-research/batches/2026-11-04-batch-1.md). Its stories sit on the Story Desk under **Historical**.
