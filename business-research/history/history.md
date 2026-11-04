@@ -62,6 +62,22 @@ The 2026-11-03 report used old labels: card **A1–A10 = A1-1…A1-10**, **B1–
 | 2026-11-03-test-A3-1 | 2026-11-03 | A3 | 10-minute delivery, 2,751 dark stores, profitable | Blinkit, Eternal | 2026-10 | new |
 | 2026-11-03-test-A3-2 | 2026-11-03 | A3 | Live-stream auctions → $20B | Whatnot | 2026-08 | new |
 | 2026-11-03-test-A3-3 | 2026-11-03 | A3 | Reward points for paying rent → $10.75B | Bilt Rewards, Ankur Jain | 2025-07 | new |
+| 2026-11-04-A1-1 | 2026-11-04 | A1 | Founder of most indebted developer gets life | Hui Ka Yan, Evergrande, China Evergrande Group | 2021–2026-08 | new |
+| 2026-11-04-A1-2 | 2026-11-04 | A1 | Pre-IPO SPVs with 200%+ hidden markups, $450M | Linqto, William Sarris, Joseph Endoso | 2021–2026-10 | new |
+| 2026-11-04-A1-3 | 2026-11-04 | A1 | Christian conservative lender Ponzi, 15 years | Brant Frost IV, First Liberty Building & Loan | 2021–2026-10 | new |
+| 2026-11-04-A1-4 | 2026-11-04 | A1 | Influencer flaunted jets, alleged SNAP fraud | Mercedes Reshard New, Shawty Dred | 2020–2026-10 | new |
+| 2026-11-04-A1-5 | 2026-11-04 | A1 | Exiled billionaire defrauded online followers, 30 years | Guo Wengui, Miles Guo | 2024–2026-06 | new |
+| 2026-11-04-A1-6 | 2026-11-04 | A1 | AI hiring startup forged customer purchase orders | Ilit Raz, Joonko | 2021–2026-09 | new |
+| 2026-11-04-A1-7 | 2026-11-04 | A1 | UPDATE of 2026-11-03-A1-7: Kalder founder sentenced 25 months | Gökçe Güven, Kalder | 2024–2026-11 | new |
+| 2026-11-04-A2-1 | 2026-11-04 | A2 | Teens' calorie app → MyFitnessPal | Cal AI, Zach Yadegari, Henry Langmack, MyFitnessPal | 2025-12 / 2026-03 | new |
+| 2026-11-04-A2-2 | 2026-11-04 | A2 | 23-year-old's AI agent $2.5B → $10B in 33 days | Instinct, Noah Shinn | 2026-09 | new |
+| 2026-11-04-A2-3 | 2026-11-04 | A2 | Dropout at 17 → Europe's youngest self-made billionaire | James Dacombe, Olix, CoMind | 2026-08 | new |
+| 2026-11-04-A2-4 | 2026-11-04 | A2 | Bluetooth landline phones, $439K profit | Physical Phones, Cat Goetze, CatGPT | 2025–2026-02 | new |
+| 2026-11-04-A2-5 | 2026-11-04 | A2 | Nurse's hair oil, 10,000 creators, no investors | Bask & Lather, Shaina Rainford | 2020–2026 | new |
+| 2026-11-04-A3-1 | 2026-11-04 | A3 | Gold sold at fixed price, not by gram | Laopu Gold | 2026-08 | new |
+| 2026-11-04-A3-2 | 2026-11-04 | A3 | Supermarket that publishes margins, caps growth | Pangdonglai, Yu Donglai | 2025–2026-08 | new |
+| 2026-11-04-A3-3 | 2026-11-04 | A3 | Experts paid to train AI, $2B run-rate | Mercor, Brendan Foody | 2026-06 | new |
+| 2026-11-04-A3-4 | 2026-11-04 | A3 | Buy K-beauty brands after they go viral | Goodai Global, Beauty of Joseon, TirTir, Round Lab, Skinfood | 2019–2026 | new |
 
 ## Checked but not used
 | Date | Story | Why skipped |
@@ -73,3 +89,10 @@ The 2026-11-03 report used old labels: card **A1–A10 = A1-1…A1-10**, **B1–
 | 2026-11-03 | Gökçe Güven (Kalder) sentencing, Oct 2026 | single paywalled source; possible UPDATE of A1-7 |
 | 2026-11-03 | Meesho zero-commission marketplace | same lesson as Vinted A3R-5 |
 | 2026-11-03 | Few and Far NFT founder | small; source unreachable |
+
+| 2026-11-04 | N.D. Texas $370M bank-account takeover indictment | single search hit, unconfirmed |
+| 2026-11-04 | Tricolor / Daniel Chu | no new development; trial 25 Jan 2027 |
+| 2026-11-04 | Global Investment Lab ¥87bn (Japan) | May 2026, thin sourcing |
+| 2026-11-04 | Think Jerky in Elizabeth Holmes film | marketing story; considered for Report B |
+| 2026-11-04 | Rapido zero-commission rides | no 2026 numbers |
+| 2026-11-04 | Tan Han Qiang banquet fraud (B-18 handover) | no sentence reported yet |
