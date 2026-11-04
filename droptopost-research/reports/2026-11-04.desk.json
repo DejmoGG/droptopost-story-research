@@ -1,0 +1,46 @@
+{
+ "round": "4 Nov 2026",
+ "stories": [
+  {
+   "id": "2026-11-04-B-1",
+   "sort": 2026110498,
+   "tier": "candidate",
+   "score": 8,
+   "freshness": "Recent",
+   "evidence": "High",
+   "headline": "He tells every customer not to buy his scarves. So many people came to buy them that he had to shut the shop.",
+   "what": "At Hanyangsa, a stall in Seoul's Namdaemun Market selling six scarves for 10,000 won, the owner talks people out of buying: \"Don't spend money\", \"Looks like crap\", \"Use it as bedding in the dog kennel.\" Clips of his patter drew 1 million to 5 million views in late October, and queues formed before opening.",
+   "twist": "On 28 Oct he asked people to stop rushing over. On 31 Oct he closed the stall: \"I want to make money, but not like this.\" He reopened about a week later; the Instagram account he opened on 25 Oct passed 32,000 followers.",
+   "why": "A salesman who insults his own product and can't stop people buying it.",
+   "result": "Reported (Korea Herald): 1M-5M views per clip, 32,000+ Instagram followers in about 9 days, one-week closure, reopened. Revenue unknown.",
+   "dates": "Viral mid/late Oct 2026 · closed 31 Oct · reopened early Nov",
+   "proof": [
+    {"label": "Korea Herald", "url": "https://www.koreaherald.com/article/10924116"},
+    {"label": "Kyunghyang Shinmun (EN)", "url": "https://www.khan.co.kr/en/article/202611040940037/"},
+    {"label": "Money Today (KO)", "url": "https://www.mt.co.kr/society/2026/11/02/2026110210340445206"},
+    {"label": "YTN clip (footage)", "url": "https://www.youtube.com/watch?v=DBqX-mBWfUk"}
+   ],
+   "note": "Entertainment 8 · Narrative 7 · Business 9 · Evidence 8 · Freshness 10. Candidate, not a pick: the turn (a one-week closure) is small and the shape is close to Mo's Chicken (B-13). Re-check in 1-2 weeks for sales figures or a bigger second act."
+  },
+  {
+   "id": "2026-11-04-B-2",
+   "sort": 2026110497,
+   "tier": "candidate",
+   "score": 7,
+   "freshness": "Older (June 2026)",
+   "evidence": "High",
+   "headline": "A car dealer's sales agent offered a customer C$27,162.79 for his BMW. Then the dealer admitted the agent was an AI and tried to take it back.",
+   "what": "Zack Giacomelli wanted to sell his 2021 BMW X3 back to BMW Toronto. A chat agent named Quinn offered C$27,162.79, exactly his loan balance. A human salesperson then called: Quinn was an AI that had confused his loan payoff with the purchase price, and the new offer was about C$20,000.",
+   "twist": "CBC News called the dealership, which reversed itself and honoured the original offer. It said buybacks would be handled only by humans from now on; the error cost it about C$7,000.",
+   "why": "A robot made you a deal, then its bosses said it doesn't count because it's a robot.",
+   "result": "Verified (CBC via several outlets): offer revoked, then reinstated; buybacks moved to humans. Cost about C$7,000 (reported).",
+   "dates": "Early to mid June 2026",
+   "proof": [
+    {"label": "Jalopnik", "url": "https://jalopnik.com/2194304/dealer-revokes-ai-chatbot-buyback-offer/"},
+    {"label": "The Drive", "url": "https://www.thedrive.com/news/bmw-dealer-forced-to-pay-5000-extra-for-used-x3-over-ai-chatbot-error"},
+    {"label": "Carscoops", "url": "https://www.carscoops.com/2026/06/bmw-dealer-ai-chatbot-offer/"}
+   ],
+   "note": "Entertainment 7 · Narrative 7 · Business 9 · Evidence 8 · Freshness 5. Candidate, not a pick: modest payoff, familiar AI-chatbot formula (owner rejected Chevy $1 Tahoe and Air Canada as known), and no original footage found."
+  }
+ ]
+}

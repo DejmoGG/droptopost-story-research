@@ -75,3 +75,12 @@ One row per run. Count where each story was **first found**, not where it was ve
 | 2026-W45 (r6) | Chinese-language search → udn / HK01 (B) | 1 | 1 (B-20) | 0 | pending |
 | 2026-W45 (r6) | Narrative-pattern searches, 4 languages | 2 (both old) | 0 | 0 | 0 |
 | 2026-W45 (r6) | Reddit RSS + Trends RSS (A) | 1 | 0 | 0 | 0 |
+| 2026-W45 (4 Nov) | Korean-language narrative-pattern search → Asiae / MT / Hankyung / Korea Herald (B) | 1 | 1 | 0 | pending |
+| 2026-W45 (4 Nov) | English pattern search (AI chatbot) → Jalopnik / The Drive / Carscoops (B) | 1 | 1 | 0 | pending |
+| 2026-W45 (4 Nov) | Chinese-language search → China Times / ETtoday / The Paper / Sina (B) | 5 | 0 | 0 | pending |
+| 2026-W45 (4 Nov) | Global Times / Sixth Tone / SCMP via domain search (B; front pages unreachable) | 4 | 0 | 0 | pending |
+| 2026-W45 (4 Nov) | Mothership via domain search (B) | 3 | 0 | 0 | pending |
+| 2026-W45 (4 Nov) | Dexerto / Futurism / SFGATE via domain search (B) | 3 | 0 | 0 | pending |
+| 2026-W45 (4 Nov) | Japanese / German / India pattern searches | 6 | 0 | 0 | pending |
+| 2026-W45 (4 Nov) | Channel A feeds (Reddit/Trends RSS) | 0 (unreachable) | 0 | 0 | pending |
+| 2026-W45 (4 Nov) | YouTube search for footage (A) | 0 (gave B-1 footage) | 0 | 0 | pending |
