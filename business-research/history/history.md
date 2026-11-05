@@ -78,6 +78,14 @@ The 2026-11-03 report used old labels: card **A1–A10 = A1-1…A1-10**, **B1–
 | 2026-11-04-A3-2 | 2026-11-04 | A3 | Supermarket that publishes margins, caps growth | Pangdonglai, Yu Donglai | 2025–2026-08 | new |
 | 2026-11-04-A3-3 | 2026-11-04 | A3 | Experts paid to train AI, $2B run-rate | Mercor, Brendan Foody | 2026-06 | new |
 | 2026-11-04-A3-4 | 2026-11-04 | A3 | Buy K-beauty brands after they go viral | Goodai Global, Beauty of Joseon, TirTir, Round Lab, Skinfood | 2019–2026 | new |
+| 2026-11-05-A1-1 | 2026-11-05 | A1 | Subprime car lender double-pledged loans, $1.9bn collapse | Tricolor, Daniel Chu, Jerome Kollar, Ameryn Seibold, Daniel Goodgame | 2020–2026-08 | new |
+| 2026-11-05-A1-2 | 2026-11-05 | A1 | Dancing finfluencer's courses were unregistered advice, ₹546 crore impounded | Avadhut Sathe, Avadhut Sathe Trading Academy, SEBI | 2020–2025-12 | new |
+| 2026-11-05-A1-3 | 2026-11-05 | A1 | NFT founder allegedly spent $10M on casino, condo, DJ hobby | Taj Tarsha, Few and Far | 2022–2026-08 | new |
+| 2026-11-05-A1-4 | 2026-11-05 | A1 | AI startup's customer waitlist never existed, 4,000 investors | GenesisAI, Archil Cheishvili | 2021–2026-08 | new |
+| 2026-11-05-A2-1 | 2026-11-05 | A2 | Homeless at 16 → bootstrapped hoodie brand projected $1bn | Comfrt, Hudson Leogrande | 2020–2026-08 | new |
+| 2026-11-05-A2-2 | 2026-11-05 | A2 | Garage-door repair with $50K debt → reported $2bn KKR deal | A1 Garage Door Service, Tommy Mello, KKR, Cortec Group | 2007–2026-09 | new |
+| 2026-11-05-A3-1 | 2026-11-05 | A3 | Zero-commission marketplace earning from ads and logistics | Meesho, Valmo | 2021–2026-11 | new |
+| 2026-11-05-A3-2 | 2026-11-05 | A3 | Drugstore chain became a tourist destination, foreigners 2% → 33% | CJ Olive Young, Olive Young | 2022–2026-08 | new |
 
 ## Checked but not used
 | Date | Story | Why skipped |
@@ -96,3 +104,7 @@ The 2026-11-03 report used old labels: card **A1–A10 = A1-1…A1-10**, **B1–
 | 2026-11-04 | Think Jerky in Elizabeth Holmes film | marketing story; considered for Report B |
 | 2026-11-04 | Rapido zero-commission rides | no 2026 numbers |
 | 2026-11-04 | Tan Han Qiang banquet fraud (B-18 handover) | no sentence reported yet |
+| 2026-11-05 | Gildan short-seller report (Jehoshaphat) | allegations only, June |
+| 2026-11-05 | Seoul ₩14.2bn China-run investment scam ring | one source only; re-check |
+| 2026-11-05 | Utah $60M Ponzi admission (2 Nov) | one source only; re-check |
+| 2026-11-05 | Grant Bae / Treashonna Graham | verdict not confirmed by a second source |
