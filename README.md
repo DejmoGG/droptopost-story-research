@@ -7,8 +7,8 @@ Rate every new DropToPost story on your phone, no GitHub needed: **https://claud
 New stories appear there around 07:40 each morning: a scheduled task in the Claude app on the PC copies `reports/YYYY-MM-DD.desk.json` onto the Desk. If the PC is off, it catches up when the app next opens.
 
 ## Latest
-- **Report A — Business & investment:** [2026-11-04](business-research/reports/2026-11-04.md) (16 stories)
-- **Report B — DropToPost audience:** [2026-11-04](droptopost-research/reports/2026-11-04.md) (no pick; 2 candidates)
+- **Report A — Business & investment:** [2026-11-05](business-research/reports/2026-11-05.md) (8 stories)
+- **Report B — DropToPost audience:** [2026-11-05](droptopost-research/reports/2026-11-05.md) (no pick; 2 candidates)
 
 ## All reports
 - [Report A archive](business-research/reports/)
