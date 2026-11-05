@@ -1,0 +1,67 @@
+{
+ "round": "5 Nov 2026",
+ "stories": [
+  {
+   "id": "2026-11-05-B-1",
+   "sort": 2026110598,
+   "tier": "candidate",
+   "score": 8,
+   "freshness": "Last 90 days (May-Sep 2026)",
+   "evidence": "High",
+   "headline": "A man left his 83-year-old father's $200,000 Lego collection at a shop to sell. It vanished. The YouTuber who went looking for it was the one who got arrested.",
+   "what": "In late 2023 Bryan Mansell consigned his father's Star Wars Lego collection (about $200,000 by his estimate, near $100,000 in store records) at a Bricks & Minifigs franchise store in Oregon. The store changed hands and the collection disappeared. In May 2026 YouTuber Benjamin Schneider (Reckless Ben) started a video series investigating it; it drew millions of views.",
+   "twist": "The Utah franchisor sued Ben for over $300,000 and got the videos ordered down; American Fork police arrested him twice on misdemeanour stalking and picketing charges. Then on 4 Jun the company closed the store and cut ties with the franchise owners, citing gross negligence and a devastating social media campaign. It settled with the family on 19 Aug, and the Lego came back on 2 Sep.",
+   "why": "An old man's toy collection, a missing fortune in plastic bricks, and the detective ends up in handcuffs.",
+   "result": "Verified (KSL, Deseret, CBC): store closed and owners removed 4 Jun 2026; settlement 19 Aug; Lego returned 2 Sep (per Mansell). Cost to the franchisor unknown. Case against Ben unresolved in latest reports.",
+   "dates": "Consigned late 2023 · first video 21 May 2026 · store closed 4 Jun · settled 19 Aug · Lego returned 2 Sep 2026",
+   "proof": [
+    {
+     "label": "KSL",
+     "url": "https://www.ksl.com/article/51507105/viral-lego-theft-claims-lead-utah-company-to-close-franchise-part-ways-with-its-owners"
+    },
+    {
+     "label": "Salt Lake Tribune",
+     "url": "https://www.sltrib.com/news/2026/05/30/youtuber-arrested-utah-bricks/"
+    },
+    {
+     "label": "CBC",
+     "url": "https://www.cbc.ca/news/world/lego-scandal-reckless-ben-youtube-9.7229833"
+    },
+    {
+     "label": "Deseret News (settlement)",
+     "url": "https://www.deseret.com/utah/2026/08/20/utah-based-bricks-and-minifigs-reaches-settlement-with-family-whose-allegations-went-viral/"
+    }
+   ],
+   "note": "Entertainment 9 · Narrative 9 · Business 8 · Evidence 8 · Freshness 5. Candidate, not a pick: full six-point arc, but 3-5 months old, covered everywhere (you may have seen this), and the original YouTube videos couldn't be opened from here."
+  },
+  {
+   "id": "2026-11-05-B-2",
+   "sort": 2026110597,
+   "tier": "candidate",
+   "score": 7,
+   "freshness": "Last 90 days (Sep-Oct 2026)",
+   "evidence": "Medium",
+   "headline": "A cleaning-company owner filmed herself threatening a taco seller. When the one-star reviews came, she switched her business phone number to her critic's.",
+   "what": "Francesca Ortega, who runs a Santa Clarita home-cleaning company, was filmed insulting a sidewalk taco vendor and threatening to call ICE. Her company was flooded with one-star reviews and she said staff lost hours.",
+   "twist": "A critic, Ricardo Morales, messaged her; soon strangers were calling and texting him, because her company's Google listing now showed his number. She said she had switched it. She later posted an apology video and said her business was ruined.",
+   "why": "She tried to get rid of a taco stand and got rid of her own business, then made it worse.",
+   "result": "Reported (Fox LA, IBTimes, Yahoo): negative reviews, reduced staff hours (her claim), phone-number switch (her admission). Revenue impact unknown.",
+   "dates": "Confrontation late Sep 2026 · apology and number switch Oct 2026",
+   "proof": [
+    {
+     "label": "Fox LA",
+     "url": "https://www.foxla.com/news/woman-who-threatened-call-ice-taco-vendors-now-getting-scathing-business-reviews-online"
+    },
+    {
+     "label": "IBTimes UK",
+     "url": "https://www.ibtimes.co.uk/california-woman-ice-threat-backlash-critic-phone-number-1822312"
+    },
+    {
+     "label": "Yahoo",
+     "url": "https://www.yahoo.com/news/us/articles/hispanic-woman-threatens-call-ice-045518981.html"
+    }
+   ],
+   "note": "Entertainment 7 · Narrative 7 · Business 7 · Evidence 7 · Freshness 7. Candidate, not a pick: an ordinary backlash at heart, politically charged, no ending yet, original clip not found."
+  }
+ ]
+}

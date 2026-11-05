@@ -84,3 +84,10 @@ One row per run. Count where each story was **first found**, not where it was ve
 | 2026-W45 (4 Nov) | Japanese / German / India pattern searches | 6 | 0 | 0 | pending |
 | 2026-W45 (4 Nov) | Channel A feeds (Reddit/Trends RSS) | 0 (unreachable) | 0 | 0 | pending |
 | 2026-W45 (4 Nov) | YouTube search for footage (A) | 0 (gave B-1 footage) | 0 | 0 | pending |
+| 2026-W45 (5 Nov) | English narrative-pattern searches (theft, apology, review lawsuit) | 4 | 2 | 0 | pending |
+| 2026-W45 (5 Nov) | Korea Herald / Korea Times / Asiae (B) | 4 | 0 | 0 | pending |
+| 2026-W45 (5 Nov) | Chinese pattern searches (simplified + traditional) | 4 | 0 | 0 | pending |
+| 2026-W45 (5 Nov) | Sixth Tone / SCMP via domain search (B) | 4 | 0 | 0 | pending |
+| 2026-W45 (5 Nov) | Dexerto / Mothership / SoraNews24 via domain search (B) | 5 | 0 | 0 | pending |
+| 2026-W45 (5 Nov) | Japanese pattern searches | 0 | 0 | 0 | pending |
+| 2026-W45 (5 Nov) | Channel A feeds (Reddit/Trends RSS) | 0 (unreachable) | 0 | 0 | pending |
