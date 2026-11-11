@@ -91,3 +91,13 @@ One row per run. Count where each story was **first found**, not where it was ve
 | 2026-W45 (5 Nov) | Dexerto / Mothership / SoraNews24 via domain search (B) | 5 | 0 | 0 | pending |
 | 2026-W45 (5 Nov) | Japanese pattern searches | 0 | 0 | 0 | pending |
 | 2026-W45 (5 Nov) | Channel A feeds (Reddit/Trends RSS) | 0 (unreachable) | 0 | 0 | pending |
+| 2026-W46 (11 Nov) | Japanese narrative-pattern search (炎上 謝罪) → coki / FNN / NTV (B) | 1 | 1 | 0 | pending |
+| 2026-W46 (11 Nov) | Dexerto via domain search (B) | 5 | 1 | 0 | pending |
+| 2026-W46 (11 Nov) | Mothership via domain search (B) | 6 | 0 | 0 | pending |
+| 2026-W46 (11 Nov) | Sixth Tone / SCMP / Global Times via domain search (B) | 2 | 0 | 0 | pending |
+| 2026-W46 (11 Nov) | Korea Herald / Korea Times / Asiae / SoraNews24 via domain search (B) | 1 | 0 | 0 | pending |
+| 2026-W46 (11 Nov) | ABC AU / NZ Herald / Stuff via domain search (B) | 3 | 0 | 0 | pending |
+| 2026-W46 (11 Nov) | Chinese pattern searches (simplified + traditional) | 5 | 0 | 0 | pending |
+| 2026-W46 (11 Nov) | Korean pattern searches | 2 | 0 | 0 | pending |
+| 2026-W46 (11 Nov) | English pattern searches (theft, AI, "stop coming") | 4 | 0 | 0 | pending |
+| 2026-W46 (11 Nov) | Channel A feeds (Reddit/Trends RSS) | 0 (unreachable) | 0 | 0 | pending |

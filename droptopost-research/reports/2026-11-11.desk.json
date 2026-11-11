@@ -1,0 +1,75 @@
+{
+ "round": "11 Nov 2026",
+ "stories": [
+  {
+   "id": "2026-11-11-B-1",
+   "sort": 2026111198,
+   "tier": "candidate",
+   "score": 7.5,
+   "freshness": "Recent (7-8 Nov 2026, still unfolding)",
+   "evidence": "High",
+   "headline": "A food festival promised stallholders 50,000 visitors. A few hundred came. One stall had cooked 200 kg of chicken, and the organisers deleted their social accounts.",
+   "what": "Local Food Fight in Tottori, a regional food sales battle in Kurayoshi on 7-8 Nov 2026, was run by an executive committee (TOSU LLC, representative Ami Matsubayashi; YouTuber Sayoto as co-chair) and promoted with a 50,000-visitor target. Stallholders paid a 55,000 yen fee. They told FNN and NTV that 300-500 people came on day one; Livedoor reports under 2,000 over two days. A stall that prepared 200 kg of chicken sold a few kilos; a local sake brewery reports about 700,000 yen lost.",
+   "twist": "After the event the organisers deleted their social accounts and went silent; their representative told NTV that 50,000 was a target, not a promise. On 11 Nov they began posting again; Sayoto apologised and promised an explanation by the end of November. No ending yet.",
+   "why": "A festival with stalls, a stage and food for 50,000, and nobody there.",
+   "result": "Reported (FNN, NTV, Livedoor): official visitor count unknown; stallholder losses as stated by stallholders. No legal action reported yet.",
+   "dates": "Event 7-8 Nov 2026 · organisers silent 9-10 Nov · apology posts 11 Nov · explanation promised by end of Nov",
+   "proof": [
+    {
+     "label": "FNN (Yahoo! News)",
+     "url": "https://news.yahoo.co.jp/articles/b00ebec398e51335a06ccc8bfa41412580a7a28a"
+    },
+    {
+     "label": "NTV News NNN (Yahoo! News)",
+     "url": "https://news.yahoo.co.jp/articles/f1433f4b8bc2edd7b3e366f2242c24e406a7f6ad"
+    },
+    {
+     "label": "Livedoor News",
+     "url": "https://news.livedoor.com/article/detail/32784146/"
+    },
+    {
+     "label": "coki (apology)",
+     "url": "https://coki.jp/article/column/97394/"
+    },
+    {
+     "label": "Organisers' PR Times release",
+     "url": "https://prtimes.jp/main/html/rd/p/000000002.000192673.html"
+    }
+   ],
+   "note": "Entertainment 8 · Narrative 7 · Business 8 · Evidence 8 · Freshness 10. Candidate, not a pick: no turn after the turn, no ending yet. Footage: FNN/NTV TV reports (not opened from here). Never call it fraud; fraud claims are online accusations only."
+  },
+  {
+   "id": "2026-11-11-B-2",
+   "sort": 2026111197,
+   "tier": "candidate",
+   "score": 7,
+   "freshness": "Recent (6 Nov 2026)",
+   "evidence": "High",
+   "headline": "A pizza chain's ad account started making its own anime ads. Nobody at the company knew, until fans noticed the characters looked wrong.",
+   "what": "PIZZA-LA (Four Seeds) ran a licensed Dr. STONE anime collaboration from 1 Oct to 1 Nov 2026. Viewers noticed its TikTok ads showed characters in poses and styles not in the official artwork and asked whether AI had been used.",
+   "twist": "It had, but not by staff: the campaign was set up with TikTok's AI automatic ad generation and delivery still switched on, so the platform generated and ran video the production committee never approved. On 6 Nov PIZZA-LA pulled it, paused all TikTok ads and apologised, including for apologising late.",
+   "why": "A machine made an unlicensed cartoon ad for a pizza company, and the company found out from fans.",
+   "result": "Verified (company statement via J-CAST, AdverTimes, Anime! Anime!, Dexerto): ad removed, all TikTok ads paused. Financial impact unknown.",
+   "dates": "Collaboration 1 Oct - 1 Nov 2026 · apology 6 Nov 2026",
+   "proof": [
+    {
+     "label": "J-CAST News",
+     "url": "https://www.j-cast.com/2026/11/06519017.html"
+    },
+    {
+     "label": "AdverTimes",
+     "url": "https://www.advertimes.com/?p=563310"
+    },
+    {
+     "label": "Anime! Anime!",
+     "url": "https://animeanime.jp/article/2026/11/06/104533.html"
+    },
+    {
+     "label": "Dexerto",
+     "url": "https://www.dexerto.com/food/japanese-pizza-chain-apologizes-after-tiktok-ai-tool-creates-unauthorized-dr-stone-ad-3425843/"
+    }
+   ],
+   "note": "Entertainment 6 · Narrative 6 · Business 8 · Evidence 8 · Freshness 10. Candidate, not a pick: big chain, weak ending. Close cousin of the Just Eat AI menus story the owner already knows."
+  }
+ ]
+}
