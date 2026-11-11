@@ -86,6 +86,12 @@ The 2026-11-03 report used old labels: card **A1–A10 = A1-1…A1-10**, **B1–
 | 2026-11-05-A2-2 | 2026-11-05 | A2 | Garage-door repair with $50K debt → reported $2bn KKR deal | A1 Garage Door Service, Tommy Mello, KKR, Cortec Group | 2007–2026-09 | new |
 | 2026-11-05-A3-1 | 2026-11-05 | A3 | Zero-commission marketplace earning from ads and logistics | Meesho, Valmo | 2021–2026-11 | new |
 | 2026-11-05-A3-2 | 2026-11-05 | A3 | Drugstore chain became a tourist destination, foreigners 2% → 33% | CJ Olive Young, Olive Young | 2022–2026-08 | new |
+| 2026-11-11-A1-1 | 2026-11-11 | A1 | Fund claiming it predicted Brexit/Trump allegedly faked its own returns | Vuk Vukovic, Oraclum Capital, Orca Bason Fund | 2023–2026-09 | new |
+| 2026-11-11-A1-2 | 2026-11-11 | A1 | K-pop label CEO detained over alleged ₩30bn artist-IP fraud | Cha Ga-won, One Hundred Label, MC Mong, INB100 | 2023–2026-11 | new |
+| 2026-11-11-A1-3 | 2026-11-11 | A1 | Fake 'AI trading bots', only 3% of $12.3M traded | Nathan Fuller, Privvy Investments, Gateway Digital Investments | 2022–2026-05 | new |
+| 2026-11-11-A2-1 | 2026-11-11 | A2 | Teen's 3D-printed can holder, $808K from parents' basement | Mike Satterlee, CruiseCup | 2025–2026-10 | new |
+| 2026-11-11-A3-1 | 2026-11-11 | A3 | AI tokens as loyalty currency on Chinese cards and phone plans | Kimi, Moonshot AI, Agricultural Bank of China, China Merchants Bank, MiniMax | 2026-09 | new |
+| 2026-11-11-A3-2 | 2026-11-11 | A3 | AI agents paid per resolved conversation, $100M ARR in 21 months | Sierra, Bret Taylor, Clay Bavor | 2023–2026-05 | new |
 
 ## Checked but not used
 | Date | Story | Why skipped |
@@ -108,3 +114,7 @@ The 2026-11-03 report used old labels: card **A1–A10 = A1-1…A1-10**, **B1–
 | 2026-11-05 | Seoul ₩14.2bn China-run investment scam ring | one source only; re-check |
 | 2026-11-05 | Utah $60M Ponzi admission (2 Nov) | one source only; re-check |
 | 2026-11-05 | Grant Bae / Treashonna Graham | verdict not confirmed by a second source |
+| 2026-11-11 | Matthew Bates / Hedgehog Investments $60M Ponzi | generic; sentencing 12 Jan 2027 |
+| 2026-11-11 | Rishi Kapoor / Location Ventures 136 months | generic developer fraud |
+| 2026-11-11 | HK ICAC ¥400M fraud on Japanese investors | source blocked, unverified |
+| 2026-11-11 | Andrew Laub (SDNY) | single hit, unconfirmed |
