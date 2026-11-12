@@ -92,6 +92,10 @@ The 2026-11-03 report used old labels: card **A1–A10 = A1-1…A1-10**, **B1–
 | 2026-11-11-A2-1 | 2026-11-11 | A2 | Teen's 3D-printed can holder, $808K from parents' basement | Mike Satterlee, CruiseCup | 2025–2026-10 | new |
 | 2026-11-11-A3-1 | 2026-11-11 | A3 | AI tokens as loyalty currency on Chinese cards and phone plans | Kimi, Moonshot AI, Agricultural Bank of China, China Merchants Bank, MiniMax | 2026-09 | new |
 | 2026-11-11-A3-2 | 2026-11-11 | A3 | AI agents paid per resolved conversation, $100M ARR in 21 months | Sierra, Bret Taylor, Clay Bavor | 2023–2026-05 | new |
+| 2026-11-12-A1-1 | 2026-11-12 | A1 | Nvidia board weighs ousting Jensen Huang after affair with alleged Chinese spy | Jensen Huang, Nvidia, Alice Huang, Megaspeed, Kimberly Powell | 2026-11-08 → 11 | new |
+| 2026-11-12-A1-2 | 2026-11-12 | A1 | AI-cloned CEOs and fake lawyers, $129M wired, three charged | Jacob Soall, Sharon Hazan, Guy Sheetrit | 2024-07–2026-11 | new |
+| 2026-11-12-A3-1 | 2026-11-12 | A3 | Pay-per-cliffhanger micro-dramas heading for $1bn revenue and first profit | ReelShort, Crazy Maple Studio, COL Group, DramaBox | 2026-08 | new |
+| 2026-11-12-A3-2 | 2026-11-12 | A3 | Ex-DJI team's 3D printers pass RMB 10bn by paying creators for free designs | Bambu Lab, Tao Ye, MakerWorld | 2020–2026-10 | new |
 
 ## Checked but not used
 | Date | Story | Why skipped |
@@ -118,3 +122,7 @@ The 2026-11-03 report used old labels: card **A1–A10 = A1-1…A1-10**, **B1–
 | 2026-11-11 | Rishi Kapoor / Location Ventures 136 months | generic developer fraud |
 | 2026-11-11 | HK ICAC ¥400M fraud on Japanese investors | source blocked, unverified |
 | 2026-11-11 | Andrew Laub (SDNY) | single hit, unconfirmed |
+| 2026-11-12 | Europol/Eurojust trading-scam takedown (~€4M) | small, no characters |
+| 2026-11-12 | Buy2Let Cars £88M SFO trial | no verdict yet |
+| 2026-11-12 | Brent Kovar $24M crypto Ponzi | sentencing 30 Nov |
+| 2026-11-12 | Wonder confidential IPO filing | no public financials |
