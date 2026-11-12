@@ -101,3 +101,12 @@ One row per run. Count where each story was **first found**, not where it was ve
 | 2026-W46 (11 Nov) | Korean pattern searches | 2 | 0 | 0 | pending |
 | 2026-W46 (11 Nov) | English pattern searches (theft, AI, "stop coming") | 4 | 0 | 0 | pending |
 | 2026-W46 (11 Nov) | Channel A feeds (Reddit/Trends RSS) | 0 (unreachable) | 0 | 0 | pending |
+| 2026-W46 (12 Nov) | Chinese pattern searches (simplified + traditional) → The Paper / CNR / Guangming / Jiemian (B) | 6 | 1 | 1 | pending |
+| 2026-W46 (12 Nov) | Korea Herald / Korea Times / SCMP / SoraNews24 via domain search (B) | 3 | 1 | 0 | pending |
+| 2026-W46 (12 Nov) | Dexerto / Mothership / Today / SFGATE / Daily Dot via domain search (B) | 4 | 0 | 0 | pending |
+| 2026-W46 (12 Nov) | NBC / Fox Business / Inc / IBTimes via domain search (B) | 1 | 0 | 0 | pending |
+| 2026-W46 (12 Nov) | ABC AU / NZ Herald / Stuff / Thaiger via domain search (B) | 2 | 0 | 0 | pending |
+| 2026-W46 (12 Nov) | Japanese pattern searches | 2 | 0 | 0 | pending |
+| 2026-W46 (12 Nov) | Korean pattern searches | 2 | 0 | 0 | pending |
+| 2026-W46 (12 Nov) | English pattern searches (Facebook post, AI refund, theft) | 5 | 0 | 0 | pending |
+| 2026-W46 (12 Nov) | Channel A feeds (Reddit/Trends RSS) | 0 (unreachable) | 0 | 0 | pending |

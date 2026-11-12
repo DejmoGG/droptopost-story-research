@@ -1,0 +1,75 @@
+{
+ "round": "12 Nov 2026",
+ "stories": [
+  {
+   "id": "2026-11-12-B-1",
+   "sort": 2026111298,
+   "tier": "pick",
+   "score": 8.5,
+   "freshness": "Breaking (10-11 Nov 2026, still unfolding)",
+   "evidence": "High",
+   "headline": "Shop owners all over China started holding the same red banner: \"Ban food delivery, shut down livestreams.\" State TV found they were paying a marketing firm 3,800 yuan a month to say it.",
+   "what": "Short videos showed owners of small physical shops holding a red banner reading \"cancel delivery, shut down livestreams, bring back real shops\". On 10 Nov CCTV traced the wave to Sichuan Shizhou Culture Media, a Yibin company registered in March 2026, running a brand called Sichuan Tongzhou Hui. Its operator, known online as Binlang Ge, sold shops account management, reportedly 3,800 yuan a month for 15 videos; the banner was the hook.",
+   "twist": "The protesters weren't protesting: a banquet restaurant had never offered delivery, another shop still did delivery, and one was a clothing shop. The operator admitted on camera the banner was a tested template, made deliberately low-quality, for 'violent account growth'. On 11 Nov Yibin's cyberspace office, police and market regulator formed a joint investigation team, ordered the company to stop and began investigating the people in charge; the account went private.",
+   "why": "A grassroots protest against the internet turned out to be an internet growth hack, and the 'restaurant' was a clothing shop.",
+   "result": "Verified (CCTV via The Paper, CNR, Guangming, China Economic Net, Jiemian, Sina Finance): joint investigation team formed 11 Nov; company ordered to stop. Fee reported by SMZDM. Penalties unknown yet.",
+   "dates": "Template videos autumn 2026 · CCTV exposé 10 Nov 2026 · joint investigation 11 Nov 2026 · still unfolding",
+   "proof": [
+    {
+     "label": "The Paper (CCTV exposé + Yibin probe)",
+     "url": "https://www.thepaper.cn/newsDetail_forward_34455573"
+    },
+    {
+     "label": "The Paper (joint investigation team)",
+     "url": "https://www.thepaper.cn/newsDetail_forward_34454898"
+    },
+    {
+     "label": "CNR",
+     "url": "https://china.cnr.cn/gdgg/20261110/t20261110_527867817.shtml"
+    },
+    {
+     "label": "Guangming Daily",
+     "url": "https://legal.gmw.cn/2026-11/10/content_39093852.htm"
+    },
+    {
+     "label": "Jiemian",
+     "url": "https://www.jiemian.com/article/15322371.html"
+    },
+    {
+     "label": "CCTV report video (The Paper)",
+     "url": "https://www.thepaper.cn/newsDetail_forward_34447478"
+    }
+   ],
+   "note": "Entertainment 8 · Narrative 9 · Business 9 · Evidence 8 · Freshness 10. Footage: CCTV report video (shows banner videos, shops, operator's admission); original banner videos not found (account private). Opener: shopkeeper holding the red banner, hard cut to the clothes rails behind it. Never say the shops committed fraud; investigation targets the agency's people, no findings yet. No English coverage found."
+  },
+  {
+   "id": "2026-11-12-B-2",
+   "sort": 2026111297,
+   "tier": "candidate",
+   "score": 7,
+   "freshness": "Recent (4-12 Nov 2026)",
+   "evidence": "Medium",
+   "headline": "He begged shoppers not to buy his scarves. Now he needs private security guards, the police have been called, and he opened an online shop.",
+   "what": "UPDATE of 2026-11-04-B-1. The Namdaemun Market scarf man (Hanyangsa, six scarves for 10,000 won) went viral telling customers not to buy. He reopened on 4 Nov; about 100 people blocked the alley, neighbours complained, police were called; he closed again on 5 Nov.",
+   "twist": "He hired three private security guards, stopped publishing his hours and opened an online shop; the Korea Herald reports early orders sold out. Jung-gu district plans to add the market to the government's crowd-management system.",
+   "why": "The anti-salesman became the most mobbed seller in Seoul.",
+   "result": "Reported: online sell-out (Korea Herald only); closures, police and guards (Financial News, Wikitree, Korea Times). Sales unknown.",
+   "dates": "Viral from 25 Oct 2026 · closures 31 Oct and 5 Nov · guards and online shop early-mid Nov · Korea Times follow-up 12 Nov",
+   "proof": [
+    {
+     "label": "Korea Herald (online shop)",
+     "url": "https://www.koreaherald.com/article/10935127"
+    },
+    {
+     "label": "Korea Times",
+     "url": "https://www.koreatimes.co.kr/southkorea/20261112/women-flock-to-seouls-namdaemun-market-for-viral-scarf-man"
+    },
+    {
+     "label": "Financial News",
+     "url": "https://www.fnnews.com/news/202611060939320806"
+    }
+   ],
+   "note": "Entertainment 7 · Narrative 7 · Business 8 · Evidence 6 · Freshness 9. Candidate, not a pick: online sell-out has a single source; no ending yet. Show only if the owner liked 2026-11-04-B-1."
+  }
+ ]
+}
