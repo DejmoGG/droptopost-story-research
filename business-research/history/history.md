@@ -126,3 +126,8 @@ The 2026-11-03 report used old labels: card **A1–A10 = A1-1…A1-10**, **B1–
 | 2026-11-12 | Buy2Let Cars £88M SFO trial | no verdict yet |
 | 2026-11-12 | Brent Kovar $24M crypto Ponzi | sentencing 30 Nov |
 | 2026-11-12 | Wonder confidential IPO filing | no public financials |
+| 2026-11-18-A1-1 | 2026-11-18 | A1 | UPDATE of 2026-11-12-A1-1: Huang resigns as Nvidia CEO; Kress interim, record $115.8bn quarter | Jensen Huang, Nvidia, Colette Kress, Harvey Jones, Alice Huang | 2026-11-12 → 17 | new |
+| 2026-11-18-A1-2 | 2026-11-18 | A1 | 'Ghost herd': brothers convicted in $240M cattle Ponzi, 60,000 cows that didn't exist | Agridime, Joshua Link, Jason Link, Shady Brook Ranch | 2026-11-10 | new |
+| 2026-11-18-A1-3 | 2026-11-18 | A1 | LG family scion repatriated from Cambodia after 8 years on the run, alleged ₩200bn stock manipulation | Koo Bon-hyun, LG | 2016–2026-11 | new |
+| 2026-11-18-A1-4 | 2026-11-18 | A1 | MIT brothers acquitted over $25M Ethereum MEV-bot exploit | Anton Peraire-Bueno, James Peraire-Bueno, Jessica Clarke | 2023-04 → 2026-11-16 | new |
+| 2026-11-18-A3-1 | 2026-11-18 | A3 | Zero-commission ride-hailing: drivers pay a daily fee, $3bn valuation | Rapido, Roppen Transportation, Prosus | 2023–2026-05 | new |
