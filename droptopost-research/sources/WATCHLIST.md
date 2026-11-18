@@ -110,3 +110,11 @@ One row per run. Count where each story was **first found**, not where it was ve
 | 2026-W46 (12 Nov) | Korean pattern searches | 2 | 0 | 0 | pending |
 | 2026-W46 (12 Nov) | English pattern searches (Facebook post, AI refund, theft) | 5 | 0 | 0 | pending |
 | 2026-W46 (12 Nov) | Channel A feeds (Reddit/Trends RSS) | 0 (unreachable) | 0 | 0 | pending |
+| 2026-W47 (18 Nov) | Chinese pattern searches (simplified + traditional) → The Paper / Huxiu / Cover News (B) | 6 | 1 | 0 | pending |
+| 2026-W47 (18 Nov) | Japanese pattern searches (店主 炎上 謝罪) → J-CAST / coki / Livedoor (B) | 4 | 1 | 0 | pending |
+| 2026-W47 (18 Nov) | Korean pattern searches | 4 | 0 | 0 | pending |
+| 2026-W47 (18 Nov) | English pattern searches (AI, theft, apology) | 6 | 0 | 0 | pending |
+| 2026-W47 (18 Nov) | Dexerto / Today / SFGATE / Daily Dot / NBC / Fox local via domain search (B) | 4 | 0 | 0 | pending |
+| 2026-W47 (18 Nov) | Mothership / SoraNews24 / Korea Times / Sixth Tone / SCMP via domain search (B) | 0 | 0 | 0 | pending |
+| 2026-W47 (18 Nov) | German pattern search | 1 (old) | 0 | 0 | 0 |
+| 2026-W47 (18 Nov) | Channel A feeds (Reddit/Trends RSS) | 0 (unreachable) | 0 | 0 | pending |

@@ -1,0 +1,75 @@
+{
+ "round": "18 Nov 2026",
+ "stories": [
+  {
+   "id": "2026-11-18-B-1",
+   "sort": 2026111898,
+   "tier": "candidate",
+   "score": 7.5,
+   "freshness": "This month (4-12 Nov 2026)",
+   "evidence": "Medium",
+   "headline": "A restaurant's video of a mother eating seven bowls of plain rice, and the kind owner who secretly slipped her ¥300, made China cry. The owner had staged the whole thing.",
+   "what": "Around 4 Nov a restaurant in Liangping, Chongqing posted a video: a mother and daughter order only a ¥6 plate of bean sprouts, the mother eats seven bowls of plain rice, and the owner, 'Sister Ying', quietly adds dishes to their bag with a note and ¥300 cash. It spread across Chinese platforms as a feel-good clip.",
+   "twist": "Viewers spotted logic holes and found the owner had posted a tearful video about her struggling business in May; a manager told reporters it was the shop's own promotion. On 12 Nov Liangping's joint investigation team said the video was staged: the 57-year-old operator, surnamed Li, invented the story for traffic, and a case was opened against her.",
+   "why": "The kindest person in the video was the only one acting.",
+   "result": "Verified (official notice via The Paper, Huxiu, China.com, Sina): case opened 12 Nov 2026. Sales effect unknown. Penalty unknown.",
+   "dates": "Video ~4 Nov 2026 · official notice 12 Nov 2026",
+   "proof": [
+    {
+     "label": "The Paper (official notice)",
+     "url": "https://www.thepaper.cn/newsDetail_forward_34462916"
+    },
+    {
+     "label": "Huxiu",
+     "url": "https://m.huxiu.com/moment/1296252.html"
+    },
+    {
+     "label": "China.com",
+     "url": "https://news.china.com/socialgd/10000169/20261112/49867271.html"
+    },
+    {
+     "label": "Cover News",
+     "url": "https://cbgc.scol.com.cn/news/8135269"
+    },
+    {
+     "label": "163.com video (repost)",
+     "url": "https://m.163.com/v/video/VCA7MTFJP.html"
+    }
+   ],
+   "note": "Entertainment 8 · Narrative 7 · Business 7 · Evidence 7 · Freshness 9. Candidate, not a pick: no penalty yet, original Douyin post not found. Same family as last week's pick (staged banner videos)."
+  },
+  {
+   "id": "2026-11-18-B-2",
+   "sort": 2026111897,
+   "tier": "candidate",
+   "score": 7,
+   "freshness": "Recent (14-16 Nov 2026)",
+   "evidence": "Medium",
+   "headline": "Someone crushed a 7-Eleven egg sandwich on camera to advertise an Osaka sandwich shop. 4 million views later, the shop was apologising for an ad it says it never ordered.",
+   "what": "On 14 Nov a one-minute Instagram video showed a hand squeezing a packaged 7-Eleven egg sandwich flat, then cut to the kitchen of Dekasan, an Osaka shop known for oversized sandwiches: 'a sandwich this big should be illegal'. It passed 4 million views by 16 Nov (J-CAST).",
+   "twist": "The backlash hit the shop: food waste, trashing a rival, bare hands with long nails on raw egg. On 15 Nov the shop apologised on X and said it never asked for, paid for or supplied the video; it says a customer made it and asked for deletion. The shop now requires gloves.",
+   "why": "A free ad turned into the shop's worst week, and the shop says it never asked for it.",
+   "result": "Reported via J-CAST, coki, Yahoo Japan: apology 15 Nov; 4M+ views. Sales impact unknown. Who made the video: unclear.",
+   "dates": "Video 14 Nov 2026 · apology 15 Nov · J-CAST 16 Nov 2026",
+   "proof": [
+    {
+     "label": "J-CAST",
+     "url": "https://www.j-cast.com/2026/11/16519223.html"
+    },
+    {
+     "label": "Yahoo Japan",
+     "url": "https://news.yahoo.co.jp/articles/ccb7f2ae2dbc41e681bae577c2a166f1cc0f6e49"
+    },
+    {
+     "label": "coki",
+     "url": "https://coki.jp/article/column/97631/"
+    },
+    {
+     "label": "X trending page",
+     "url": "https://x.com/i/trending/2121911839839621611"
+    }
+   ],
+   "note": "Entertainment 7 · Narrative 7 · Business 8 · Evidence 6 · Freshness 10. Candidate, not a pick: no payoff yet; original post not found."
+  }
+ ]
+}

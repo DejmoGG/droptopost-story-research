@@ -87,3 +87,5 @@ Every story ever shown in Report B. **Status** is yours to edit: `new` → `appr
 | 2026-11-11-B-2 | 2026-11-11 | B | TikTok's AI auto-generated an unlicensed anime ad for a pizza chain; all TikTok ads paused | PIZZA-LA, Four Seeds, Dr. STONE | 2026-11-06 | new |
 | 2026-11-12-B-1 | 2026-11-12 | B | Shops' 'ban delivery, shut livestreams' banner videos were a paid MCN template; Yibin joint police/regulator probe | Sichuan Shizhou Culture Media, Sichuan Tongzhou Hui, Binlang Ge | 2026-11-10 → 11 | new |
 | 2026-11-12-B-2 | 2026-11-12 | B | UPDATE of 2026-11-04-B-1: 'don't buy' scarf man now needs guards and police, opens online shop | Hanyangsa, Namdaemun scarf man, Namdaemun Market | 2026-11-04 → 12 | new |
+| 2026-11-18-B-1 | 2026-11-18 | B | Restaurant's 'mother eats 7 bowls of rice, kind owner slips ¥300' video was staged by the operator; case opened | Liangping restaurant, Sister Ying (英姐), operator Li | 2026-11-04 → 12 | new |
+| 2026-11-18-B-2 | 2026-11-18 | B | Unsolicited ad crushing a 7-Eleven egg sandwich backfires on Osaka sandwich shop; shop apologises, denies ordering it | Dekasan (デカサン), 7-Eleven | 2026-11-14 → 16 | new |
