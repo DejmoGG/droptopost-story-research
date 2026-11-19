@@ -96,6 +96,15 @@ The 2026-11-03 report used old labels: card **A1–A10 = A1-1…A1-10**, **B1–
 | 2026-11-12-A1-2 | 2026-11-12 | A1 | AI-cloned CEOs and fake lawyers, $129M wired, three charged | Jacob Soall, Sharon Hazan, Guy Sheetrit | 2024-07–2026-11 | new |
 | 2026-11-12-A3-1 | 2026-11-12 | A3 | Pay-per-cliffhanger micro-dramas heading for $1bn revenue and first profit | ReelShort, Crazy Maple Studio, COL Group, DramaBox | 2026-08 | new |
 | 2026-11-12-A3-2 | 2026-11-12 | A3 | Ex-DJI team's 3D printers pass RMB 10bn by paying creators for free designs | Bambu Lab, Tao Ye, MakerWorld | 2020–2026-10 | new |
+| 2026-11-18-A1-1 | 2026-11-18 | A1 | UPDATE of 2026-11-12-A1-1: Huang resigns as Nvidia CEO; Kress interim, record $115.8bn quarter | Jensen Huang, Nvidia, Colette Kress, Harvey Jones, Alice Huang | 2026-11-12 → 17 | new |
+| 2026-11-18-A1-2 | 2026-11-18 | A1 | 'Ghost herd': brothers convicted in $240M cattle Ponzi, 60,000 cows that didn't exist | Agridime, Joshua Link, Jason Link, Shady Brook Ranch | 2026-11-10 | new |
+| 2026-11-18-A1-3 | 2026-11-18 | A1 | LG family scion repatriated from Cambodia after 8 years on the run, alleged ₩200bn stock manipulation | Koo Bon-hyun, LG | 2016–2026-11 | new |
+| 2026-11-18-A1-4 | 2026-11-18 | A1 | MIT brothers acquitted over $25M Ethereum MEV-bot exploit | Anton Peraire-Bueno, James Peraire-Bueno, Jessica Clarke | 2023-04 → 2026-11-16 | new |
+| 2026-11-18-A3-1 | 2026-11-18 | A3 | Zero-commission ride-hailing: drivers pay a daily fee, $3bn valuation | Rapido, Roppen Transportation, Prosus | 2023–2026-05 | new |
+| 2026-11-19-A1-1 | 2026-11-19 | A1 | '6% a month' forex fund: founders charged in alleged $600M Ponzi, 2,000+ investors | Backward Hat Capital, Phillip Patrick Williams, Devin Allen Johnson | 2026-11-18 | new |
+| 2026-11-19-A1-2 | 2026-11-19 | A1 | Poland's biggest crypto exchange collapses; founder missing, CEO cooperating, Olympic chief arrested | Zondacrypto, Sylwester Suszek, Przemysław Kral, Radosław Piesiewicz | 2026-04 → 2026-08 | new |
+| 2026-11-19-A1-3 | 2026-11-19 | A1 | Record $6.3bn Binance theft via one engineer's laptop; FBI blames North Korea | Binance, TraderTraitor, Lazarus Group | 2026-10-29 → 11-01 | new |
+| 2026-11-19-A2-1 | 2026-11-19 | A2 | Work-boot brand from 2020 to $300M+ sales; Permira buys in at $800M+ | Brunt Workwear, Eric Girouard, Permira, Freeman Spogli | 2020 → 2026-11-18 | new |
 
 ## Checked but not used
 | Date | Story | Why skipped |
@@ -126,8 +135,6 @@ The 2026-11-03 report used old labels: card **A1–A10 = A1-1…A1-10**, **B1–
 | 2026-11-12 | Buy2Let Cars £88M SFO trial | no verdict yet |
 | 2026-11-12 | Brent Kovar $24M crypto Ponzi | sentencing 30 Nov |
 | 2026-11-12 | Wonder confidential IPO filing | no public financials |
-| 2026-11-18-A1-1 | 2026-11-18 | A1 | UPDATE of 2026-11-12-A1-1: Huang resigns as Nvidia CEO; Kress interim, record $115.8bn quarter | Jensen Huang, Nvidia, Colette Kress, Harvey Jones, Alice Huang | 2026-11-12 → 17 | new |
-| 2026-11-18-A1-2 | 2026-11-18 | A1 | 'Ghost herd': brothers convicted in $240M cattle Ponzi, 60,000 cows that didn't exist | Agridime, Joshua Link, Jason Link, Shady Brook Ranch | 2026-11-10 | new |
-| 2026-11-18-A1-3 | 2026-11-18 | A1 | LG family scion repatriated from Cambodia after 8 years on the run, alleged ₩200bn stock manipulation | Koo Bon-hyun, LG | 2016–2026-11 | new |
-| 2026-11-18-A1-4 | 2026-11-18 | A1 | MIT brothers acquitted over $25M Ethereum MEV-bot exploit | Anton Peraire-Bueno, James Peraire-Bueno, Jessica Clarke | 2023-04 → 2026-11-16 | new |
-| 2026-11-18-A3-1 | 2026-11-18 | A3 | Zero-commission ride-hailing: drivers pay a daily fee, $3bn valuation | Rapido, Roppen Transportation, Prosus | 2023–2026-05 | new |
+| 2026-11-19 | Rewrite (Japan) ¥1 houses | mechanism great, numbers tiny, one source |
+| 2026-11-19 | Banco Master one year on | anniversary, no new development |
+| 2026-11-19 | Jordan Belfort AI voice startup Tone | novelty, weak numbers |
