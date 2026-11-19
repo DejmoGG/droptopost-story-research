@@ -48,17 +48,6 @@ Every story ever shown in Report B. **Status** is yours to edit: `new` → `appr
 | 2026-11-03-test-B3-1 | 2026-11-03 | B3 | Intro TikTok, 16M views, dough 1 → 7 a day | Pan Pan bakery, Laura Molinar | 2024–2025 | new |
 | 2026-11-03-test-B3-2 | 2026-11-03 | B3 | Ms. Rachel repost paid a month's rent in a day | The Bomme Sweets, Ashley La Bomme-Benson, Ms. Rachel | 2026-08 | new |
 | 2026-11-03-test-B3-3 | 2026-11-03 | B3 | Daughter's TikTok plea saved Plano restaurant | Sazon De Loa, Leslie De Loa, Rafael De Loa | 2026-06 | new |
-
-## Checked but not used
-| Date | Story | Why skipped |
-|---|---|---|
-| 2026-11-03 | La Famosa taqueria "lunch in my city" | single source |
-| 2026-11-03 | HeyGen $200M ARR | no human story |
-| 2026-11-03 | Levi's / Uber Eats / Huggies 2026 campaigns | self-reported earned media only |
-| 2026-11-03 | Converse / Callaway 2026 ad pulls | no payoff or numbers |
-| 2026-11-03 | Neutrogena / Hayden Panettiere boycott | tied to a death |
-| 2026-11-03 | Big Lee's BBQ $100K in 3 weeks | TikTok promo source only |
-| 2026-11-03 | 19-year-old Michigan taco shop (Apr 2026) | matches REF-02 |
 | 2026-11-03-B-1 | 2026-11-03 | B | 80-year-old's dying restaurant, granddaughter's secret video, packed by noon | La Palma, Loren Jewett, Pedro Perez Estrella | 2026-10 | rejected (owner: already heard / from owner's or ChatGPT's list) |
 | 2026-11-03-B-2 | 2026-11-03 | B | AI menu photos: tiger prawns became tiger cubs; café graffitied | Just Eat, Grind & Unwind, AJ Lozano, Lyndsey Lozano | 2026-10 | rejected (owner: already heard / from owner's or ChatGPT's list) |
 | 2026-11-03-B-3 | 2026-11-03 | B | Customer screamed at teen over 20 cents, owner's post went global | Coldstuff Ice-Cream, David Forgit, Kevin Miller | 2026-10 | rejected (owner: already heard / from owner's or ChatGPT's list) |
@@ -89,3 +78,16 @@ Every story ever shown in Report B. **Status** is yours to edit: `new` → `appr
 | 2026-11-12-B-2 | 2026-11-12 | B | UPDATE of 2026-11-04-B-1: 'don't buy' scarf man now needs guards and police, opens online shop | Hanyangsa, Namdaemun scarf man, Namdaemun Market | 2026-11-04 → 12 | new |
 | 2026-11-18-B-1 | 2026-11-18 | B | Restaurant's 'mother eats 7 bowls of rice, kind owner slips ¥300' video was staged by the operator; case opened | Liangping restaurant, Sister Ying (英姐), operator Li | 2026-11-04 → 12 | new |
 | 2026-11-18-B-2 | 2026-11-18 | B | Unsolicited ad crushing a 7-Eleven egg sandwich backfires on Osaka sandwich shop; shop apologises, denies ordering it | Dekasan (デカサン), 7-Eleven | 2026-11-14 → 16 | new |
+| 2026-11-19-B-1 | 2026-11-19 | B | Homeowner's Punjabi TikTok about his builder costs him A$883K damages, >A$1M with costs | Singh Homes, Gurvinderpal Singh, Parvinder Singh Sarwara, Daman Preet Singh Anand | 2024-02 → 2026-11-05 | new |
+| 2026-11-19-B-2 | 2026-11-19 | B | Taipei mayor's campaign crowd surrounds dumpling shop backing rival; review war, closure, sticky-note wall | 又一村 (Liaoning Night Market), Chiang Wan-an, Wang Hung-wei, Hsu Chiao-hsin, Puma Shen | 2026-11-06 → 09 | new |
+
+## Checked but not used
+| Date | Story | Why skipped |
+|---|---|---|
+| 2026-11-03 | La Famosa taqueria "lunch in my city" | single source |
+| 2026-11-03 | HeyGen $200M ARR | no human story |
+| 2026-11-03 | Levi's / Uber Eats / Huggies 2026 campaigns | self-reported earned media only |
+| 2026-11-03 | Converse / Callaway 2026 ad pulls | no payoff or numbers |
+| 2026-11-03 | Neutrogena / Hayden Panettiere boycott | tied to a death |
+| 2026-11-03 | Big Lee's BBQ $100K in 3 weeks | TikTok promo source only |
+| 2026-11-03 | 19-year-old Michigan taco shop (Apr 2026) | matches REF-02 |

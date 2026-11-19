@@ -118,3 +118,10 @@ One row per run. Count where each story was **first found**, not where it was ve
 | 2026-W47 (18 Nov) | Mothership / SoraNews24 / Korea Times / Sixth Tone / SCMP via domain search (B) | 0 | 0 | 0 | pending |
 | 2026-W47 (18 Nov) | German pattern search | 1 (old) | 0 | 0 | 0 |
 | 2026-W47 (18 Nov) | Channel A feeds (Reddit/Trends RSS) | 0 (unreachable) | 0 | 0 | pending |
+| 2026-W47 (19 Nov) | English pattern searches (TikTok backlash, defamation) → SmartCompany / NZ Herald / RNZ (B) | 5 | 1 | 0 | pending |
+| 2026-W47 (19 Nov) | Traditional Chinese pattern searches → LTN / Yahoo TW / Mirror Media (B) | 1 | 1 | 0 | pending |
+| 2026-W47 (19 Nov) | Simplified Chinese pattern searches | 2 (both already shown) | 0 | 0 | pending |
+| 2026-W47 (19 Nov) | Japanese pattern searches | 2 (both already shown) | 0 | 0 | pending |
+| 2026-W47 (19 Nov) | Korean pattern searches | 1 | 0 | 0 | pending |
+| 2026-W47 (19 Nov) | Mothership / Dexerto / Today / SFGATE / Daily Dot via domain search (B) | 7 | 0 | 0 | pending |
+| 2026-W47 (19 Nov) | Channel A feeds (Reddit/Trends RSS) | 0 (unreachable) | 0 | 0 | pending |

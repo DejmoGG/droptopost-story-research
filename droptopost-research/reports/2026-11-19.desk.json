@@ -1,0 +1,67 @@
+{
+ "round": "19 Nov 2026",
+ "stories": [
+  {
+   "id": "2026-11-19-B-1",
+   "sort": 2026111998,
+   "tier": "candidate",
+   "score": 7.5,
+   "freshness": "This month (5 Nov 2026)",
+   "evidence": "Medium",
+   "headline": "A man posted one angry TikTok about his home builder. It has now cost him more than a million dollars.",
+   "what": "In Melbourne, Singh Homes ended Gurvinderpal Singh's building contract on 12 Feb 2024 over payment and workmanship disputes. He posted a Punjabi-language TikTok attacking the builder; it reached about 220,000 views, mostly in Melbourne's Punjabi community, and spread on WhatsApp. A jury found it called the directors dodgy builders who neglected customers.",
+   "twist": "The builder told the court about 12 prospective customers walked away, and Singh kept the video up until around July 2025 despite repeated requests, earning aggravated damages. Damages: A$673,000 to the company and A$105,000 to each director, A$883,000 in total, with costs and interest expected to pass A$1 million.",
+   "why": "Everyone has wanted to post an angry review. This is what one cost.",
+   "result": "Reported via SmartCompany and law-firm notes: A$883,000 damages, total over A$1M expected. 12 lost customers is the builder's claim. Appeal outcome: reports conflict.",
+   "dates": "Contract ended 12 Feb 2024 · director awards 28 Oct 2026 · reported 5 Nov 2026",
+   "proof": [
+    {
+     "label": "SmartCompany",
+     "url": "https://www.smartcompany.com.au/business-advice/viral-tiktok-complaint-leaves-homeowner-facing-1-million-plus-bill/"
+    },
+    {
+     "label": "Fenwick Elliot Grace",
+     "url": "https://feg.com.au/construction-law-updates/tiktok-trouble/"
+    },
+    {
+     "label": "Cornwalls",
+     "url": "https://www.cornwalls.com.au/breaking-down-the-wall-defaming-a-builder-in-the-21st-century/"
+    },
+    {
+     "label": "The Good Builder",
+     "url": "https://thegoodbuilder.com.au/a-homeowners-posts-about-his-builder-cost-him-883000-who-else-is-at-risk-in-complaint-groups/"
+    }
+   ],
+   "note": "Entertainment 7 · Narrative 7 · Business 9 · Evidence 7 · Freshness 8. Original video removed (~Jul 2025); footage not found. The customer posted; the business won."
+  },
+  {
+   "id": "2026-11-19-B-2",
+   "sort": 2026111997,
+   "tier": "candidate",
+   "score": 7,
+   "freshness": "This month (6-9 Nov 2026)",
+   "evidence": "Medium",
+   "headline": "A mayor's campaign crowd surrounded a dumpling shop for backing his rival. Then both sides turned its Google reviews into a battlefield.",
+   "what": "On 6 Nov 2026 Taipei mayor Chiang Wan-an campaigned through Liaoning Night Market. At the dumpling shop 又一村, which had a poster for his opponent Puma Shen, legislator Wang Hung-wei led supporters chanting outside while customers and children were inside. The owners posted their account; Chiang apologised on 8 Nov, then asked why other shops had no problem.",
+   "twist": "A legislator urged five-star Google reviews; others flooded it with one-star reviews and bot-like accounts swamped its posts. The shop closed for a day on 7 Nov. Then strangers covered its shutter in sticky notes, it reopened, the owner joined the rival's motorcade with a thank-you sign, and a councillor from the mayor's own party queued to buy dumplings.",
+   "why": "A tiny shop's window poster became the centre of a city election.",
+   "result": "Reported via LTN, Yahoo TW, Mirror Media/SETN, Business Today: one-day closure, reopened. Revenue unknown. Bot accounts: unverified claim.",
+   "dates": "Incident 6 Nov 2026 · closure 7 Nov · apology 8 Nov · councillor visit 9 Nov",
+   "proof": [
+    {
+     "label": "LTN",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5632565"
+    },
+    {
+     "label": "Mirror Media / SETN",
+     "url": "https://www.mirrormedia.mg/external/setn_1935327"
+    },
+    {
+     "label": "Business Today",
+     "url": "https://www.businesstoday.com.tw/article/category/183027/post/202611070007/"
+    }
+   ],
+   "note": "Entertainment 7 · Narrative 7 · Business 7 · Evidence 7 · Freshness 9. Needs Taiwan election context (capped at 7.5). Original Facebook posts not reached."
+  }
+ ]
+}
