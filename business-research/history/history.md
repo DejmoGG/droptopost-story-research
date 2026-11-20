@@ -105,6 +105,8 @@ The 2026-11-03 report used old labels: card **A1–A10 = A1-1…A1-10**, **B1–
 | 2026-11-19-A1-2 | 2026-11-19 | A1 | Poland's biggest crypto exchange collapses; founder missing, CEO cooperating, Olympic chief arrested | Zondacrypto, Sylwester Suszek, Przemysław Kral, Radosław Piesiewicz | 2026-04 → 2026-08 | new |
 | 2026-11-19-A1-3 | 2026-11-19 | A1 | Record $6.3bn Binance theft via one engineer's laptop; FBI blames North Korea | Binance, TraderTraitor, Lazarus Group | 2026-10-29 → 11-01 | new |
 | 2026-11-19-A2-1 | 2026-11-19 | A2 | Work-boot brand from 2020 to $300M+ sales; Permira buys in at $800M+ | Brunt Workwear, Eric Girouard, Permira, Freeman Spogli | 2020 → 2026-11-18 | new |
+| 2026-11-20-A1-1 | 2026-11-20 | A1 | NBA suspends Ballmer a year, $30M fine, 5 picks over Leonard's $28M Aspiration deal; Aspiration co-founder got 14 years | LA Clippers, Steve Ballmer, Kawhi Leonard, Aspiration, Joe Sanberg | 2021 → 2026-09-02 | new |
+| 2026-11-20-A1-2 | 2026-11-20 | A1 | 'ISA' mini-bonds collapse: SFO charges eight, 7 years after £251M loss to 11,200 savers | London Capital & Finance, Simon Hume-Kendall, Michael Andrew Thomson, Helen Hume-Kendall | 2019-01 → 2026-11-16 | new |
 
 ## Checked but not used
 | Date | Story | Why skipped |
@@ -138,3 +140,6 @@ The 2026-11-03 report used old labels: card **A1–A10 = A1-1…A1-10**, **B1–
 | 2026-11-19 | Rewrite (Japan) ¥1 houses | mechanism great, numbers tiny, one source |
 | 2026-11-19 | Banco Master one year on | anniversary, no new development |
 | 2026-11-19 | Jordan Belfort AI voice startup Tone | novelty, weak numbers |
+| 2026-11-20 | Kim Il-doo / Open Research indictment | single source, small sums |
+| 2026-11-20 | Meade Lewis / mIQroTech plea | small; sentencing January |
+| 2026-11-20 | Khaby Lame $975M share deal | Jan 2026, outside window |
