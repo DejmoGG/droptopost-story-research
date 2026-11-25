@@ -125,3 +125,10 @@ One row per run. Count where each story was **first found**, not where it was ve
 | 2026-W47 (19 Nov) | Korean pattern searches | 1 | 0 | 0 | pending |
 | 2026-W47 (19 Nov) | Mothership / Dexerto / Today / SFGATE / Daily Dot via domain search (B) | 7 | 0 | 0 | pending |
 | 2026-W47 (19 Nov) | Channel A feeds (Reddit/Trends RSS) | 0 (unreachable) | 0 | 0 | pending |
+| 2026-W48 (25 Nov) | Dexerto / Today / Daily Dot via domain search (B) | 6 | 1 | 0 | pending |
+| 2026-W48 (25 Nov) | Mothership / Korea Herald / Korea Times / J-CAST / The Paper via domain search (B) | 8 | 0 | 0 | pending |
+| 2026-W48 (25 Nov) | English pattern searches (owner video backlash) → The Nightly / Breslin (B) | 4 | 1 | 0 | pending |
+| 2026-W48 (25 Nov) | Simplified Chinese pattern searches → Hongcan / The Paper / GMW (B) | 2 | 1 | 0 | pending |
+| 2026-W48 (25 Nov) | Japanese pattern searches → hashout.jp | 2 | 0 | 0 | pending |
+| 2026-W48 (25 Nov) | Korean / Traditional Chinese pattern searches | 1 | 0 | 0 | pending |
+| 2026-W48 (25 Nov) | Channel A feeds (Reddit/Trends RSS) | 0 (unreachable) | 0 | 0 | pending |

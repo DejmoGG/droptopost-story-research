@@ -80,6 +80,9 @@ Every story ever shown in Report B. **Status** is yours to edit: `new` → `appr
 | 2026-11-18-B-2 | 2026-11-18 | B | Unsolicited ad crushing a 7-Eleven egg sandwich backfires on Osaka sandwich shop; shop apologises, denies ordering it | Dekasan (デカサン), 7-Eleven | 2026-11-14 → 16 | new |
 | 2026-11-19-B-1 | 2026-11-19 | B | Homeowner's Punjabi TikTok about his builder costs him A$883K damages, >A$1M with costs | Singh Homes, Gurvinderpal Singh, Parvinder Singh Sarwara, Daman Preet Singh Anand | 2024-02 → 2026-11-05 | new |
 | 2026-11-19-B-2 | 2026-11-19 | B | Taipei mayor's campaign crowd surrounds dumpling shop backing rival; review war, closure, sticky-note wall | 又一村 (Liaoning Night Market), Chiang Wan-an, Wang Hung-wei, Hsu Chiao-hsin, Puma Shen | 2026-11-06 → 09 | new |
+| 2026-11-25-B-1 | 2026-11-25 | B | Repair-shop feud video (3–4.5M views) sends death threats to the wrong Nick's Pizza an hour away; creator pays $1,000 for free pizza | Nick's Pizza and Pasta (Cinnaminson), Nick Lubrano, Sonia Scotto, Leo Mastrolia, Digital Doctor Repairs | 2026-11-20 → 24 | new |
+| 2026-11-25-B-2 | 2026-11-25 | B | Activewear brand that lived on TikTok closes after co-founder's gym video mocking a stranger; job lost, death threats | SUAVE (Perth), Connor Wright, Chloe Wright | ~mid-2026 → ~2026-08 | new |
+| 2026-11-25-B-3 | 2026-11-25 | B | Comedian praises Sanya pie shop on TV; owner's "very ordinary, he was just hungry" sign doubles takings | 立民馅饼 (Sanya), Wang Limin (王立民), Shen Teng (沈腾) | 2026-10-26 → 11-06 | new |
 
 ## Checked but not used
 | Date | Story | Why skipped |

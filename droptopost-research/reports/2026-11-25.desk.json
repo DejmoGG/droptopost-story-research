@@ -1,0 +1,92 @@
+{
+ "round": "25 Nov 2026",
+ "stories": [
+  {
+   "id": "2026-11-25-B-1",
+   "sort": 2026112598,
+   "tier": "candidate",
+   "score": 7.5,
+   "freshness": "Recent (Nov 2026, reported 22–24 Nov)",
+   "evidence": "Medium",
+   "headline": "A repair-shop owner posted a video about his feud with the pizzeria next door. The internet sent the death threats to a different pizzeria an hour away.",
+   "what": "Leo Mastrolia of Digital Doctor Repairs in Manahawkin, New Jersey, posted TikTok footage of a police officer telling him the neighbouring Nick's Pizza & Pasta owner had filed a harassment complaint. It reached 3.1M views in under a day (Dexerto; 4.5M per the NY Post). Viewers went after the wrong Nick's: an unrelated pizzeria in Cinnaminson, more than an hour away.",
+   "twist": "The Cinnaminson owners got 60+ one-star reviews in a day, fake out-of-state orders and death threats, and only learned why when a stranger tracked them down. Mastrolia then drove over, apologised in person, filmed a video redirecting followers and gave them $1,000 to hand out as free pizza.",
+   "why": "An internet mob with the wrong address, and the man who started it showing up with cash.",
+   "result": "Reported via Dexerto, NJ 101.5, Yahoo (NJ report): 60+ one-star reviews in a day; $1,000 handed over. Sales effect unknown. Police-visit details come from Mastrolia's own video.",
+   "dates": "Feud video ~20–21 Nov 2026 · apology and $1,000 reported 22–24 Nov",
+   "proof": [
+    {
+     "label": "Dexerto",
+     "url": "https://www.dexerto.com/food/innocent-pizzeria-flooded-with-death-threats-after-viral-video-sends-online-mob-to-wrong-restaurant-3431018/"
+    },
+    {
+     "label": "NJ 101.5",
+     "url": "https://nj1015.com/pizza-shop-death-threats-mixup/"
+    },
+    {
+     "label": "Yahoo News (NJ report)",
+     "url": "https://www.yahoo.com/news/articles/viral-video-sparked-death-threats-123054429.html"
+    }
+   ],
+   "note": "Entertainment 8 · Narrative 7 · Business 8 · Evidence 7 · Freshness 10. Original TikTok not found (not reachable from the cloud). Ending is small: $1,000 of free pizza."
+  },
+  {
+   "id": "2026-11-25-B-2",
+   "sort": 2026112597,
+   "tier": "candidate",
+   "score": 7.5,
+   "freshness": "Last 90 days (closure ~Aug 2026, date not confirmed)",
+   "evidence": "Medium",
+   "headline": "He said his brand's TikToks weren't reaching enough people. Then his wife posted one that reached everyone, and it killed the brand.",
+   "what": "SUAVE, a small Perth activewear brand run by Connor and Chloe Wright, marketed almost entirely on TikTok. Chloe posted a gym video that appeared to mock a stranger's rowing technique; it spread across Australia within days.",
+   "twist": "Connor apologised, then appeared to walk it back. The backlash cost him his FIFO job, brought death threats and left the couple in debt. Less than three months later SUAVE announced on Instagram that it would close. Connor: 'I've only focused on marketing SUAVE on TikTok and it wasn't reaching enough people.'",
+   "why": "One mocking clip of a stranger, and a couple loses their business, a job and their savings.",
+   "result": "Reported via The Nightly and Breslin Media Network: brand closing; job loss and threats are the founders' account. Revenue and debt unknown.",
+   "dates": "Gym video ~mid-2026 · closure announced ~Aug 2026 (not confirmed)",
+   "proof": [
+    {
+     "label": "The Nightly (closure)",
+     "url": "https://thenightly.com.au/culture/made-mistakes-perth-activewear-brand-suave-embroiled-in-controversy-over-gym-video-announces-closure-c-22718246"
+    },
+    {
+     "label": "The Nightly (apology)",
+     "url": "https://thenightly.com.au/australia/suave-activerwear-scandal-perth-fifo-worker-connor-wright-wife-chloes-grovelling-apology-as-public-turns-c-22316988"
+    },
+    {
+     "label": "Breslin Media Network",
+     "url": "https://breslinmedianetwork.com.au/perth-activewear-brand-suave-announces-closure-after-gym-video-backlash-death-th"
+    }
+   ],
+   "note": "Entertainment 7 · Narrative 8 · Business 9 · Evidence 6 · Freshness 6. Dates and who posted the video not nailed down; original video likely deleted."
+  },
+  {
+   "id": "2026-11-25-B-3",
+   "sort": 2026112596,
+   "tier": "candidate",
+   "score": 7,
+   "freshness": "This month (late Oct → 6 Nov 2026)",
+   "evidence": "High",
+   "headline": "A famous comedian praised a tiny pie shop on national TV. The owner put a sign on his door: 'The pies are very ordinary. He was just hungry.'",
+   "what": "On the variety show Xianzai Jiu Chufa, Shen Teng raved about Wang Limin's northeastern meat-pie shop in Sanya. Queues of 30–40 people formed; one report clocked 70 minutes.",
+   "twist": "Wang posted a sign saying the pies are very ordinary and Shen Teng was just hungry, telling people to buy less and eat them hot. The sign became the thing people queued to photograph. Wang says daily takings at his two shops doubled and he won't raise prices (4–7 yuan). Shen Teng turns out to be a six-year regular.",
+   "why": "The owner tried to talk people out of his own food, and it made them queue longer.",
+   "result": "Self-reported (owner, via Hongcan/ChinaVenture and The Paper): daily revenue doubled at two shops.",
+   "dates": "Show aired ~Oct 2026 · sign 26–27 Oct · follow-up 6 Nov",
+   "proof": [
+    {
+     "label": "The Paper",
+     "url": "https://www.thepaper.cn/newsDetail_forward_34336397"
+    },
+    {
+     "label": "Guangming Daily",
+     "url": "https://m.gmw.cn/2026-10/27/content_1304579651.htm"
+    },
+    {
+     "label": "ChinaVenture / Hongcan",
+     "url": "https://m.chinaventure.com.cn/news/116-20261106-393937.html"
+    }
+   ],
+   "note": "Entertainment 7 · Narrative 6 · Business 8 · Evidence 8 · Freshness 8. Mo's Chicken shape without the escalation; trigger is a celebrity mention."
+  }
+ ]
+}
