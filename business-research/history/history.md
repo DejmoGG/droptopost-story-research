@@ -107,6 +107,9 @@ The 2026-11-03 report used old labels: card **A1–A10 = A1-1…A1-10**, **B1–
 | 2026-11-19-A2-1 | 2026-11-19 | A2 | Work-boot brand from 2020 to $300M+ sales; Permira buys in at $800M+ | Brunt Workwear, Eric Girouard, Permira, Freeman Spogli | 2020 → 2026-11-18 | new |
 | 2026-11-20-A1-1 | 2026-11-20 | A1 | NBA suspends Ballmer a year, $30M fine, 5 picks over Leonard's $28M Aspiration deal; Aspiration co-founder got 14 years | LA Clippers, Steve Ballmer, Kawhi Leonard, Aspiration, Joe Sanberg | 2021 → 2026-09-02 | new |
 | 2026-11-20-A1-2 | 2026-11-20 | A1 | 'ISA' mini-bonds collapse: SFO charges eight, 7 years after £251M loss to 11,200 savers | London Capital & Finance, Simon Hume-Kendall, Michael Andrew Thomson, Helen Hume-Kendall | 2019-01 → 2026-11-16 | new |
+| 2026-11-25-A1-1 | 2026-11-25 | A1 | Huawei convicted on 10 of 12 counts: Skycom/Iran bank fraud and T-Mobile 'Tappy' robot trade secrets | Huawei, Skycom, T-Mobile, Tappy, Meng Wanzhou | 2007–2018 → 2026-11-24 | new |
+| 2026-11-25-A1-2 | 2026-11-25 | A1 | Volunteer medic allegedly raised $36.7M from fellow Hatzolah medics for fake COVID PPE deals, gambled $4.7M | Jason Doni Schlessel, Queens Hatzolah | 2020-05 → 2026-11-24 | new |
+| 2026-11-25-A3-1 | 2026-11-25 | A3 | Toilet maker's electrostatic-chuck unit earns more profit than toilets; ¥80bn chip-parts plan | TOTO, TOTO advanced ceramics | 2026-05 → 2026-06-22 | new |
 
 ## Checked but not used
 | Date | Story | Why skipped |
@@ -143,3 +146,7 @@ The 2026-11-03 report used old labels: card **A1–A10 = A1-1…A1-10**, **B1–
 | 2026-11-20 | Kim Il-doo / Open Research indictment | single source, small sums |
 | 2026-11-20 | Meade Lewis / mIQroTech plea | small; sentencing January |
 | 2026-11-20 | Khaby Lame $975M share deal | Jan 2026, outside window |
+| 2026-11-25 | Backward Hat "Let's do 9.91" texts (Fortune) | same case as 2026-11-19-A1-1, no new development |
+| 2026-11-25 | Sierra $30B valuation, $400M run-rate | already shown (2026-11-11-A3-2); routine round |
+| 2026-11-25 | Banco Master first charge | not yet confirmed |
+| 2026-11-25 | Sri Lanka Rs 4bn dividend fraud | one source, no protagonist |
