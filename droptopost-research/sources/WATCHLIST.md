@@ -132,3 +132,9 @@ One row per run. Count where each story was **first found**, not where it was ve
 | 2026-W48 (25 Nov) | Japanese pattern searches → hashout.jp | 2 | 0 | 0 | pending |
 | 2026-W48 (25 Nov) | Korean / Traditional Chinese pattern searches | 1 | 0 | 0 | pending |
 | 2026-W48 (25 Nov) | Channel A feeds (Reddit/Trends RSS) | 0 (unreachable) | 0 | 0 | pending |
+| 2026-W48 (26 Nov) | The Paper / Sina (ZH simplified pattern + outlet) (B) | 4 | 1 | 0 | pending |
+| 2026-W48 (26 Nov) | ETtoday / LTN / UDN / TVBS / SETN (ZH traditional) (B) | 4 | 1 | 0 | pending |
+| 2026-W48 (26 Nov) | Dexerto / Today / Daily Dot / NBC via domain search (B) | 5 | 0 | 0 | pending |
+| 2026-W48 (26 Nov) | Mothership / Korea Herald / J-CAST via domain search (B) | 5 | 0 | 0 | pending |
+| 2026-W48 (26 Nov) | English / Japanese / Korean pattern searches | 7 | 0 | 0 | pending |
+| 2026-W48 (26 Nov) | Channel A feeds (Reddit/Trends RSS) | 0 (unreachable) | 0 | 0 | pending |

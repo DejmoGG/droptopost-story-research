@@ -1,0 +1,67 @@
+{
+ "round": "26 Nov 2026",
+ "stories": [
+  {
+   "id": "2026-11-26-B-1",
+   "sort": 2026112698,
+   "tier": "candidate",
+   "score": 7.5,
+   "freshness": "Recent (13 → 22 Nov 2026)",
+   "evidence": "Medium",
+   "headline": "A delivery rider tasted a customer's fried chicken, didn't like it, and bought the customer a better one. Nine days later the shop that made it had to shut its doors.",
+   "what": "In Xuchang, Henan, a delivery rider filmed himself trying a customer's fried chicken, disliking it and buying a portion from a small pizza shop instead, calling it \"treetree的\" (crunchy). The clip spread from 13 Nov. The pizza shop, run by a couple since 2019, normally sold 10–20 portions of fried chicken a day; now a day's batch sold out three minutes after going on the menu.",
+   "twist": "The couple prepped until 1–2 a.m. for seven or eight nights on about four hours' sleep; the owner was filmed apologising at the door to customers chasing orders before dawn. On 22 Nov he asked people to calm down, put up \"sold out\" and closed to rest. He won't expand and will go back to pizza. The rider gained ~1.09M followers and denied it was a paid ad.",
+   "why": "A stranger's one-word review nearly broke a two-person shop.",
+   "result": "Reported via The Paper and Sina reposts: a day's stock sold in 3 minutes; usual 10–20 portions/day (owner); shop paused trading 22 Nov. Revenue unknown. Rider +1.087M followers (reported).",
+   "dates": "Rider's video ~13 Nov 2026 · closure video 22 Nov · coverage 22–25 Nov",
+   "proof": [
+    {
+     "label": "The Paper (owner can't cope)",
+     "url": "https://www.thepaper.cn/newsDetail_forward_34538425"
+    },
+    {
+     "label": "The Paper (forced to close)",
+     "url": "https://www.thepaper.cn/newsDetail_forward_34540576"
+    },
+    {
+     "label": "Sina / 九派新闻",
+     "url": "https://www.sina.cn/weibo/detail/5368183349577296.html"
+    },
+    {
+     "label": "Sina / 大河报",
+     "url": "https://www.sina.cn/news/detail/5369415531236005.html"
+    }
+   ],
+   "note": "Entertainment 8 · Narrative 7 · Business 9 · Evidence 7 · Freshness 10. Mo's Chicken shape without the later turn yet; original Douyin clip not reachable. Re-check next week."
+  },
+  {
+   "id": "2026-11-26-B-2",
+   "sort": 2026112697,
+   "tier": "candidate",
+   "score": 7,
+   "freshness": "Last 90 days (16 Oct 2026)",
+   "evidence": "Medium",
+   "headline": "A customer jumped the queue and insulted the doughnut guy. He vaulted the counter and chased her. The next day the queue was longer.",
+   "what": "At 捲髮奶奶 milk doughnuts in Ximending, Taipei, a woman tried to cut the queue on 16 Oct and insulted the clerk; they threw things and he jumped the counter and chased her. Passers-by filmed it.",
+   "twist": "The clip (reported 10M+ views) made the clerk a hero: people queued for days to buy doughnuts to support him. The shop kept him ('internal coaching'), apologised to frightened customers and promised better queue management; police handled both under the Social Order Maintenance Act and neither pressed charges.",
+   "why": "Everyone has wanted to do what he did, once.",
+   "result": "Reported via LTN and NOWnews: queues for days; sales unknown.",
+   "dates": "Fight 16 Oct 2026 · statement and queues 17–20 Oct",
+   "proof": [
+    {
+     "label": "Liberty Times",
+     "url": "https://news.ltn.com.tw/news/life/breakingnews/5612261"
+    },
+    {
+     "label": "NOWnews",
+     "url": "https://www.nownews.com/news/6779495"
+    },
+    {
+     "label": "UDN",
+     "url": "https://udn.com/news/story/7266/9847673"
+    }
+   ],
+   "note": "Entertainment 8 · Narrative 6 · Business 7 · Evidence 7 · Freshness 6. No second development or payoff number; original clip not reached."
+  }
+ ]
+}

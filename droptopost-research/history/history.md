@@ -83,6 +83,8 @@ Every story ever shown in Report B. **Status** is yours to edit: `new` → `appr
 | 2026-11-25-B-1 | 2026-11-25 | B | Repair-shop feud video (3–4.5M views) sends death threats to the wrong Nick's Pizza an hour away; creator pays $1,000 for free pizza | Nick's Pizza and Pasta (Cinnaminson), Nick Lubrano, Sonia Scotto, Leo Mastrolia, Digital Doctor Repairs | 2026-11-20 → 24 | new |
 | 2026-11-25-B-2 | 2026-11-25 | B | Activewear brand that lived on TikTok closes after co-founder's gym video mocking a stranger; job lost, death threats | SUAVE (Perth), Connor Wright, Chloe Wright | ~mid-2026 → ~2026-08 | new |
 | 2026-11-25-B-3 | 2026-11-25 | B | Comedian praises Sanya pie shop on TV; owner's "very ordinary, he was just hungry" sign doubles takings | 立民馅饼 (Sanya), Wang Limin (王立民), Shen Teng (沈腾) | 2026-10-26 → 11-06 | new |
+| 2026-11-26-B-1 | 2026-11-26 | B | Rider's 'treetree' fried-chicken clip swamps a two-person Xuchang pizza shop; 3-minute sell-outs, owner apologises at the door and closes to rest | Xuchang pizza shop (我家西厨食品销售店), treetree 炸鸡 rider | 2026-11-13 → 22 | new |
+| 2026-11-26-B-2 | 2026-11-26 | B | Taipei doughnut clerk vaults counter and chases queue-jumper; 10M+ views, queues to support him, shop keeps him | 捲髮奶奶 Curly Grandma doughnuts (Ximending) | 2026-10-16 | new |
 
 ## Checked but not used
 | Date | Story | Why skipped |
@@ -94,3 +96,5 @@ Every story ever shown in Report B. **Status** is yours to edit: `new` → `appr
 | 2026-11-03 | Neutrogena / Hayden Panettiere boycott | tied to a death |
 | 2026-11-03 | Big Lee's BBQ $100K in 3 weeks | TikTok promo source only |
 | 2026-11-03 | 19-year-old Michigan taco shop (Apr 2026) | matches REF-02 |
+| 2026-11-26 | Brooklyn window-steak pop-up shut down | no turn after shutdown |
+| 2026-11-26 | Japanese 町中華 closes after No. 1 ranking | still one anonymous X post |
