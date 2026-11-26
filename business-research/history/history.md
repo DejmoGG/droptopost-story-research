@@ -110,6 +110,10 @@ The 2026-11-03 report used old labels: card **A1–A10 = A1-1…A1-10**, **B1–
 | 2026-11-25-A1-1 | 2026-11-25 | A1 | Huawei convicted on 10 of 12 counts: Skycom/Iran bank fraud and T-Mobile 'Tappy' robot trade secrets | Huawei, Skycom, T-Mobile, Tappy, Meng Wanzhou | 2007–2018 → 2026-11-24 | new |
 | 2026-11-25-A1-2 | 2026-11-25 | A1 | Volunteer medic allegedly raised $36.7M from fellow Hatzolah medics for fake COVID PPE deals, gambled $4.7M | Jason Doni Schlessel, Queens Hatzolah | 2020-05 → 2026-11-24 | new |
 | 2026-11-25-A3-1 | 2026-11-25 | A3 | Toilet maker's electrostatic-chuck unit earns more profit than toilets; ¥80bn chip-parts plan | TOTO, TOTO advanced ceramics | 2026-05 → 2026-06-22 | new |
+| 2026-11-26-A1-1 | 2026-11-26 | A1 | 'Ransomware recovery' firm allegedly had no recovery tech, paid hackers and billed victims the markup; FBI sting | Juan Ricardo Palacio Escobar, RansomwareHelp | 2020 → 2026-11-25 | new |
+| 2026-11-26-A1-2 | 2026-11-26 | A1 | Virtual-school director convicted over 4,500 ghost students, $44M state funding | Phillip Holden, Indiana Virtual School, Indiana Virtual Pathways Academy, Percy Clark | 2016–2018 → 2026-11-05 | new |
+| 2026-11-26-A2-1 | 2026-11-26 | A2 | Ex-ballerina co-founder's prediction market at $40bn, talks at $65bn, sued by 23 states | Luana Lopes Lara, Tarek Mansour, Kalshi | 2018 → 2026-11-23 | new |
+| 2026-11-26-A3-1 | 2026-11-26 | A3 | Discount snack chain: 30,000 franchised stores on 11.5% gross margin, IPO +70% | Busy Ming, Busy Snacks, Zhao Yiming Snacks | 2023 → 2026-08 | new |
 
 ## Checked but not used
 | Date | Story | Why skipped |
@@ -150,3 +154,7 @@ The 2026-11-03 report used old labels: card **A1–A10 = A1-1…A1-10**, **B1–
 | 2026-11-25 | Sierra $30B valuation, $400M run-rate | already shown (2026-11-11-A3-2); routine round |
 | 2026-11-25 | Banco Master first charge | not yet confirmed |
 | 2026-11-25 | Sri Lanka Rs 4bn dividend fraud | one source, no protagonist |
+| 2026-11-26 | Backward Hat Capital CFTC complaint | already shown (2026-11-19-A1-1) |
+| 2026-11-26 | NovaTech founders $1.3M NY judgment | civil follow-up, small |
+| 2026-11-26 | Sri Lanka Rs 4bn plantation fraud, 4th arrest | no protagonist |
+| 2026-11-26 | Banco Master first charge | still not confirmed |
