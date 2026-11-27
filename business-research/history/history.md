@@ -114,6 +114,10 @@ The 2026-11-03 report used old labels: card **A1–A10 = A1-1…A1-10**, **B1–
 | 2026-11-26-A1-2 | 2026-11-26 | A1 | Virtual-school director convicted over 4,500 ghost students, $44M state funding | Phillip Holden, Indiana Virtual School, Indiana Virtual Pathways Academy, Percy Clark | 2016–2018 → 2026-11-05 | new |
 | 2026-11-26-A2-1 | 2026-11-26 | A2 | Ex-ballerina co-founder's prediction market at $40bn, talks at $65bn, sued by 23 states | Luana Lopes Lara, Tarek Mansour, Kalshi | 2018 → 2026-11-23 | new |
 | 2026-11-26-A3-1 | 2026-11-26 | A3 | Discount snack chain: 30,000 franchised stores on 11.5% gross margin, IPO +70% | Busy Ming, Busy Snacks, Zhao Yiming Snacks | 2023 → 2026-08 | new |
+| 2026-11-27-A1-1 | 2026-11-27 | A1 | UPDATE of 2026-11-18-A1-1: Nvidia board reinstates Jensen Huang 11 days after resignation; SEC accounting inquiry reported | Jensen Huang, Nvidia, Colette Kress, Harvey Jones, Megaspeed | 2026-11-12 → 23 | new |
+| 2026-11-27-A1-2 | 2026-11-27 | A1 | Builder of Bangkok tower that fell in quake: Chinese director jailed 3 years for Thai nominee ownership | China Railway No. 10 (Thailand), Chuanling Zhang, State Audit Office building | 2025-03-28 → 2026-11-18 | new |
+| 2026-11-27-A2-1 | 2026-11-27 | A2 | Founder bought closed Kraft yogurt plant with SBA loan; Chobani now $20bn, $3.8bn revenue | Hamdi Ulukaya, Chobani | 2005-08 → 2026-08 | new |
+| 2026-11-27-A3-1 | 2026-11-27 | A3 | 'Business supermarket' owns ~25 food factories, franchises 1,100+ stores, record profit | Kobe Bussan, Gyomu Super | FY2025 → 2026 guidance | new |
 
 ## Checked but not used
 | Date | Story | Why skipped |
@@ -158,3 +162,9 @@ The 2026-11-03 report used old labels: card **A1–A10 = A1-1…A1-10**, **B1–
 | 2026-11-26 | NovaTech founders $1.3M NY judgment | civil follow-up, small |
 | 2026-11-26 | Sri Lanka Rs 4bn plantation fraud, 4th arrest | no protagonist |
 | 2026-11-26 | Banco Master first charge | still not confirmed |
+| 2026-11-27 | Jide Omokore '7 years' (billionaires.africa) | conflicts with 2023 acquittal, one source |
+| 2026-11-27 | SEC v. Michael Hanlon / J. Streicher ($15M) | generic adviser case |
+| 2026-11-27 | SEC: 8 Colorado entities, $37M crypto | no named person |
+| 2026-11-27 | Upwind $400M after 'rejecting Datadog' | offer disputed; routine round |
+| 2026-11-27 | Anthropic Nasdaq IPO | routine market news |
+| 2026-11-27 | Banco Master first charge | still not confirmed |
