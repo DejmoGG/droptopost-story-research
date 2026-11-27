@@ -7,8 +7,8 @@ Rate every new DropToPost story on your phone, no GitHub needed: **https://claud
 New stories appear there around 07:40 each morning: a scheduled task in the Claude app on the PC copies `reports/YYYY-MM-DD.desk.json` onto the Desk. If the PC is off, it catches up when the app next opens.
 
 ## Latest
-- **Report A — Business & investment:** [2026-11-26](business-research/reports/2026-11-26.md) (4 stories: "ransomware recovery" firm charged with secretly paying hackers, virtual-school director convicted over 4,500 ghost students, Kalshi co-founder profile, Busy Ming's 30,000 snack shops)
-- **Report B — DropToPost audience:** [2026-11-26](droptopost-research/reports/2026-11-26.md) (no pick today; 2 candidates)
+- **Report A — Business & investment:** [2026-11-27](business-research/reports/2026-11-27.md) (4 stories: UPDATE Nvidia reinstates Jensen Huang 11 days after he quit, Bangkok quake-tower builder's director jailed over Thai nominees, Chobani's closed-factory start, Gyomu Super's factory-owning discounter)
+- **Report B — DropToPost audience:** [2026-11-27](droptopost-research/reports/2026-11-27.md) (no pick today; 1 candidate)
 
 ## All reports
 - [Report A archive](business-research/reports/)
