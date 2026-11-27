@@ -1,0 +1,27 @@
+{
+ "round": "27 Nov 2026",
+ "stories": [
+  {
+   "id": "2026-11-27-B-1",
+   "sort": 2026112798,
+   "tier": "candidate",
+   "score": 7,
+   "freshness": "This month (18 Oct → 26 Nov 2026)",
+   "evidence": "Medium",
+   "headline": "A famous actress saw herself on a sales video, selling face cream she had never heard of. It wasn't her. At 3 a.m. she went after them.",
+   "what": "On 18 Oct actress Wu Yue posted on Weibo in the early hours naming the account 花姐美肤日记, which had used AI face-swap and voice cloning to make her recommend a cheap skincare product in the first person. The same account had faked Olympic champions Deng Yaping and Guo Jingjing. WeChat Channels banned it permanently.",
+   "twist": "Reporters found sellers offering custom deepfake celebrity sales videos for about ¥1,000 a minute from one photo. About five weeks later (26 Nov) the brand behind the product apologised, removed the content and promised full refunds on the related orders; Wu's studio accepted (Sina Finance report, not yet confirmed by a second outlet).",
+   "why": "Imagine finding a video of yourself selling something you've never touched, in your own voice.",
+   "result": "Account banned (Yicai, GMW). Refunds on all related orders (Sina Finance, 26 Nov; amounts unknown). Sales before the ban: unknown.",
+   "dates": "Call-out 18 Oct 2026 · CCTV interview 20 Oct · brand apology ~26 Nov 2026",
+   "proof": [
+    {"label": "Yicai", "url": "https://www.yicai.com/news/103397840.html"},
+    {"label": "GMW", "url": "https://m.gmw.cn/2026-10/20/content_1304577396.htm"},
+    {"label": "Sina Finance (20 Oct)", "url": "https://finance.sina.cn/2026-10-20/detail-inivuvsc6071458.d.html"},
+    {"label": "Sohu (¥1,000/min investigation)", "url": "https://m.sohu.com/a/1089337421_250147"},
+    {"label": "Sina Finance (26 Nov, apology and refunds)", "url": "https://finance.sina.cn/2026-11-26/detail-inkaaaxi3738948.d.html"}
+   ],
+   "note": "Entertainment 7 · Narrative 7 · Business 7 · Evidence 6 · Freshness 8. Candidate, not a pick: the refund turn comes from one report and no original footage was found (the account's videos were deleted). Brand name 欣芝妍 seen in one search summary only."
+  }
+ ]
+}

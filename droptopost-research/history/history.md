@@ -85,6 +85,7 @@ Every story ever shown in Report B. **Status** is yours to edit: `new` → `appr
 | 2026-11-25-B-3 | 2026-11-25 | B | Comedian praises Sanya pie shop on TV; owner's "very ordinary, he was just hungry" sign doubles takings | 立民馅饼 (Sanya), Wang Limin (王立民), Shen Teng (沈腾) | 2026-10-26 → 11-06 | new |
 | 2026-11-26-B-1 | 2026-11-26 | B | Rider's 'treetree' fried-chicken clip swamps a two-person Xuchang pizza shop; 3-minute sell-outs, owner apologises at the door and closes to rest | Xuchang pizza shop (我家西厨食品销售店), treetree 炸鸡 rider | 2026-11-13 → 22 | new |
 | 2026-11-26-B-2 | 2026-11-26 | B | Taipei doughnut clerk vaults counter and chases queue-jumper; 10M+ views, queues to support him, shop keeps him | 捲髮奶奶 Curly Grandma doughnuts (Ximending) | 2026-10-16 | new |
+| 2026-11-27-B-1 | 2026-11-27 | B | Actress Wu Yue calls out AI face-and-voice clone selling skincare; account banned; brand apologises and refunds all orders | Wu Yue (吴越), 花姐美肤日记, 欣芝妍, Deng Yaping, Guo Jingjing | 2026-10-18 → 11-26 | new |
 
 ## Checked but not used
 | Date | Story | Why skipped |
@@ -98,3 +99,7 @@ Every story ever shown in Report B. **Status** is yours to edit: `new` → `appr
 | 2026-11-03 | 19-year-old Michigan taco shop (Apr 2026) | matches REF-02 |
 | 2026-11-26 | Brooklyn window-steak pop-up shut down | no turn after shutdown |
 | 2026-11-26 | Japanese 町中華 closes after No. 1 ranking | still one anonymous X post |
+| 2026-11-27 | 'French Goku' Micromania Nice manager vs looters | business a bystander |
+| 2026-11-27 | Munchy's Pizza hand-drawn anti-AI ads | payoff is views only |
+| 2026-11-27 | Once Upon a Child stolen-shoes post backlash | single source, ordinary backlash |
+| 2026-11-27 | Denny's Jensen Huang plaque removed/restored | giant brand, footnote to Report A |
